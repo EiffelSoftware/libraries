@@ -1,5 +1,7 @@
 * text=auto !eol
 Src/examples/base/desc-32/test.ico svneol=native#unset
+Src/examples/base/desc-32/testdesc.dll -text
+Src/examples/base/desc-32/testdesc.lib -text
 Src/examples/cpp/mystring/test_cpp.ico svneol=native#unset
 Src/examples/old_com/Analyzer/Client/application.ico svneol=native#unset
 Src/examples/old_com/Analyzer/Client/toolbar.bmp svneol=native#unset
