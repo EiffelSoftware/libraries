@@ -10,6 +10,12 @@ Src/examples/old_com/Compound/child.ico svneol=native#unset
 Src/examples/old_com/Compound/compound.ico svneol=native#unset
 Src/examples/old_com/Wordbasic/wordbasic.ico svneol=native#unset
 Src/examples/thread/fancy/fancy.ico svneol=native#unset
+Src/examples/vision2/test_all_widgets/pixmaps/power_small.bmp -text
+Src/examples/vision2/test_all_widgets/pixmaps/power_small.xpm -text svneol=unset#application/octet-stream
+Src/examples/vision2/test_all_widgets/pixmaps/vision.bmp -text
+Src/examples/vision2/test_all_widgets/pixmaps/vision.xpm -text svneol=unset#application/octet-stream
+Src/examples/vision2/test_all_widgets/pixmaps/vision_tower.bmp -text
+Src/examples/vision2/test_all_widgets/pixmaps/vision_tower.xpm -text svneol=unset#application/octet-stream
 Src/examples/wel/bmpview/app.ico svneol=native#unset
 Src/examples/wel/bmpview/child.ico svneol=native#unset
 Src/examples/wel/bmpview/wel1.bmp svneol=native#unset
