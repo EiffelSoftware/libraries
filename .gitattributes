@@ -42,6 +42,7 @@ Src/examples/wel/controls/controls_demo.ico svneol=native#unset
 Src/examples/wel/ctlcolor/ctlcolor_demo.ico svneol=native#unset
 Src/examples/wel/cursors/cursors_demo.ico svneol=native#unset
 Src/examples/wel/cursors/custom.cur svneol=native#unset
+Src/examples/wel/diskspace/diskspace_demo.ico -text
 Src/examples/wel/fontenum/fontenum_demo.ico svneol=native#unset
 Src/examples/wel/fun/artist.ico svneol=native#unset
 Src/examples/wel/fun/fun_demo.ico svneol=native#unset
