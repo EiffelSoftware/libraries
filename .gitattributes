@@ -54,6 +54,10 @@ Src/examples/wel/richedit/richedit_demo.ico svneol=native#unset
 Src/examples/wel/richedit/toolbar.bmp svneol=native#unset
 Src/examples/wel/stddlgs/stddlg_demo.ico svneol=native#unset
 Src/examples/wel/timer/timer_demo.ico svneol=native#unset
+Src/examples/wel/tree_view/doc_n.bmp svneol=native#unset
+Src/examples/wel/tree_view/doc_s.bmp svneol=native#unset
+Src/examples/wel/tree_view/folder_n.bmp svneol=native#unset
+Src/examples/wel/tree_view/folder_s.bmp svneol=native#unset
 Src/examples/wel/tree_view/treeview_demo.ico svneol=native#unset
 Src/examples/wel/tutorial/drawing.drw -text
 Src/examples/wel/tutorial/step1/app.ico svneol=native#unset
