@@ -7,6 +7,8 @@ Src/examples/base/desc-32/testdesc.lib -text
 Src/examples/com/compound/child.ico -text
 Src/examples/com/compound/compound.ico -text
 Src/examples/cpp/mystring/test_cpp.ico svneol=native#unset
+Src/examples/dotnet/winforms/gdi_plus/text/colorbars.jpg -text
+Src/examples/dotnet/winforms/gdi_plus/text/marble.jpg -text
 Src/examples/old_com/Analyzer/Client/application.ico svneol=native#unset
 Src/examples/old_com/Analyzer/Client/toolbar.bmp svneol=native#unset
 Src/examples/old_com/Analyzer/Server/application.ico svneol=native#unset
