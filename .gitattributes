@@ -83,7 +83,6 @@ Src/examples/wel/tutorial/step2/app.ico svneol=native#unset
 Src/examples/wel/tutorial/step3/app.ico svneol=native#unset
 Src/examples/wel/tutorial/step4/app.ico svneol=native#unset
 Src/examples/wel/tutorial/weltutor.hlp -text
-Src/examples/wel/unicode/clib/wel_imm.lib svneol=native#unset
 Src/examples/wel/win98_unicode/brushes_demo.ico -text
 Src/examples/wel/win98_unicode/clib/eiflocale.lib svneol=native#unset
 Src/examples/wel/win98_unicode/clib/unicows.lib svneol=native#unset
