@@ -26,7 +26,7 @@ feature {NONE} -- Initialization
 
 feature -- Access
 
-	buffer: STRING
+	buffer: WEL_STRING
 			-- Buffer to set in `read_buffer'.
 
 feature -- Basic operations
@@ -49,17 +49,11 @@ feature {NONE} -- Implementation
 			-- `a_data_length' is a C-pointer to an integer, that has to
 			-- be set to the length of the data that was actually
 			-- written into `a_buffer'.
-		local
-			a: ANY
 		do
-		
 			stream_result := 0
 			read_buffer (a_buffer_length)
-
-			a := buffer.area
-			a_buffer.memory_copy ($a, buffer.count)
+			a_buffer.memory_copy (buffer.item, buffer.count)
 			cwel_set_integer_reference_value (a_data_length, buffer.count)
-			
 			Result := stream_result
 		end
 
