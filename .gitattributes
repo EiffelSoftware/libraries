@@ -31,7 +31,6 @@ Src/examples/vision2/test_all_widgets/pixmaps/vision_tower.xpm -text svneol=unse
 Src/examples/wel/bmpview/bmpview_demo.ico svneol=native#unset
 Src/examples/wel/bmpview/child.ico svneol=native#unset
 Src/examples/wel/bmpview/wel-16c.bmp -text
-Src/examples/wel/bmpview/wel-24bits.bmp -text
 Src/examples/wel/bmpview/wel-256c.bmp -text
 Src/examples/wel/brushes/brushes_demo.ico svneol=native#unset
 Src/examples/wel/brushes/eiffel.bmp -text
