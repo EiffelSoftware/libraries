@@ -28,6 +28,7 @@ Src/examples/vision2/test_all_widgets/pixmaps/vision.bmp -text
 Src/examples/vision2/test_all_widgets/pixmaps/vision.xpm -text svneol=unset#application/octet-stream
 Src/examples/vision2/test_all_widgets/pixmaps/vision_tower.bmp -text
 Src/examples/vision2/test_all_widgets/pixmaps/vision_tower.xpm -text svneol=unset#application/octet-stream
+Src/examples/vision2/viewport/bm_About.png -text
 Src/examples/vision2/widgets/bm_About.png -text
 Src/examples/vision2/widgets/icon_wizard_blank_project.png -text
 Src/examples/wel/bmpview/bmpview_demo.ico svneol=native#unset
