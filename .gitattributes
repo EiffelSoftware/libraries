@@ -83,9 +83,6 @@ Src/examples/wel/tutorial/step2/app.ico svneol=native#unset
 Src/examples/wel/tutorial/step3/app.ico svneol=native#unset
 Src/examples/wel/tutorial/step4/app.ico svneol=native#unset
 Src/examples/wel/tutorial/weltutor.hlp -text
-Src/examples/wel/win98_unicode/brushes_demo.ico -text
-Src/examples/wel/win98_unicode/eiffel.bmp -text
-Src/examples/wel/win98_unicode/unicows.dll svneol=native#unset
 Src/examples/wel/windows/off.bmp svneol=native#unset
 Src/examples/wel/windows/on.bmp svneol=native#unset
 Src/examples/wel/windows/windows_demo.ico svneol=native#unset
