@@ -8,6 +8,7 @@ Src/examples/wel/brushes/eiffel.bmp -text
 Src/examples/wel/controls/app.ico svneol=native#unset
 Src/examples/wel/cursors/app.ico svneol=native#unset
 Src/examples/wel/cursors/custom.cur svneol=native#unset
+Src/examples/wel/fontenum/app.ico svneol=native#unset
 Src/examples/wel/fun/app.ico svneol=native#unset
 Src/examples/wel/fun/artist.ico svneol=native#unset
 Src/examples/wel/fun/invisibl.cur svneol=native#unset
