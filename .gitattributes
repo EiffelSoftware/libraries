@@ -149,9 +149,6 @@ Src/library/gobo/doc/structure/search.gif svneol=native#unset
 Src/library/gobo/doc/structure/sort.gif svneol=native#unset
 Src/library/gobo/doc/structure/stack.gif svneol=native#unset
 Src/library/gobo/doc/structure/table.gif svneol=native#unset
-Src/library/time/doc/eiffeltime.bmp -text
-Src/library/time/doc/eiffeltime.pdf -text
-Src/library/time/doc/time_compressed.bmp -text
 Src/library/wel/extra/h2e.ico svneol=native#unset
 Src/library/wel/extra/h2e1.ico svneol=native#unset
 Src/library/wel/extra/h2e2.ico svneol=native#unset
