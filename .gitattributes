@@ -118,6 +118,8 @@ Src/examples/wel/xcell/start.bmp svneol=native#unset
 Src/examples/wel/xcell/xcell.bmp svneol=native#unset
 Src/examples/wel/xy/app.ico svneol=native#unset
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
+Src/library/matisse/matisse_externals/Clib/mt_support.lib svneol=native#unset
+Src/library/matisse/matisse_externals/Clib/mt_support.lib-finalize svneol=native#unset
 Src/library/store/doc/Postscript/body.pdf -text
 Src/library/store/doc/Postscript/front_page.pdf -text
 Src/library/time/doc/eiffeltime.pdf -text
