@@ -18,10 +18,6 @@ Src/examples/thread/fancy/fancy.ico svneol=native#unset
 Src/examples/vision2/drawing_area/car.png -text
 Src/examples/vision2/multicolumn_list/eiffel.png -text
 Src/examples/vision2/multicolumn_list/eiffeldoc.png -text
-Src/examples/vision2/pixmap/gray.ico -text
-Src/examples/vision2/pixmap/gray.png -text svneol=unset#application/octet-stream
-Src/examples/vision2/pixmap/green.ico svneol=native#unset
-Src/examples/vision2/pixmap/magenta.png -text svneol=unset#application/octet-stream
 Src/examples/vision2/test_all_widgets/pixmaps/power_small.bmp -text
 Src/examples/vision2/test_all_widgets/pixmaps/power_small.xpm -text svneol=unset#application/octet-stream
 Src/examples/vision2/test_all_widgets/pixmaps/vision.bmp -text
