@@ -1,4 +1,6 @@
 * text=auto !eol
+Src/examples/cecil/Eiffel2C/object/core svneol=native#unset
+Src/examples/cecil/Eiffel2C/object/fext.o svneol=native#unset
 Src/examples/cpp/mystring/test_cpp.ico svneol=native#unset
 Src/examples/old_com/Analyzer/Client/application.ico svneol=native#unset
 Src/examples/old_com/Analyzer/Client/toolbar.bmp svneol=native#unset
