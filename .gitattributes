@@ -31,6 +31,14 @@ Src/examples/vision2/pixmap/blue.ico -text
 Src/examples/vision2/pixmap/gray.ico -text
 Src/examples/vision2/pixmap/gray.png -text
 Src/examples/vision2/pixmap/magenta.png -text
+Src/examples/vision2/rich_text/bold.png -text
+Src/examples/vision2/rich_text/center_alignment.png -text
+Src/examples/vision2/rich_text/italic.png -text
+Src/examples/vision2/rich_text/justified.png -text
+Src/examples/vision2/rich_text/left_alignment.png -text
+Src/examples/vision2/rich_text/right_alignment.png -text
+Src/examples/vision2/rich_text/strike.png -text
+Src/examples/vision2/rich_text/underline.png -text
 Src/examples/vision2/test_all_widgets/pixmaps/power_small.bmp -text
 Src/examples/vision2/test_all_widgets/pixmaps/power_small.xpm -text svneol=unset#application/octet-stream
 Src/examples/vision2/test_all_widgets/pixmaps/vision.bmp -text
