@@ -182,14 +182,7 @@ Src/library/gobo/doc/structure/sort.gif svneol=native#unset
 Src/library/gobo/doc/structure/stack.gif svneol=native#unset
 Src/library/gobo/doc/structure/table.gif svneol=native#unset
 Src/library/store/dbms/rdbms/odbc/Clib/ODBC32.LIB svneol=native#unset
-Src/library/vision2/release/test/black.png svneol=native#unset
-Src/library/vision2/release/test/hole.png svneol=native#unset
-Src/library/vision2/release/test/pool1.png svneol=native#unset
-Src/library/vision2/release/test/pool2.png svneol=native#unset
-Src/library/vision2/release/test/pool3.png svneol=native#unset
-Src/library/vision2/release/test/pool4.png svneol=native#unset
-Src/library/vision2/release/test/test_pixmap svneol=native#unset
-Src/library/vision2/release/test/vision.png svneol=native#unset
+Src/library/vision2/documentation/ev_any_imp.pdf -text
 Src/library/wel/extra/h2e.ico svneol=native#unset
 Src/library/wel/extra/h2e1.ico svneol=native#unset
 Src/library/wel/extra/h2e2.ico svneol=native#unset
