@@ -1,5 +1,4 @@
 * text=auto !eol
-Src/C_library/expat/expat.suo -text
 Src/C_library/libpng/contrib/visupng/VisualPng.ico svneol=native#unset
 Src/C_library/libpng/pngbar.jpg svneol=native#unset
 Src/C_library/libpng/projects/beos/x86-shared.proj svneol=native#unset
