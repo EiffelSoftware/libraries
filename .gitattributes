@@ -192,3 +192,4 @@ Src/library/vision2/release/test/vision.png svneol=native#unset
 Src/library/wel/extra/h2e.ico svneol=native#unset
 Src/library/wel/extra/h2e1.ico svneol=native#unset
 Src/library/wel/extra/h2e2.ico svneol=native#unset
+Src/library/wizard/help/Clib/htmlhelp.lib -text
