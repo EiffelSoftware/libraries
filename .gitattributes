@@ -7,8 +7,6 @@ Src/examples/base/desc-32/testdesc.lib -text
 Src/examples/com/compound/child.ico -text
 Src/examples/com/compound/compound.ico -text
 Src/examples/cpp/mystring/test_cpp.ico svneol=native#unset
-Src/examples/dotnet/winforms/applications/world_calc/math.dll -text
-Src/examples/dotnet/winforms/applications/world_calc/parserutils.dll -text
 Src/examples/dotnet/winforms/control_reference/tree_view_ctl/clsdfold.bmp -text
 Src/examples/dotnet/winforms/control_reference/tree_view_ctl/club.bmp -text
 Src/examples/dotnet/winforms/control_reference/tree_view_ctl/diamond.bmp -text
