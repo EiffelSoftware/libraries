@@ -33,6 +33,7 @@ Src/examples/vision2/pixmap/gray.png -text
 Src/examples/vision2/pixmap/magenta.png -text
 Src/examples/vision2/rich_text/bold.png -text
 Src/examples/vision2/rich_text/center_alignment.png -text
+Src/examples/vision2/rich_text/icon_save_color.png -text
 Src/examples/vision2/rich_text/italic.png -text
 Src/examples/vision2/rich_text/justified.png -text
 Src/examples/vision2/rich_text/left_alignment.png -text
