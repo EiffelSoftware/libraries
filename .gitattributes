@@ -112,6 +112,7 @@ Src/examples/wel/xcell/spades9.bmp svneol=native#unset
 Src/examples/wel/xcell/start.bmp svneol=native#unset
 Src/examples/wel/xcell/xcell.bmp svneol=native#unset
 Src/examples/wel/xy/app.ico svneol=native#unset
+Src/library/matisse/matisse_externals/Clib/c_src.zip svneol=native#unset
 Src/library/wel/extra/h2e.ico svneol=native#unset
 Src/library/wel/extra/h2e1.ico svneol=native#unset
 Src/library/wel/extra/h2e2.ico svneol=native#unset
