@@ -36,6 +36,7 @@ Src/examples/wel/bmpview/wel-16c.bmp -text
 Src/examples/wel/bmpview/wel-24bits.bmp -text
 Src/examples/wel/bmpview/wel-256c.bmp -text
 Src/examples/wel/brushes/brushes_demo.ico svneol=native#unset
+Src/examples/wel/brushes/eiffel.bmp -text
 Src/examples/wel/comctrls/comctrls_demo.ico svneol=native#unset
 Src/examples/wel/comctrls/toolbar.bmp svneol=native#unset
 Src/examples/wel/commands/commands_demo.ico svneol=native#unset
