@@ -41,6 +41,7 @@ Src/examples/wel/tutorial/step5/app.ico svneol=native#unset
 Src/examples/wel/tutorial/step6/app.ico svneol=native#unset
 Src/examples/wel/tutorial/step7/app.ico svneol=native#unset
 Src/examples/wel/tutorial/step8/app.ico svneol=native#unset
+Src/examples/wel/tutorial/weltutor.hlp -text
 Src/examples/wel/windows/app.ico svneol=native#unset
 Src/examples/wel/windows/off.bmp svneol=native#unset
 Src/examples/wel/windows/on.bmp svneol=native#unset
