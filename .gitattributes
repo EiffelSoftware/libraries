@@ -24,6 +24,8 @@ Src/examples/wel/pizza/thick.ico -text
 Src/examples/wel/pizza/thin.ico -text
 Src/examples/wel/pizza/togo.ico -text
 Src/examples/wel/printer/app.ico svneol=native#unset
+Src/examples/wel/richedit/app.ico svneol=native#unset
+Src/examples/wel/richedit/toolbar.bmp svneol=native#unset
 Src/examples/wel/stddlgs/app.ico svneol=native#unset
 Src/examples/wel/windows/app.ico svneol=native#unset
 Src/examples/wel/windows/off.bmp svneol=native#unset
