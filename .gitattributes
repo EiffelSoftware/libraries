@@ -1,4 +1,6 @@
 * text=auto !eol
+Src/C_library/libpng/contrib/visupng/VisualPng.ico svneol=native#unset
+Src/C_library/libpng/pngbar.jpg svneol=native#unset
 Src/examples/base/desc-32/test.ico svneol=native#unset
 Src/examples/base/desc-32/testdesc.dll -text
 Src/examples/base/desc-32/testdesc.lib -text
