@@ -6,6 +6,7 @@ Src/examples/old_com/Analyzer/Server/application.ico svneol=native#unset
 Src/examples/old_com/Compound/child.ico svneol=native#unset
 Src/examples/old_com/Compound/compound.ico svneol=native#unset
 Src/examples/old_com/Wordbasic/wordbasic.ico svneol=native#unset
+Src/examples/thread/fancy/fancy.ico svneol=native#unset
 Src/examples/wel/bmpview/app.ico svneol=native#unset
 Src/examples/wel/bmpview/child.ico svneol=native#unset
 Src/examples/wel/bmpview/wel1.bmp svneol=native#unset
