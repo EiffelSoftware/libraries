@@ -19,4 +19,16 @@ feature -- Removal
 		deferred
 		end
 
+feature {NONE} -- Status report
+
+	is_in_final_collect: BOOLEAN is
+			-- Is GC currently performing final collection
+			-- after execution of current program?
+			-- Safe to use in `dispose'.
+		external
+			"C macro use %"eif_memory.h%""
+		alias
+			"eif_is_in_final_collect"
+		end
+	
 end
