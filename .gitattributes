@@ -46,6 +46,7 @@ Src/examples/wel/fun/invisibl.cur svneol=native#unset
 Src/examples/wel/fun/iselogo.bmp svneol=native#unset
 Src/examples/wel/header_ctrl/header_ctrl_demo.ico svneol=native#unset
 Src/examples/wel/list_view/blue.ico svneol=native#unset
+Src/examples/wel/list_view/green.ico -text
 Src/examples/wel/list_view/listview_demo.ico svneol=native#unset
 Src/examples/wel/list_view/magenta.ico svneol=native#unset
 Src/examples/wel/list_view/red.ico svneol=native#unset
