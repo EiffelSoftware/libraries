@@ -28,6 +28,14 @@ Src/examples/old_com/Compound/compound.ico svneol=native#unset
 Src/examples/old_com/Wordbasic/wordbasic.ico svneol=native#unset
 Src/examples/thread/fancy/fancy.ico svneol=native#unset
 Src/examples/vision2/drawing_area/car.png -text
+Src/examples/vision2/egraph/Xnode.png -text
+Src/examples/vision2/egraph/circle_layout.png -text
+Src/examples/vision2/egraph/grid_layout.png -text
+Src/examples/vision2/egraph/new.png -text
+Src/examples/vision2/egraph/new_node.png -text
+Src/examples/vision2/egraph/node.png -text
+Src/examples/vision2/egraph/open.png -text
+Src/examples/vision2/egraph/save.png -text
 Src/examples/vision2/multicolumn_list/eiffel.png -text
 Src/examples/vision2/multicolumn_list/eiffeldoc.png -text
 Src/examples/vision2/pixmap/blue.ico -text
