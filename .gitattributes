@@ -2,6 +2,8 @@
 Src/C_library/expat/expat.suo -text
 Src/C_library/libpng/contrib/visupng/VisualPng.ico svneol=native#unset
 Src/C_library/libpng/pngbar.jpg svneol=native#unset
+Src/C_library/libpng/projects/beos/x86-shared.proj svneol=native#unset
+Src/C_library/libpng/projects/beos/x86-static.proj svneol=native#unset
 Src/examples/Eiffel2Java/test.class -text
 Src/examples/base/desc-32/test.ico svneol=native#unset
 Src/examples/base/desc-32/testdesc.dll -text
