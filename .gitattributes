@@ -178,6 +178,7 @@ Src/library/gobo/doc/structure/search.gif svneol=native#unset
 Src/library/gobo/doc/structure/sort.gif svneol=native#unset
 Src/library/gobo/doc/structure/stack.gif svneol=native#unset
 Src/library/gobo/doc/structure/table.gif svneol=native#unset
+Src/library/store/dbms/rdbms/odbc/Clib/ODBC32.LIB svneol=native#unset
 Src/library/vision2/release/test/black.png svneol=native#unset
 Src/library/vision2/release/test/hole.png svneol=native#unset
 Src/library/vision2/release/test/pool1.png svneol=native#unset
