@@ -1,7 +1,13 @@
 * text=auto !eol
+Src/examples/wel/bmpview/app.ico svneol=native#unset
+Src/examples/wel/bmpview/child.ico svneol=native#unset
+Src/examples/wel/bmpview/wel1.bmp svneol=native#unset
+Src/examples/wel/bmpview/wel2.bmp svneol=native#unset
 Src/examples/wel/brushes/app.ico svneol=native#unset
 Src/examples/wel/brushes/eiffel.bmp -text
 Src/examples/wel/controls/app.ico svneol=native#unset
+Src/examples/wel/cursors/app.ico svneol=native#unset
+Src/examples/wel/cursors/custom.cur svneol=native#unset
 Src/examples/wel/fun/app.ico svneol=native#unset
 Src/examples/wel/fun/artist.ico svneol=native#unset
 Src/examples/wel/fun/invisibl.cur svneol=native#unset
