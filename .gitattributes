@@ -55,6 +55,7 @@ Src/examples/wel/richedit/toolbar.bmp svneol=native#unset
 Src/examples/wel/stddlgs/stddlg_demo.ico svneol=native#unset
 Src/examples/wel/timer/timer_demo.ico svneol=native#unset
 Src/examples/wel/tree_view/treeview_demo.ico svneol=native#unset
+Src/examples/wel/tutorial/drawing.drw -text
 Src/examples/wel/tutorial/step1/app.ico svneol=native#unset
 Src/examples/wel/tutorial/step2/app.ico svneol=native#unset
 Src/examples/wel/tutorial/step3/app.ico svneol=native#unset
