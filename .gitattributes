@@ -57,12 +57,6 @@ Src/examples/wel/magnify/magnify_demo.ico svneol=native#unset
 Src/examples/wel/mdi/mdi_demo.ico svneol=native#unset
 Src/examples/wel/menus/menus_demo.ico svneol=native#unset
 Src/examples/wel/minimal/minimal_demo.ico svneol=native#unset
-Src/examples/wel/pizza/forhere.ico -text
-Src/examples/wel/pizza/pizza.ico -text
-Src/examples/wel/pizza/pizza_demo.ico -text
-Src/examples/wel/pizza/thick.ico -text
-Src/examples/wel/pizza/thin.ico -text
-Src/examples/wel/pizza/togo.ico -text
 Src/examples/wel/printer/printer_demo.ico svneol=native#unset
 Src/examples/wel/richedit/richedit_demo.ico svneol=native#unset
 Src/examples/wel/richedit/toolbar.bmp svneol=native#unset
