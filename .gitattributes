@@ -119,6 +119,7 @@ Src/examples/wel/xcell/xcell.bmp svneol=native#unset
 Src/examples/wel/xy/app.ico svneol=native#unset
 Src/library/store/doc/Postscript/body.pdf -text
 Src/library/store/doc/Postscript/front_page.pdf -text
+Src/library/time/doc/eiffeltime.pdf -text
 Src/library/wel/extra/h2e.ico svneol=native#unset
 Src/library/wel/extra/h2e1.ico svneol=native#unset
 Src/library/wel/extra/h2e2.ico svneol=native#unset
