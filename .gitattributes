@@ -20,6 +20,11 @@ Src/examples/dotnet/winforms/control_reference/tree_view_ctl/diamond.bmp -text
 Src/examples/dotnet/winforms/control_reference/tree_view_ctl/openfold.bmp -text
 Src/examples/dotnet/winforms/gdi_plus/text/colorbars.jpg -text
 Src/examples/dotnet/winforms/gdi_plus/text/marble.jpg -text
+Src/examples/editor/bitmaps/copy_selection.png -text
+Src/examples/editor/bitmaps/cut_selection.png -text
+Src/examples/editor/bitmaps/icon_close_color.png -text
+Src/examples/editor/bitmaps/left_scroll_arrow.png -text
+Src/examples/editor/bitmaps/right_scroll_arrow.png -text
 Src/examples/old_com/Analyzer/Client/application.ico svneol=native#unset
 Src/examples/old_com/Analyzer/Client/toolbar.bmp svneol=native#unset
 Src/examples/old_com/Analyzer/Server/application.ico svneol=native#unset
