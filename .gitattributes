@@ -7,6 +7,7 @@ Src/examples/wel/brushes/app.ico svneol=native#unset
 Src/examples/wel/brushes/eiffel.bmp -text
 Src/examples/wel/comctrls/app.ico svneol=native#unset
 Src/examples/wel/comctrls/toolbar.bmp svneol=native#unset
+Src/examples/wel/commands/app.ico svneol=native#unset
 Src/examples/wel/controls/app.ico svneol=native#unset
 Src/examples/wel/cursors/app.ico svneol=native#unset
 Src/examples/wel/cursors/custom.cur svneol=native#unset
