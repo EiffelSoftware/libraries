@@ -9,6 +9,10 @@ Src/examples/com/compound/compound.ico -text
 Src/examples/cpp/mystring/test_cpp.ico svneol=native#unset
 Src/examples/dotnet/winforms/applications/world_calc/math.dll -text
 Src/examples/dotnet/winforms/applications/world_calc/parserutils.dll -text
+Src/examples/dotnet/winforms/control_reference/tree_view_ctl/clsdfold.bmp -text
+Src/examples/dotnet/winforms/control_reference/tree_view_ctl/club.bmp -text
+Src/examples/dotnet/winforms/control_reference/tree_view_ctl/diamond.bmp -text
+Src/examples/dotnet/winforms/control_reference/tree_view_ctl/openfold.bmp -text
 Src/examples/dotnet/winforms/gdi_plus/text/colorbars.jpg -text
 Src/examples/dotnet/winforms/gdi_plus/text/marble.jpg -text
 Src/examples/old_com/Analyzer/Client/application.ico svneol=native#unset
