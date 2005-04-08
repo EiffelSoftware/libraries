@@ -70,6 +70,10 @@ Src/examples/vision2/egraph/new_node.png -text
 Src/examples/vision2/egraph/node.png -text
 Src/examples/vision2/egraph/open.png -text
 Src/examples/vision2/egraph/save.png -text
+Src/examples/vision2/grid/icon_bpdisabled.png -text
+Src/examples/vision2/grid/icon_bpenabled.png -text
+Src/examples/vision2/grid/large_collapse.png -text
+Src/examples/vision2/grid/large_expand.png -text
 Src/examples/vision2/multicolumn_list/eiffel.png -text
 Src/examples/vision2/multicolumn_list/eiffeldoc.png -text
 Src/examples/vision2/pixmap/blue.ico -text
