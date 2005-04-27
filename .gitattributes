@@ -72,6 +72,11 @@ Src/examples/vision2/egraph/open.png -text
 Src/examples/vision2/egraph/save.png -text
 Src/examples/vision2/grid/icon_bpdisabled.png -text
 Src/examples/vision2/grid/icon_bpenabled.png -text
+Src/examples/vision2/grid/image1.png -text
+Src/examples/vision2/grid/image2.png -text
+Src/examples/vision2/grid/image3.png -text
+Src/examples/vision2/grid/image4.png -text
+Src/examples/vision2/grid/image5.png -text
 Src/examples/vision2/grid/large_collapse.png -text
 Src/examples/vision2/grid/large_expand.png -text
 Src/examples/vision2/multicolumn_list/eiffel.png -text
