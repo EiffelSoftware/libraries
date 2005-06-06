@@ -30,7 +30,12 @@ class ARRAY [G] inherit
 
 create
 	make,
-	make_from_array
+	make_from_array,
+	make_from_cil
+
+convert
+	to_cil: {NATIVE_ARRAY [G]},
+	make_from_cil ({NATIVE_ARRAY [G]})
 
 feature -- Initialization
 
@@ -64,6 +69,17 @@ feature -- Initialization
 			area := a.area
 			lower := a.lower
 			upper := a.upper
+		end
+
+	make_from_cil (na: NATIVE_ARRAY [G]) is
+			-- Initialize array from `na'.
+		require
+			is_dotnet: {PLATFORM}.is_dotnet
+			na_not_void: na /= Void
+		do
+			create area.make_from_native_array (na)
+			lower := 1
+			upper := area.count
 		end
 
 feature -- Access
@@ -305,17 +321,8 @@ feature -- Element change
 			valid_bounds: (start_pos <= end_pos) or (start_pos = end_pos + 1)
 			valid_index_pos: valid_index (index_pos)
 			enough_space: (upper - index_pos) >= (end_pos - start_pos)
-		local
-			other_area: like area
-			other_lower: INTEGER
-			start0, end0, index0: INTEGER
 		do
-			other_area := other.area
-			other_lower := other.lower
-			start0 := start_pos - other_lower
-			end0 := end_pos - other_lower
-			index0 := index_pos - lower
-			spsubcopy ($other_area, $area, start0, end0, index0)
+			area.copy_data (other.area, start_pos - other.lower, index_pos - lower, end_pos - start_pos + 1)
 		ensure
 			-- copied: forall `i' in 0 .. (`end_pos'-`start_pos'),
 			--     item (index_pos + i) = other.item (start_pos + i)
@@ -486,8 +493,7 @@ feature -- Resizing
 			if empty_area then
 				make_area (new_size)
 			elseif new_size > old_size or new_lower < lower then
-				area := arycpy ($area, new_size,
-					lower - new_lower, old_count)
+				area := area.aliased_resized_area_and_keep (new_size, lower - new_lower, old_count)
 			end
 			lower := new_lower
 			upper := new_upper
@@ -516,8 +522,21 @@ feature -- Conversion
 	to_c: ANY is
 			-- Address of actual sequence of values,
 			-- for passing to external (non-Eiffel) routines.
+		require
+			not_is_dotnet: not {PLATFORM}.is_dotnet
 		do
 			Result := area
+		end
+		
+	to_cil: NATIVE_ARRAY [G] is
+			-- Address of actual sequence of values,
+			-- for passing to external (non-Eiffel) routines.
+		require
+			is_dotnet: {PLATFORM}.is_dotnet
+		do
+			Result := area.native_array
+		ensure
+			to_cil_not_void: Result /= Void
 		end
 
 	linear_representation: LINEAR [G] is
@@ -583,16 +602,6 @@ feature {NONE} -- Inapplicable
 		do
 		end
 
-feature {ARRAY} -- Implementation
-
-	arycpy (old_area: POINTER; newsize, s, n: INTEGER): like area is
-			-- New area of size `newsize' containing `n' items
-			-- from `oldarea'.
-			-- Old items are at position `s' in new area.
-		external
-			"C signature (EIF_REFERENCE, EIF_INTEGER, EIF_INTEGER, EIF_INTEGER): EIF_REFERENCE use %"eif_misc.h%""
-		end
-
 feature {NONE} -- Implementation
 
 	auto_resize (min_index, max_index: INTEGER) is
@@ -626,8 +635,7 @@ feature {NONE} -- Implementation
 			if empty_area then
 				make_area (new_size)
 			elseif new_size > old_size or new_lower < lower then
-					area := arycpy ($area, new_size,
-						lower - new_lower, capacity)
+				area := area.aliased_resized_area_and_keep (new_size, lower - new_lower, capacity)
 			end
 			lower := new_lower
 			upper := new_upper
@@ -637,13 +645,6 @@ feature {NONE} -- Implementation
 			-- Is `area' empty?
 		do
 			Result := area = Void or else area.count = 0
-		end
-
-	spsubcopy (source, target: POINTER; s, e, i: INTEGER) is
-			-- Copy elements of `source' within bounds `s'
-			-- and `e' to `target' starting at index `i'.
-		external
-			"C signature (EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER, EIF_INTEGER, EIF_INTEGER) use %"eif_copy.h%""
 		end
 
 invariant
