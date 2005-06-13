@@ -31,6 +31,8 @@ Src/examples/old_com/Analyzer/Server/application.ico svneol=native#unset
 Src/examples/old_com/Compound/child.ico svneol=native#unset
 Src/examples/old_com/Compound/compound.ico svneol=native#unset
 Src/examples/old_com/Wordbasic/wordbasic.ico svneol=native#unset
+Src/examples/preferences/display.bmp -text
+Src/examples/preferences/graphics.bmp -text
 Src/examples/thread/fancy/fancy.ico svneol=native#unset
 Src/examples/vision2/drawing_area/car.png -text
 Src/examples/vision2/edraw/nocolor.png -text
