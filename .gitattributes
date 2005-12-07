@@ -226,6 +226,7 @@ Src/examples/wel/xcell/xcell_demo.ico svneol=native#unset
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
 Src/library/docking/implementation/controls/sd_notebook.e -text
 Src/library/docking/implementation/controls/sd_notebook_tab.e -text
+Src/library/docking/implementation/controls/sd_notebook_upper.e -text
 Src/library/editor/bitmaps/copy_selection.png -text
 Src/library/editor/bitmaps/cut_selection.png -text
 Src/library/editor/bitmaps/icon_close_color.png -text
