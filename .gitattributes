@@ -233,6 +233,11 @@ Src/library/editor/bitmaps/icon_close_color.png -text
 Src/library/editor/bitmaps/left_scroll_arrow.png -text
 Src/library/editor/bitmaps/right_scroll_arrow.png -text
 Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
+Src/library/process/classic/windows/wel_process_entry_32.e -text
+Src/library/process/classic/windows/wel_process_id_pair.e -text
+Src/library/process/classic/windows/wel_process_toolhelp_constants.e -text
+Src/library/process/classic/windows/wel_thread_entry_32.e -text
+Src/library/process/classic/windows/wel_toolhelp.e -text
 Src/library/vision2/Clib/default_vision2_icon.ico -text
 Src/library/wel/extra/h2e.ico svneol=native#unset
 Src/library/wel/extra/h2e1.ico svneol=native#unset
