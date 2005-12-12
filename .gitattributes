@@ -236,8 +236,10 @@ Src/library/docking/implementation/common/sd_docking_manager_internal_command.e 
 Src/library/docking/implementation/common/sd_docking_manager_internal_property.e -text
 Src/library/docking/implementation/common/sd_docking_manager_internal_query.e -text
 Src/library/docking/implementation/common/sd_docking_manager_internal_zones.e -text
+Src/library/docking/implementation/common/sd_pnd_action_sequence.e -text
 Src/library/docking/implementation/controls/sd_notebook.e -text
 Src/library/docking/implementation/controls/sd_notebook_tab.e -text
+Src/library/docking/implementation/controls/sd_notebook_tab_area.e -text
 Src/library/docking/implementation/controls/sd_notebook_upper.e -text
 Src/library/editor/bitmaps/copy_selection.png -text
 Src/library/editor/bitmaps/cut_selection.png -text
