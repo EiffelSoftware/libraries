@@ -224,6 +224,13 @@ Src/examples/wel/xcell/start.bmp svneol=native#unset
 Src/examples/wel/xcell/xcell.bmp svneol=native#unset
 Src/examples/wel/xcell/xcell_demo.ico svneol=native#unset
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
+Src/library/diff/diff.e -text
+Src/library/diff/diff_index_link.e -text
+Src/library/diff/diff_line.e -text
+Src/library/diff/diff_line_add.e -text
+Src/library/diff/diff_line_del.e -text
+Src/library/diff/diff_match_index.e -text
+Src/library/diff/diff_text.e -text
 Src/library/docking/implementation/common/sd_docking_manager_internal.e -text
 Src/library/docking/implementation/common/sd_docking_manager_internal_command.e -text
 Src/library/docking/implementation/common/sd_docking_manager_internal_property.e -text
