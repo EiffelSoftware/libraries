@@ -252,6 +252,9 @@ Src/library/process/boolean_lock.e -text
 Src/library/process/classic/unix/process_error_listener_thread.e -text
 Src/library/process/classic/unix/process_output_listener_thread.e -text
 Src/library/process/classic/unix/process_thread_timer.e -text
+Src/library/process/classic/windows/process_error_listener_thread.e -text
+Src/library/process/classic/windows/process_output_listener_thread.e -text
+Src/library/process/classic/windows/process_thread_timer.e -text
 Src/library/process/classic/windows/wel_process_entry_32.e -text
 Src/library/process/classic/windows/wel_process_id_pair.e -text
 Src/library/process/classic/windows/wel_process_toolhelp_constants.e -text
