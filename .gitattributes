@@ -248,7 +248,6 @@ Src/library/editor/bitmaps/icon_close_color.png -text
 Src/library/editor/bitmaps/left_scroll_arrow.png -text
 Src/library/editor/bitmaps/right_scroll_arrow.png -text
 Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
-Src/library/process/boolean_lock.e -text
 Src/library/process/classic/unix/process_error_listener_thread.e -text
 Src/library/process/classic/unix/process_output_listener_thread.e -text
 Src/library/process/classic/unix/process_thread_timer.e -text
