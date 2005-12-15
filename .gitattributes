@@ -231,11 +231,6 @@ Src/library/diff/diff_line_add.e -text
 Src/library/diff/diff_line_del.e -text
 Src/library/diff/diff_match_index.e -text
 Src/library/diff/diff_text.e -text
-Src/library/docking/implementation/common/sd_docking_manager_internal_agents.e -text
-Src/library/docking/implementation/common/sd_docking_manager_internal_command.e -text
-Src/library/docking/implementation/common/sd_docking_manager_internal_property.e -text
-Src/library/docking/implementation/common/sd_docking_manager_internal_query.e -text
-Src/library/docking/implementation/common/sd_docking_manager_internal_zones.e -text
 Src/library/docking/implementation/common/sd_pnd_action_sequence.e -text
 Src/library/docking/implementation/controls/sd_notebook.e -text
 Src/library/docking/implementation/controls/sd_notebook_tab.e -text
