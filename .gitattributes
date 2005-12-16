@@ -231,7 +231,10 @@ Src/library/diff/diff_line_add.e -text
 Src/library/diff/diff_line_del.e -text
 Src/library/diff/diff_match_index.e -text
 Src/library/diff/diff_text.e -text
+Src/library/docking/implementation/common/sd_hexer.e -text
 Src/library/docking/implementation/common/sd_pnd_action_sequence.e -text
+Src/library/docking/implementation/common/sd_screen.e -text
+Src/library/docking/implementation/controls/sd_cell_with_border.e -text
 Src/library/docking/implementation/controls/sd_notebook.e -text
 Src/library/docking/implementation/controls/sd_notebook_tab.e -text
 Src/library/docking/implementation/controls/sd_notebook_tab_area.e -text
@@ -244,6 +247,7 @@ Src/library/docking/implementation/docking/sd_docking_manager_internal_property.
 Src/library/docking/implementation/docking/sd_docking_manager_internal_query.e -text
 Src/library/docking/implementation/docking/sd_docking_manager_internal_zones.e -text
 Src/library/docking/implementation/mswin/sd_feedback_rect.e -text
+Src/library/docking/implementation/mswin/sd_system_color.e -text
 Src/library/editor/bitmaps/copy_selection.png -text
 Src/library/editor/bitmaps/cut_selection.png -text
 Src/library/editor/bitmaps/icon_close_color.png -text
