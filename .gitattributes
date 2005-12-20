@@ -246,6 +246,10 @@ Src/library/docking/implementation/docking/sd_docking_manager_internal_command.e
 Src/library/docking/implementation/docking/sd_docking_manager_internal_property.e -text
 Src/library/docking/implementation/docking/sd_docking_manager_internal_query.e -text
 Src/library/docking/implementation/docking/sd_docking_manager_internal_zones.e -text
+Src/library/docking/implementation/images/sd_center_indicator.e -text
+Src/library/docking/implementation/images/sd_center_mask.e -text
+Src/library/docking/implementation/images/sd_side_indicator.e -text
+Src/library/docking/implementation/images/sd_side_mask.e -text
 Src/library/docking/implementation/mswin/sd_feedback_rect.e -text
 Src/library/docking/implementation/mswin/sd_system_color.e -text
 Src/library/editor/bitmaps/copy_selection.png -text
