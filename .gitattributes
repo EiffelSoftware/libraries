@@ -234,6 +234,7 @@ Src/library/diff/diff_text.e -text
 Src/library/docking/implementation/common/sd_hexer.e -text
 Src/library/docking/implementation/common/sd_pnd_action_sequence.e -text
 Src/library/docking/implementation/common/sd_screen.e -text
+Src/library/docking/implementation/common/sd_text_finder.e -text
 Src/library/docking/implementation/controls/sd_cell_with_border.e -text
 Src/library/docking/implementation/controls/sd_notebook.e -text
 Src/library/docking/implementation/controls/sd_notebook_hide_tab_dialog.e -text
