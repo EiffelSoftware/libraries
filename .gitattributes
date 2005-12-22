@@ -236,8 +236,10 @@ Src/library/docking/implementation/common/sd_pnd_action_sequence.e -text
 Src/library/docking/implementation/common/sd_screen.e -text
 Src/library/docking/implementation/controls/sd_cell_with_border.e -text
 Src/library/docking/implementation/controls/sd_notebook.e -text
+Src/library/docking/implementation/controls/sd_notebook_hide_tab_dialog.e -text
 Src/library/docking/implementation/controls/sd_notebook_tab.e -text
 Src/library/docking/implementation/controls/sd_notebook_tab_area.e -text
+Src/library/docking/implementation/controls/sd_notebook_tab_hide_label.e -text
 Src/library/docking/implementation/controls/sd_notebook_upper.e -text
 Src/library/docking/implementation/controls/zone/sd_docking_zone_normal.e -text
 Src/library/docking/implementation/controls/zone/sd_docking_zone_upper.e -text
@@ -249,8 +251,14 @@ Src/library/docking/implementation/docking/sd_docking_manager_internal_zones.e -
 Src/library/docking/implementation/gtk/sd_feedback_rect.e -text
 Src/library/docking/implementation/gtk/sd_system_color.e -text
 Src/library/docking/implementation/images/sd_center_indicator.e -text
+Src/library/docking/implementation/images/sd_center_indicator_lightening_bottom.e -text
+Src/library/docking/implementation/images/sd_center_indicator_lightening_center.e -text
+Src/library/docking/implementation/images/sd_center_indicator_lightening_left.e -text
+Src/library/docking/implementation/images/sd_center_indicator_lightening_right.e -text
+Src/library/docking/implementation/images/sd_center_indicator_lightening_top.e -text
 Src/library/docking/implementation/images/sd_center_mask.e -text
 Src/library/docking/implementation/images/sd_side_indicator.e -text
+Src/library/docking/implementation/images/sd_side_indicator_lightening.e -text
 Src/library/docking/implementation/images/sd_side_mask.e -text
 Src/library/docking/implementation/mswin/sd_feedback_rect.e -text
 Src/library/docking/implementation/mswin/sd_system_color.e -text
