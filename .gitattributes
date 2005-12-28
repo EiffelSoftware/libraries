@@ -252,6 +252,10 @@ Src/library/docking/implementation/docking/sd_docking_manager_internal_query.e -
 Src/library/docking/implementation/docking/sd_docking_manager_internal_zones.e -text
 Src/library/docking/implementation/gtk/sd_feedback_rect.e -text
 Src/library/docking/implementation/gtk/sd_system_color.e -text
+Src/library/docking/implementation/hot_zone/half_tone_style/sd_hot_zone_old_docking.e -text
+Src/library/docking/implementation/hot_zone/half_tone_style/sd_hot_zone_old_factory.e -text
+Src/library/docking/implementation/hot_zone/half_tone_style/sd_hot_zone_old_main.e -text
+Src/library/docking/implementation/hot_zone/half_tone_style/sd_hot_zone_old_tab.e -text
 Src/library/docking/implementation/images/sd_center_indicator.e -text
 Src/library/docking/implementation/images/sd_center_indicator_lightening_bottom.e -text
 Src/library/docking/implementation/images/sd_center_indicator_lightening_center.e -text
