@@ -265,8 +265,11 @@ Src/library/docking/implementation/hot_zone/half_tone_style/sd_hot_zone_old_fact
 Src/library/docking/implementation/hot_zone/half_tone_style/sd_hot_zone_old_main.e -text
 Src/library/docking/implementation/hot_zone/half_tone_style/sd_hot_zone_old_tab.e -text
 Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zone_docking.e -text
+Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zone_docking_upper.e -text
 Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zone_main.e -text
+Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zone_main_editor.e -text
 Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zone_tab.e -text
+Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zone_tab_upper.e -text
 Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zone_triangle_factory.e -text
 Src/library/docking/implementation/images/sd_center_indicator.e -text
 Src/library/docking/implementation/images/sd_center_indicator_lightening_bottom.e -text
