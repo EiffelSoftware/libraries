@@ -235,6 +235,8 @@ Src/library/docking/implementation/common/sd_hexer.e -text
 Src/library/docking/implementation/common/sd_pnd_action_sequence.e -text
 Src/library/docking/implementation/common/sd_screen.e -text
 Src/library/docking/implementation/common/sd_text_finder.e -text
+Src/library/docking/implementation/controls/dialog/sd_zone_management_dialog.e -text
+Src/library/docking/implementation/controls/dialog/sd_zone_management_dialog_imp.e -text
 Src/library/docking/implementation/controls/notebook/sd_notebook.e -text
 Src/library/docking/implementation/controls/notebook/sd_notebook_hide_tab_dialog.e -text
 Src/library/docking/implementation/controls/notebook/sd_notebook_hide_tab_label_box.e -text
