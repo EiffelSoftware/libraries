@@ -233,8 +233,10 @@ Src/library/diff/diff_match_index.e -text
 Src/library/diff/diff_text.e -text
 Src/library/docking/implementation/common/sd_hexer.e -text
 Src/library/docking/implementation/common/sd_pnd_action_sequence.e -text
+Src/library/docking/implementation/common/sd_position_helper.e -text
 Src/library/docking/implementation/common/sd_screen.e -text
 Src/library/docking/implementation/common/sd_text_finder.e -text
+Src/library/docking/implementation/controls/dialog/sd_mini_tool_bar_dialog.e -text
 Src/library/docking/implementation/controls/dialog/sd_zone_management_dialog.e -text
 Src/library/docking/implementation/controls/dialog/sd_zone_management_dialog_imp.e -text
 Src/library/docking/implementation/controls/notebook/sd_notebook.e -text
@@ -243,6 +245,7 @@ Src/library/docking/implementation/controls/notebook/sd_notebook_hide_tab_label_
 Src/library/docking/implementation/controls/notebook/sd_notebook_tab.e -text
 Src/library/docking/implementation/controls/notebook/sd_notebook_tab_area.e -text
 Src/library/docking/implementation/controls/notebook/sd_notebook_tab_hide_label.e -text
+Src/library/docking/implementation/controls/notebook/sd_notebook_tab_style_normal.e -text
 Src/library/docking/implementation/controls/notebook/sd_notebook_upper.e -text
 Src/library/docking/implementation/controls/sd_cell_with_border.e -text
 Src/library/docking/implementation/controls/sd_horizontal_split_area.e -text
