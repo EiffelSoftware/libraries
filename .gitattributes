@@ -260,7 +260,6 @@ Src/library/docking/implementation/docking/sd_docking_manager_internal_query.e -
 Src/library/docking/implementation/docking/sd_docking_manager_internal_zones.e -text
 Src/library/docking/implementation/gtk/sd_feedback_rect.e -text
 Src/library/docking/implementation/gtk/sd_line_drawer.e -text
-Src/library/docking/implementation/gtk/sd_system_color.e -text
 Src/library/docking/implementation/hot_zone/half_tone_style/sd_hot_zone_old_docking.e -text
 Src/library/docking/implementation/hot_zone/half_tone_style/sd_hot_zone_old_factory.e -text
 Src/library/docking/implementation/hot_zone/half_tone_style/sd_hot_zone_old_main.e -text
@@ -285,7 +284,6 @@ Src/library/docking/implementation/images/sd_side_mask.e -text
 Src/library/docking/implementation/menu/sd_tool_bar_separator.e -text
 Src/library/docking/implementation/mswin/sd_feedback_rect.e -text
 Src/library/docking/implementation/mswin/sd_line_drawer.e -text
-Src/library/docking/implementation/mswin/sd_system_color.e -text
 Src/library/editor/bitmaps/copy_selection.png -text
 Src/library/editor/bitmaps/cut_selection.png -text
 Src/library/editor/bitmaps/icon_close_color.png -text
