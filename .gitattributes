@@ -271,16 +271,6 @@ Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zo
 Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zone_tab.e -text
 Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zone_tab_upper.e -text
 Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zone_triangle_factory.e -text
-Src/library/docking/implementation/images/sd_center_indicator.e -text
-Src/library/docking/implementation/images/sd_center_indicator_lightening_bottom.e -text
-Src/library/docking/implementation/images/sd_center_indicator_lightening_center.e -text
-Src/library/docking/implementation/images/sd_center_indicator_lightening_left.e -text
-Src/library/docking/implementation/images/sd_center_indicator_lightening_right.e -text
-Src/library/docking/implementation/images/sd_center_indicator_lightening_top.e -text
-Src/library/docking/implementation/images/sd_center_mask.e -text
-Src/library/docking/implementation/images/sd_side_indicator.e -text
-Src/library/docking/implementation/images/sd_side_indicator_lightening.e -text
-Src/library/docking/implementation/images/sd_side_mask.e -text
 Src/library/docking/implementation/mswin/sd_feedback_rect.e -text
 Src/library/docking/implementation/mswin/sd_line_drawer.e -text
 Src/library/docking/implementation/toolbar/sd_tool_bar_separator.e -text
