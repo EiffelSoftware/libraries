@@ -273,7 +273,6 @@ Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zo
 Src/library/docking/implementation/hot_zone/tranparent_rectangle_style/sd_hot_zone_triangle_factory.e -text
 Src/library/docking/implementation/mswin/sd_feedback_rect.e -text
 Src/library/docking/implementation/mswin/sd_line_drawer.e -text
-Src/library/docking/implementation/toolbar/sd_tool_bar_separator.e -text
 Src/library/editor/bitmaps/copy_selection.png -text
 Src/library/editor/bitmaps/cut_selection.png -text
 Src/library/editor/bitmaps/icon_close_color.png -text
