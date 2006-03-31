@@ -225,6 +225,7 @@ Src/examples/wel/xcell/xcell.bmp svneol=native#unset
 Src/examples/wel/xcell/xcell_demo.ico svneol=native#unset
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
 Src/library/base/base.acex -text
+Src/library/diff/diff.acex -text
 Src/library/diff/diff.e -text
 Src/library/diff/diff_index_link.e -text
 Src/library/diff/diff_line.e -text
@@ -296,9 +297,14 @@ Src/library/process/classic/windows/wel_process_id_pair.e -text
 Src/library/process/classic/windows/wel_process_toolhelp_constants.e -text
 Src/library/process/classic/windows/wel_thread_entry_32.e -text
 Src/library/process/classic/windows/wel_toolhelp.e -text
+Src/library/thread/thread.acex -text
+Src/library/uuid/uuid.acex -text
 Src/library/vision2/Clib/default_vision2_icon.ico -text
+Src/library/vision2/vision2.acex -text
+Src/library/vision2_extension/vision2_extension.acex -text
 Src/library/wel/extra/h2e.ico svneol=native#unset
 Src/library/wel/extra/h2e1.ico svneol=native#unset
 Src/library/wel/extra/h2e2.ico svneol=native#unset
 Src/library/wel/structs/wel_xform.e -text
+Src/library/wel/wel.acex -text
 Src/library/wizard/help/Clib/htmlhelp.lib -text
