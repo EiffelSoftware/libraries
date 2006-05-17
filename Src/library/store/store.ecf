@@ -9,10 +9,10 @@ Eiffel Forum License v2 (see http://www.eiffel.com/licensing/forum.txt).</descri
 		<file_rule>
 			<exclude>/\.svn</exclude>
 		</file_rule>
-		<library name="base" location="$ISE_LIBRARY\library\base\base.acex" readonly="true"/>
-		<library name="vision2" location="$ISE_LIBRARY\library\vision2\vision2.acex" readonly="true"/>
-		<library name="time" location="$ISE_LIBRARY\library\time\time.acex" readonly="true"/>
-		<library name="lex" location="$ISE_LIBRARY\library\lex\lex.acex" readonly="true"/>
+		<library name="base" location="$ISE_LIBRARY\library\base\base.ecf" readonly="true"/>
+		<library name="vision2" location="$ISE_LIBRARY\library\vision2\vision2.ecf" readonly="true"/>
+		<library name="time" location="$ISE_LIBRARY\library\time\time.ecf" readonly="true"/>
+		<library name="lex" location="$ISE_LIBRARY\library\lex\lex.ecf" readonly="true"/>
 		<cluster name="converter" location="converter" recursive="true"/>
 		<cluster name="dataview" location="dataview" recursive="true"/>
 		<cluster name="dbms" location="dbms" recursive="true"/>

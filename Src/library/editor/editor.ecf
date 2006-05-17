@@ -9,16 +9,16 @@
 		<option>
 			<assertions precondition="true" postcondition="true" check="true" invariant="true" loop="true"/>
 		</option>
-		<library name="base" location="$ISE_LIBRARY\library\base\base.acex" readonly="true"/>
-		<library name="gobo" location="$ISE_LIBRARY\library\gobo.acex" readonly="true"/>
-		<library name="lex" location="$ISE_LIBRARY\library\lex\lex.acex" readonly="true"/>
-		<library name="preferences_reg" location="$ISE_LIBRARY\library\preferences\preferences_reg.acex" readonly="true">
+		<library name="base" location="$ISE_LIBRARY\library\base\base.ecf" readonly="true"/>
+		<library name="gobo" location="$ISE_LIBRARY\library\gobo.ecf" readonly="true"/>
+		<library name="lex" location="$ISE_LIBRARY\library\lex\lex.ecf" readonly="true"/>
+		<library name="preferences_reg" location="$ISE_LIBRARY\library\preferences\preferences_reg.ecf" readonly="true">
 			<condition><platform value="windows"/></condition>
 		</library>
-		<library name="preferences_xml" location="$ISE_LIBRARY\library\preferences\preferences_xml.acex" readonly="true">
+		<library name="preferences_xml" location="$ISE_LIBRARY\library\preferences\preferences_xml.ecf" readonly="true">
 			<condition><platform excluded_value="windows"/></condition>
 		</library>
-		<library name="vision2" location="$ISE_LIBRARY\library\vision2\vision2.acex" readonly="true"/>
+		<library name="vision2" location="$ISE_LIBRARY\library\vision2\vision2.ecf" readonly="true"/>
 		<cluster name="document" location="document\" recursive="true"/>
 		<cluster name="editor" location=".\"/>
 		<cluster name="managers" location="managers\" recursive="true"/>
