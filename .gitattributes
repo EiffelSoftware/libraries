@@ -223,6 +223,7 @@ Src/examples/wel/xcell/spades9.bmp svneol=native#unset
 Src/examples/wel/xcell/start.bmp svneol=native#unset
 Src/examples/wel/xcell/xcell.bmp svneol=native#unset
 Src/examples/wel/xcell/xcell_demo.ico svneol=native#unset
+Src/framework/README.TXT -text
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
 Src/library/diff/diff.e -text
 Src/library/diff/diff_index_link.e -text
