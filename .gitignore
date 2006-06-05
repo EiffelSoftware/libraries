@@ -5,6 +5,7 @@ Src/C_library/zlib/minigzip_d.exe
 Src/C_library/zlib/zdll.exp
 Src/C_library/zlib/zlib1.dll
 Src/C_library/zlib/zlib1.res
+Src/library/com/spec/msc
 Src/library/gobo
 Src/library/net/spec
 Src/library/vision2/spec/msc
