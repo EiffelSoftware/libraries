@@ -224,7 +224,6 @@ Src/examples/wel/xcell/start.bmp svneol=native#unset
 Src/examples/wel/xcell/xcell.bmp svneol=native#unset
 Src/examples/wel/xcell/xcell_demo.ico svneol=native#unset
 Src/framework/README.TXT -text
-Src/framework/framework.ecf -text
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
 Src/library/base_extension/base_extension.ecf -text
 Src/library/diff/diff.e -text
