@@ -183,8 +183,8 @@ Src/examples/wel/tutorial/step2/app.ico svneol=native#unset
 Src/examples/wel/tutorial/step3/app.ico svneol=native#unset
 Src/examples/wel/tutorial/step4/app.ico svneol=native#unset
 Src/examples/wel/tutorial/weltutor.hlp -text
-Src/examples/wel/windows/off.bmp svneol=native#unset
-Src/examples/wel/windows/on.bmp svneol=native#unset
+Src/examples/wel/windows/off.bmp -text
+Src/examples/wel/windows/on.bmp -text
 Src/examples/wel/windows/windows_demo.ico svneol=native#unset
 Src/examples/wel/xcell/backgr.bmp -text
 Src/examples/wel/xcell/clubs1.bmp -text
