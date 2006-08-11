@@ -305,7 +305,6 @@ Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
 Src/library/preferences/storage/preferences_storage_i.e -text
 Src/library/preferences/storage/registry/preference_storage_registry.e -text
 Src/library/preferences/storage/registry_implementation/preferences_storage_default.e -text
-Src/library/preferences/storage/xml/preference_storage_xml.e -text
 Src/library/preferences/storage/xml_implementation/preferences_storage_default.e -text
 Src/library/process/classic/unix/process_error_listener_thread.e -text
 Src/library/process/classic/unix/process_output_listener_thread.e -text
