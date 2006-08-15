@@ -5,12 +5,14 @@ Src/C_library/libpng/projects/beos/x86-shared.proj svneol=native#unset
 Src/C_library/libpng/projects/beos/x86-static.proj svneol=native#unset
 Src/C_library/zlib/contrib/blast/test.pk svneol=native#unset
 Src/C_library/zlib/contrib/puff/zeros.raw svneol=native#unset
+Src/examples/Eiffel2Java/README -text
 Src/examples/Eiffel2Java/test.class -text
 Src/examples/base/desc-32/test.ico svneol=native#unset
 Src/examples/base/desc-32/testdesc.dll -text
 Src/examples/base/desc-32/testdesc.lib -text
 Src/examples/com/compound/child.ico -text
 Src/examples/com/compound/compound.ico -text
+Src/examples/cpp/mystring/README -text
 Src/examples/cpp/mystring/test_cpp.ico svneol=native#unset
 Src/examples/docking/simple/images/center.png -text
 Src/examples/docking/simple/images/center_center_light.png -text
