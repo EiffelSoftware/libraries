@@ -246,6 +246,7 @@ Src/examples/wel/xcell/start.bmp -text
 Src/examples/wel/xcell/xcell.bmp -text
 Src/examples/wel/xcell/xcell_demo.ico svneol=native#unset
 Src/framework/README.TXT -text
+Src/library/Eiffel2Java/README -text
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
 Src/library/base_extension/base_extension.ecf -text
 Src/library/diff/diff.e -text
