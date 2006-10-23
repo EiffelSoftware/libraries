@@ -7,6 +7,14 @@ Src/C_library/zlib/zlib1.dll
 Src/C_library/zlib/zlib1.res
 Src/Delivery
 Src/examples/docking/simple/EIFGENs
+Src/framework/cli_writer/*.rc
+Src/framework/cli_writer/Clib/*.lib
+Src/framework/cli_writer/Clib/*.obj
+Src/framework/cli_writer/Clib/*.pdb
+Src/framework/cli_writer/spec
+Src/framework/configuration/*.wb
+Src/framework/configuration/EIFGENs
+Src/framework/parser/parser/output.txt
 Src/free_add_ons
 Src/library/com/spec/msc
 Src/library/event/spec
