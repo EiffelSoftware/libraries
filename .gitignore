@@ -7,6 +7,8 @@ Src/C_library/zlib/zlib1.dll
 Src/C_library/zlib/zlib1.res
 Src/Delivery
 Src/examples/docking/simple/EIFGENs
+Src/framework/cli_debugger/Clib/OBJ
+Src/framework/cli_debugger/spec
 Src/framework/cli_writer/*.rc
 Src/framework/cli_writer/Clib/*.lib
 Src/framework/cli_writer/Clib/*.obj
