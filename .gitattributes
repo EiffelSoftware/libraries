@@ -246,9 +246,9 @@ Src/examples/wel/xcell/start.bmp -text
 Src/examples/wel/xcell/xcell.bmp -text
 Src/examples/wel/xcell/xcell_demo.ico -text
 Src/framework/README.TXT -text
-Src/framework/configuration/parser/lace/lace_compile/classname_finder.l -text
-Src/framework/configuration/parser/lace/lace_compile/lace.l -text
-Src/framework/configuration/parser/lace/lace_compile/make.cmd -text
+Src/framework/configuration/parser/implementation/lace/lace_compile/classname_finder.l -text
+Src/framework/configuration/parser/implementation/lace/lace_compile/lace.l -text
+Src/framework/configuration/parser/implementation/lace/lace_compile/make.cmd -text
 Src/framework/configuration/versioning/configuration-1-0-0.xsd -text
 Src/framework/configuration/versioning/conversion-1-0-0.xsl -text
 Src/framework/configuration/versioning/fix-eweasel-1-0-0.xsl -text
