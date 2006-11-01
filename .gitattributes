@@ -7,9 +7,6 @@ Src/C_library/zlib/contrib/blast/test.pk svneol=native#unset
 Src/C_library/zlib/contrib/puff/zeros.raw svneol=native#unset
 Src/examples/Eiffel2Java/README -text
 Src/examples/Eiffel2Java/test.class -text
-Src/examples/base/desc-32/test.ico svneol=native#unset
-Src/examples/base/desc-32/testdesc.dll -text
-Src/examples/base/desc-32/testdesc.lib -text
 Src/examples/com/compound/child.ico -text
 Src/examples/com/compound/compound.ico -text
 Src/examples/cpp/mystring/README -text
@@ -22,6 +19,9 @@ Src/examples/dotnet/winforms/control_reference/tree_view_ctl/diamond.bmp -text
 Src/examples/dotnet/winforms/control_reference/tree_view_ctl/openfold.bmp -text
 Src/examples/dotnet/winforms/gdi_plus/text/colorbars.jpg -text
 Src/examples/dotnet/winforms/gdi_plus/text/marble.jpg -text
+Src/examples/obsolete/base/desc-32/test.ico svneol=native#unset
+Src/examples/obsolete/base/desc-32/testdesc.dll -text
+Src/examples/obsolete/base/desc-32/testdesc.lib -text
 Src/examples/obsolete/docking/simple/images/center.png -text
 Src/examples/obsolete/docking/simple/images/center_center_light.png -text
 Src/examples/obsolete/docking/simple/images/center_down_light.png -text
@@ -53,10 +53,32 @@ Src/examples/obsolete/old_com/Analyzer/Server/application.ico svneol=native#unse
 Src/examples/obsolete/old_com/Compound/child.ico svneol=native#unset
 Src/examples/obsolete/old_com/Compound/compound.ico svneol=native#unset
 Src/examples/obsolete/old_com/Wordbasic/wordbasic.ico svneol=native#unset
+Src/examples/obsolete/vision2/drawing_area/car.png -text
+Src/examples/obsolete/vision2/grid/icon_bpdisabled.png -text
+Src/examples/obsolete/vision2/grid/icon_bpenabled.png -text
+Src/examples/obsolete/vision2/grid/image1.png -text
+Src/examples/obsolete/vision2/grid/image2.png -text
+Src/examples/obsolete/vision2/grid/image3.png -text
+Src/examples/obsolete/vision2/grid/image4.png -text
+Src/examples/obsolete/vision2/grid/image5.png -text
+Src/examples/obsolete/vision2/grid/large_collapse.png -text
+Src/examples/obsolete/vision2/grid/large_expand.png -text
+Src/examples/obsolete/vision2/grid/marble.png -text
+Src/examples/obsolete/vision2/multicolumn_list/eiffel.png -text
+Src/examples/obsolete/vision2/multicolumn_list/eiffeldoc.png -text
+Src/examples/obsolete/vision2/pixmap/blue.ico -text
+Src/examples/obsolete/vision2/pixmap/gray.ico -text
+Src/examples/obsolete/vision2/pixmap/gray.png -text
+Src/examples/obsolete/vision2/pixmap/magenta.png -text
+Src/examples/obsolete/vision2/test_all_widgets/pixmaps/power_small.bmp -text
+Src/examples/obsolete/vision2/test_all_widgets/pixmaps/power_small.xpm -text svneol=unset#application/octet-stream
+Src/examples/obsolete/vision2/test_all_widgets/pixmaps/vision.bmp -text
+Src/examples/obsolete/vision2/test_all_widgets/pixmaps/vision.xpm -text svneol=unset#application/octet-stream
+Src/examples/obsolete/vision2/test_all_widgets/pixmaps/vision_tower.bmp -text
+Src/examples/obsolete/vision2/test_all_widgets/pixmaps/vision_tower.xpm -text svneol=unset#application/octet-stream
 Src/examples/preferences/display.png -text
 Src/examples/preferences/graphics.png -text
 Src/examples/thread/fancy/fancy.ico svneol=native#unset
-Src/examples/vision2/drawing_area/car.png -text
 Src/examples/vision2/edraw/nocolor.png -text
 Src/examples/vision2/edraw/toolbar/arc.png -text
 Src/examples/vision2/edraw/toolbar/dot.png -text
@@ -94,22 +116,6 @@ Src/examples/vision2/egraph/new_node.png -text
 Src/examples/vision2/egraph/node.png -text
 Src/examples/vision2/egraph/open.png -text
 Src/examples/vision2/egraph/save.png -text
-Src/examples/vision2/grid/icon_bpdisabled.png -text
-Src/examples/vision2/grid/icon_bpenabled.png -text
-Src/examples/vision2/grid/image1.png -text
-Src/examples/vision2/grid/image2.png -text
-Src/examples/vision2/grid/image3.png -text
-Src/examples/vision2/grid/image4.png -text
-Src/examples/vision2/grid/image5.png -text
-Src/examples/vision2/grid/large_collapse.png -text
-Src/examples/vision2/grid/large_expand.png -text
-Src/examples/vision2/grid/marble.png -text
-Src/examples/vision2/multicolumn_list/eiffel.png -text
-Src/examples/vision2/multicolumn_list/eiffeldoc.png -text
-Src/examples/vision2/pixmap/blue.ico -text
-Src/examples/vision2/pixmap/gray.ico -text
-Src/examples/vision2/pixmap/gray.png -text
-Src/examples/vision2/pixmap/magenta.png -text
 Src/examples/vision2/rich_text/bold.png -text
 Src/examples/vision2/rich_text/center_alignment.png -text
 Src/examples/vision2/rich_text/icon_save_color.png -text
@@ -119,12 +125,6 @@ Src/examples/vision2/rich_text/left_alignment.png -text
 Src/examples/vision2/rich_text/right_alignment.png -text
 Src/examples/vision2/rich_text/strike.png -text
 Src/examples/vision2/rich_text/underline.png -text
-Src/examples/vision2/test_all_widgets/pixmaps/power_small.bmp -text
-Src/examples/vision2/test_all_widgets/pixmaps/power_small.xpm -text svneol=unset#application/octet-stream
-Src/examples/vision2/test_all_widgets/pixmaps/vision.bmp -text
-Src/examples/vision2/test_all_widgets/pixmaps/vision.xpm -text svneol=unset#application/octet-stream
-Src/examples/vision2/test_all_widgets/pixmaps/vision_tower.bmp -text
-Src/examples/vision2/test_all_widgets/pixmaps/vision_tower.xpm -text svneol=unset#application/octet-stream
 Src/examples/vision2/viewport/bm_About.png -text
 Src/examples/vision2/widgets/bm_About.png -text
 Src/examples/vision2/widgets/icon_wizard_blank_project.png -text
