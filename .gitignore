@@ -66,6 +66,7 @@ Src/library/gobo/test
 Src/library/net/spec
 Src/library/vision2/spec/linux-x86-64
 Src/library/vision2/spec/msc
+Src/library/vision2/spec/unix
 Src/library/wel/clib/ilwel.lib
 Src/library/wel/clib/make.log
 Src/library/wel/clib/wel.lib
