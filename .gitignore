@@ -64,6 +64,12 @@ Src/library/gobo/library
 Src/library/gobo/misc
 Src/library/gobo/src
 Src/library/gobo/test
+Src/library/i18n/EIFGENs
+Src/library/i18n/i18n_dev.ecf
+Src/library/i18n/preferences.wb
+Src/library/i18n/root_class.e
+Src/library/i18n/sample.ecf
+Src/library/i18n/sample.rc
 Src/library/net/spec
 Src/library/vision2/spec/linux-x86-64
 Src/library/vision2/spec/msc
