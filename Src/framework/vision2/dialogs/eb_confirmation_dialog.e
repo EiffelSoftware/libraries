@@ -1,67 +1,67 @@
 indexing
-	description: "Objects that ..."
+	description	: "Dialog to ask for confirmation"
 	legal: "See notice at end of class."
 	status: "See notice at end of class."
-	date: "$Date$"
-	revision: "$Revision$"
+	date		: "$Date$"
+	revision	: "$Revision$"
 
 class
-	TARGET_PRECOMPILES_SECTION
+	EB_CONFIRMATION_DIALOG
 
 inherit
-	TARGET_LIBRARIES_SECTION
+	EV_CONFIRMATION_DIALOG
 		redefine
-			name,
-			icon,
-			conf_item_type,
-			section_item_type,
-			add_dialog_type,
-			update_toolbar_sensitivity,
-			context_menu
+			initialize
+		end
+
+	FRAMEWORK_CONSTANTS
+		undefine
+			default_create,
+			copy
 		end
 
 create
-	make
+	default_create,
+	make_with_text,
+	make_with_text_and_actions
 
-feature -- Access
+feature {NONE} -- Initialization
 
-	name: STRING_GENERAL is
-			-- Name of the section.
-		once
-			Result := conf_interface_names.group_precompile_tree
-		end
-
-	icon: EV_PIXMAP is
-			-- Icon of the section.
-		once
-			Result := conf_pixmaps.top_level_folder_precompiles_icon
-		end
-
-feature {NONE} -- Implementation
-
-	context_menu: ARRAYED_LIST [EV_MENU_ITEM] is
-			-- Context menu with available actions for `Current'.
+	initialize is
+			-- Initialize `Current'.
 		do
-			create Result.make (0)
-				-- we can only have one precompile, so as soon as this folder appears we can't add any more.
+			Precursor {EV_CONFIRMATION_DIALOG}
+			set_title (t_confirmation)
+			set_buttons (<<b_ok, b_cancel>>)
+			set_default_push_button (button (b_ok))
+			set_default_cancel_button (button (b_cancel))
 		end
 
-	update_toolbar_sensitivity is
-			-- Enable/disable buttons in `toolbar'.
+feature -- Status report
+
+	is_ok_selected: BOOLEAN is
+			-- Is last selected button OK?
 		do
-				-- we can only have one precompile, so as soon as this folder appears we can't add any more.
+			Result := selected_button.is_equal (ok)
 		end
 
-feature {NONE} -- Type anchors
+	is_cancel_selected: BOOLEAN is
+			-- Is last selected button Cancel?
+		do
+			Result := selected_button.is_equal (cancel)
+		end
 
-	add_dialog_type: CREATE_PRECOMPILE_DIALOG
-			-- Type of the dialog to create a new item.
+feature -- Constants
 
-	conf_item_type: CONF_PRECOMPILE
-			-- Type of configuration objects represented.
+	ok: STRING_GENERAL is
+		once
+			Result := b_ok
+		end
 
-	section_item_type: PRECOMPILE_SECTION;
-			-- Type of sections contained.
+	cancel: STRING_GENERAL is
+		once
+			Result := b_cancel
+		end
 
 indexing
 	copyright:	"Copyright (c) 1984-2006, Eiffel Software"
@@ -69,19 +69,19 @@ indexing
 	licensing_options:	"http://www.eiffel.com/licensing"
 	copying: "[
 			This file is part of Eiffel Software's Eiffel Development Environment.
-
+			
 			Eiffel Software's Eiffel Development Environment is free
 			software; you can redistribute it and/or modify it under
 			the terms of the GNU General Public License as published
 			by the Free Software Foundation, version 2 of the License
 			(available at the URL listed under "license" above).
-
+			
 			Eiffel Software's Eiffel Development Environment is
 			distributed in the hope that it will be useful,	but
 			WITHOUT ANY WARRANTY; without even the implied warranty
 			of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 			See the	GNU General Public License for more details.
-
+			
 			You should have received a copy of the GNU General Public
 			License along with Eiffel Software's Eiffel Development
 			Environment; if not, write to the Free Software Foundation,
@@ -94,4 +94,5 @@ indexing
 			 Website http://www.eiffel.com
 			 Customer support http://support.eiffel.com
 		]"
-end
+
+end -- class EB_CONFIRMATION_DIALOG
