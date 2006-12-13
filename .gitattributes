@@ -350,11 +350,6 @@ Src/library/editor/bitmaps/icon_close_color.png -text
 Src/library/editor/bitmaps/left_scroll_arrow.png -text
 Src/library/editor/bitmaps/right_scroll_arrow.png -text
 Src/library/gobo_extension/gobo_extension.ecf -text
-Src/library/i18n/Clib/Makefile.SH -text
-Src/library/i18n/Clib/make_bcb.bat -text
-Src/library/i18n/Clib/make_msc.bat -text
-Src/library/i18n/Clib/makefile.b -text
-Src/library/i18n/Clib/makefile.m -text
 Src/library/i18n/README -text
 Src/library/i18n/TODO -text
 Src/library/i18n/doc/css/Thumbs.db -text
