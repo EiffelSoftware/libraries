@@ -292,6 +292,7 @@ Src/framework/parser/roundtrip/refactoring/text_modifier/ert_token_region.e -tex
 Src/framework/parser/roundtrip/scanner/eiffel_roundtrip_scanner.e -text
 Src/framework/parser/roundtrip/visitor/ast_roundtrip_iterator.e -text
 Src/framework/parser/roundtrip/visitor/ast_roundtrip_printer_visitor.e -text
+Src/framework/vision2/code_completion/code_completable.e -text svneol=native#unset
 Src/library/Eiffel2Java/README.txt -text
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
 Src/library/base_extension/base_extension.ecf -text
