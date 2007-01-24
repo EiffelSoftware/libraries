@@ -64,6 +64,7 @@ Src/library/gobo/library
 Src/library/gobo/misc
 Src/library/gobo/src
 Src/library/gobo/test
+Src/library/gobo/tool
 Src/library/i18n/EIFGENs
 Src/library/i18n/i18n_dev.ecf
 Src/library/i18n/preferences.wb
