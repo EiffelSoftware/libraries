@@ -1,54 +1,34 @@
 indexing
-	description: "Temporary class for interface names used in framework."
+	description: "Names used in debugger"
 	legal: "See notice at end of class."
 	status: "See notice at end of class."
-	author: ""
+	author: "$Author$"
 	date: "$Date$"
 	revision: "$Revision$"
 
 class
-	SHARED_NAMES
+	DEBUGGER_NAMES
 
 inherit
 	SHARED_LOCALE
 
 feature -- Names
 
-	names: INTERFACE_NAMES is
-			-- Names used in interface
-		once
-			create Result
-		end
+	t_Application_launched: STRING_GENERAL is
+			once Result := locale.translate ("Application launched") end
+	t_Application_exited: STRING_GENERAL is
+			once Result := locale.translate ("Application exited") end
+	t_space_Application_ignoring_breakpoints: STRING_GENERAL is
+			once Result := locale.translate (" (ignoring breakpoints)") end
 
-	metric_names: EB_METRIC_NAMES is
-			-- Names used in metric tools
-		once
-			create Result
-		end
-
-	external_output_names: EB_EXTERNAL_OUTPUT_NAMES
-			-- Names for external output tools.
-		once
-			create Result
-		end
-
-	warnings: WARNING_MESSAGES
-			-- Warning messages.
-		once
-			create Result
-		end
-
-	locale_names: LOCALE_NAMES
-			-- Names for locales.
-		once
-			create Result
-		end
-
-	ewb_names: EWB_NAMES
-			-- Names used in tty.
-		once
-			create Result
-		end
+	t_Not_running: STRING_GENERAL is
+			once Result := locale.translate ("Application is not running") end
+	t_Running: STRING_GENERAL is
+			once Result := locale.translate ("Application is running") end
+	t_Running_no_stop_points: STRING_GENERAL is
+			once Result := locale.translate ("Application is running (ignoring breakpoints)") end
+	t_Paused: STRING_GENERAL is
+			once Result := locale.translate ("Application is paused") end
 
 indexing
 	copyright:	"Copyright (c) 1984-2006, Eiffel Software"

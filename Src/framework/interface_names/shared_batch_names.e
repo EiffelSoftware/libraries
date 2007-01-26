@@ -1,42 +1,35 @@
 indexing
-	description	: "Warning dialog"
+	description: "interface names used in batch compiler."
 	legal: "See notice at end of class."
 	status: "See notice at end of class."
-	date		: "$Date$"
-	revision	: "$Revision$"
+	author: ""
+	date: "$Date$"
+	revision: "$Revision$"
 
 class
-	EB_QUESTION_DIALOG
+	SHARED_BATCH_NAMES
 
 inherit
-	EV_QUESTION_DIALOG
-		redefine
-			initialize
+	SHARED_LOCALE
+
+feature -- Names
+
+	warnings: WARNING_MESSAGES
+			-- Warning messages.
+		once
+			create Result
 		end
 
-	SHARED_BENCH_NAMES
-		undefine
-			default_create,
-			copy
+	locale_names: LOCALE_NAMES
+			-- Names for locales.
+		once
+			create Result
 		end
 
-create
-	default_create,
-	make_with_text,
-	make_with_text_and_actions
-
-feature {NONE} -- Initialization
-
-	initialize is
-			-- Initialize `Current'.
-		do
-			Precursor {EV_QUESTION_DIALOG}
-			set_title (names.t_question)
-			set_pixmap (Default_pixmaps.Question_pixmap)
-			set_icon_pixmap (Default_pixmaps.Question_pixmap)
-			set_buttons (<<names.b_yes, names.b_no, names.b_cancel>>)
-			set_default_push_button(button (names.b_yes))
-			set_default_cancel_button(button (names.b_cancel))
+	ewb_names: EWB_NAMES
+			-- Names used in tty.
+		once
+			create Result
 		end
 
 indexing
@@ -71,5 +64,4 @@ indexing
 			 Customer support http://support.eiffel.com
 		]"
 
-end -- class EV_QUESTION_DIALOG
-
+end
