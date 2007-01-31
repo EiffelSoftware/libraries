@@ -325,11 +325,6 @@ Src/library/docking/implementation/controls/sd_zone_navigation_dialog.e -text
 Src/library/docking/implementation/controls/sd_zone_navigation_dialog_imp.e -text
 Src/library/docking/implementation/controls/zone/sd_docking_zone_normal.e -text
 Src/library/docking/implementation/controls/zone/sd_docking_zone_upper.e -text
-Src/library/docking/implementation/docking/sd_docking_manager_internal_agents.e -text
-Src/library/docking/implementation/docking/sd_docking_manager_internal_command.e -text
-Src/library/docking/implementation/docking/sd_docking_manager_internal_property.e -text
-Src/library/docking/implementation/docking/sd_docking_manager_internal_query.e -text
-Src/library/docking/implementation/docking/sd_docking_manager_internal_zones.e -text
 Src/library/docking/implementation/gtk/sd_feedback_rect.e -text
 Src/library/docking/implementation/gtk/sd_line_drawer.e -text
 Src/library/docking/implementation/hot_zone/half_tone_style/sd_hot_zone_old_docking.e -text
