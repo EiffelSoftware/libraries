@@ -72,6 +72,7 @@ Src/library/i18n/root_class.e
 Src/library/i18n/sample.ecf
 Src/library/i18n/sample.rc
 Src/library/net/spec
+Src/library/store/spec
 Src/library/vision2/spec/linux-x86-64
 Src/library/vision2/spec/msc
 Src/library/vision2/spec/unix
