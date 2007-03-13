@@ -1,45 +1,57 @@
 indexing
-	description:
-		"[
-			Objects that represent a contraint triple structure:
-			TE_CONSTRAIN, TYPE_AS, EIFFEL_LIST [FEATURE_NAME]
-		]"
+	description: "[
+					Do a second pass over the generic declaration of a class.
+					If its not a formal record it in the supplier list of the current class.
+				]"
 	legal: "See notice at end of class."
 	status: "See notice at end of class."
-	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
 class
-	CONSTRAINT_TRIPLE
+	CONSTRAINT_LIST_AS
+
+inherit
+	EIFFEL_LIST[CONSTRAINING_TYPE_AS]
 
 create
-	make
+	make, make_filled
 
-feature{NONE} -- Initialization
+feature
 
-	make (k_as: like constrain_symbol; t_as: like type; l_as: like creation_constrain) is
-			-- Create new CONSTRAINT_TRIPLE sturcture.
+		dump (a_dump_renaming: BOOLEAN): STRING_8
+			-- Dumps a list of constraining types
+			--
+			-- `a_dump_renaming' states whether the renaming clause should be dumped as well.	
 		do
-			constrain_symbol := k_as
-			type := t_as
-			creation_constrain := l_as
-		ensure
-			constrain_symbol_set: constrain_symbol = k_as
-			type_set: type = t_as
-			creation_constrain_set: creation_constrain = l_as
+			if is_empty then
+				Result := "ANY"
+			else
+				Result := first.type.dump
+				if a_dump_renaming and then first.renaming /= Void then
+					Result.append (" ")
+					Result.append (first.renaming.dump)
+				end
+				if count > 1 then
+					Result.prepend ("{")
+					from
+						start
+						forth
+					until
+						after
+					loop
+						Result.append (", ")
+						Result.append (item.type.dump)
+						if a_dump_renaming and then item.renaming /= Void then
+							Result.append (" ")
+							Result.append (item.renaming.dump)
+						end
+						forth
+					end
+					Result.append ("}")
+				end
+			end
 		end
-
-feature -- Access
-
-	constrain_symbol: SYMBOL_AS
-			-- Constrain keyword
-
-	type: CONSTRAINT_LIST_AS
-			-- Type associated with current structure
-
-	creation_constrain: CREATION_CONSTRAIN_TRIPLE;
-			-- Creation constraion structure
 
 indexing
 	copyright:	"Copyright (c) 1984-2006, Eiffel Software"
