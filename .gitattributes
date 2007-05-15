@@ -300,7 +300,6 @@ Src/library/diff/diff_index_link.e -text
 Src/library/diff/diff_line.e -text
 Src/library/diff/diff_line_add.e -text
 Src/library/diff/diff_line_del.e -text
-Src/library/diff/diff_match_index.e -text
 Src/library/diff/diff_text.e -text
 Src/library/editor/bitmaps/copy_selection.png -text
 Src/library/editor/bitmaps/cut_selection.png -text
