@@ -417,6 +417,7 @@ Src/library/process/classic/windows/wel_process_toolhelp_constants.e -text
 Src/library/process/classic/windows/wel_thread_entry_32.e -text
 Src/library/process/classic/windows/wel_toolhelp.e -text
 Src/library/vision2/Clib/default_vision2_icon.ico -text
+Src/library/vision2/implementation/carbon/Readme.txt -text
 Src/library/wel/extra/h2e.ico svneol=native#unset
 Src/library/wel/extra/h2e1.ico svneol=native#unset
 Src/library/wel/extra/h2e2.ico svneol=native#unset
