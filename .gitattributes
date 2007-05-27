@@ -418,6 +418,15 @@ Src/library/process/classic/windows/wel_thread_entry_32.e -text
 Src/library/process/classic/windows/wel_toolhelp.e -text
 Src/library/vision2/Clib/default_vision2_icon.ico -text
 Src/library/vision2/implementation/carbon/Readme.txt -text
+Src/library/vision2/implementation/carbon/kernel/.DS_Store -text
+Src/library/vision2/implementation/carbon/kernel/ev_any_imp.fig -text
+Src/library/vision2/implementation/carbon/testing/HRidges.png -text
+Src/library/vision2/implementation/carbon/testing/HSplitter.png -text
+Src/library/vision2/implementation/carbon/testing/VRidges.png -text
+Src/library/vision2/implementation/carbon/testing/VSplitter.png -text
+Src/library/vision2/implementation/carbon/wrapper/carbon_c_eiffel_glue_library_ise_gcc.a -text
+Src/library/vision2/implementation/carbon/wrapper/config.ewg -text
+Src/library/vision2/implementation/carbon/wrapper/generated_wrapper/eiffel/abstraction/.DS_Store -text
 Src/library/wel/extra/h2e.ico svneol=native#unset
 Src/library/wel/extra/h2e1.ico svneol=native#unset
 Src/library/wel/extra/h2e2.ico svneol=native#unset
