@@ -56,6 +56,8 @@ Src/examples/docking/simple/images/smart_docking_icon_matrix_8_16_horizontal.png
 Src/examples/docking/simple/images/up.png -text
 Src/examples/docking/simple/images/up_light.png -text
 Src/examples/docking/simple/snapshot.PNG -text
+Src/examples/dotnet/sdk/assemblies/searchpath/eiffel/math/app.config -text
+Src/examples/dotnet/sdk/samples.txt -text
 Src/examples/dotnet/winforms/applications/world_calc/math.dll -text
 Src/examples/dotnet/winforms/applications/world_calc/parserutils.dll -text
 Src/examples/dotnet/winforms/control_reference/tree_view_ctl/clsdfold.bmp -text
