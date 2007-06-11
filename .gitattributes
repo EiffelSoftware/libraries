@@ -153,7 +153,7 @@ Src/examples/vision2/rich_text/right_alignment.png -text
 Src/examples/vision2/rich_text/strike.png -text
 Src/examples/vision2/rich_text/underline.png -text
 Src/examples/vision2/viewport/bm_About.png -text
-Src/examples/vision2/widget_test/svn_command.btm -text
+Src/examples/vision2/widget_test/svn_command.bat -text
 Src/examples/vision2/widgets/bm_About.png -text
 Src/examples/vision2/widgets/icon_wizard_blank_project.png -text
 Src/examples/wel/bmpview/bmpview_demo.ico -text
