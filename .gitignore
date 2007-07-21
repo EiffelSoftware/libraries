@@ -51,6 +51,7 @@ Src/free_add_ons
 Src/library/com/spec/bcb
 Src/library/com/spec/mingw
 Src/library/com/spec/msc
+Src/library/encryption/spec
 Src/library/event/spec
 Src/library/gobo
 Src/library/gobo/History.txt
