@@ -48,6 +48,8 @@ Src/framework/configuration/*.wb
 Src/framework/configuration/EIFGENs
 Src/framework/parser/parser/output.txt
 Src/free_add_ons
+Src/library/com/spec/bcb
+Src/library/com/spec/mingw
 Src/library/com/spec/msc
 Src/library/event/spec
 Src/library/gobo
@@ -75,10 +77,12 @@ Src/library/net/spec
 Src/library/store/spec
 Src/library/vision2/spec/bcb
 Src/library/vision2/spec/linux-x86-64
+Src/library/vision2/spec/mingw
 Src/library/vision2/spec/msc
 Src/library/vision2/spec/unix
 Src/library/wel/Clib/ilwel.lib
 Src/library/wel/Clib/make.log
 Src/library/wel/Clib/wel.lib
 Src/library/wel/spec/bcb
+Src/library/wel/spec/mingw
 Src/library/wel/spec/msc
