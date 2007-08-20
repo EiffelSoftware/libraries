@@ -34,6 +34,7 @@ Src/examples/docking/docking_control/images/smart_docking_icon_matrix_8_16.png -
 Src/examples/docking/docking_control/images/smart_docking_icon_matrix_8_16_horizontal.png -text
 Src/examples/docking/docking_control/images/up.png -text
 Src/examples/docking/docking_control/images/up_light.png -text
+Src/examples/docking/docking_control/snapshot.PNG -text
 Src/examples/docking/docking_control/widgets/build_project.bpr -text
 Src/examples/docking/docking_control/widgets/system_interface.xml -text
 Src/examples/docking/simple/images/center.png -text
