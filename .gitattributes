@@ -285,7 +285,6 @@ Src/framework/parser/roundtrip/visitor/ast_roundtrip_printer_visitor.e -text
 Src/library/Eiffel2Java/README.txt -text
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
 Src/library/base_extension/base_extension.ecf -text
-Src/library/cURL/spec/msc/win64/lib/libcurl_imp.lib -text
 Src/library/diff/diff.e -text
 Src/library/diff/diff_index_link.e -text
 Src/library/diff/diff_line.e -text
