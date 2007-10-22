@@ -240,6 +240,7 @@ Src/framework/configuration/parser/implementation/lace/lace_compile/lace.l -text
 Src/framework/configuration/parser/implementation/lace/lace_compile/make.cmd -text
 Src/framework/configuration/versioning/configuration-1-0-0.xsd -text
 Src/framework/configuration/versioning/configuration-1-2-0.xsd -text
+Src/framework/configuration/versioning/configuration-1-3-0.xsd -text
 Src/framework/configuration/versioning/conversion-1-0-0.xsl -text
 Src/framework/configuration/versioning/fix-eweasel-1-0-0.xsl -text
 Src/framework/parser/AST/expressions/agent_routine_creation_as.e -text
