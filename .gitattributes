@@ -1485,14 +1485,9 @@ Src/examples/com/compound/child.ico -text
 Src/examples/com/compound/compound.ico -text
 Src/examples/cpp/mystring/README -text
 Src/examples/cpp/mystring/test_cpp.ico svneol=native#unset
-Src/examples/docking/docking_control/docking_control.exe.manifest -text
 Src/examples/docking/docking_control/docking_control.rc -text
 Src/examples/docking/docking_control/snapshot.PNG -text
-Src/examples/docking/docking_control/widgets/build_project.bpr -text
-Src/examples/docking/docking_control/widgets/system_interface.xml -text
 Src/examples/docking/simple/snapshot.PNG -text
-Src/examples/dotnet/sdk/assemblies/searchpath/eiffel/math/app.config -text
-Src/examples/dotnet/sdk/samples.txt -text
 Src/examples/dotnet/winforms/applications/world_calc/math.dll -text
 Src/examples/dotnet/winforms/applications/world_calc/parserutils.dll -text
 Src/examples/dotnet/winforms/control_reference/tree_view_ctl/clsdfold.bmp -text
@@ -1588,7 +1583,6 @@ Src/examples/vision2/rich_text/right_alignment.png -text
 Src/examples/vision2/rich_text/strike.png -text
 Src/examples/vision2/rich_text/underline.png -text
 Src/examples/vision2/viewport/bm_About.png -text
-Src/examples/vision2/widget_test/svn_command.bat -text
 Src/examples/vision2/widgets/bm_About.png -text
 Src/examples/vision2/widgets/icon_wizard_blank_project.png -text
 Src/examples/wel/bmpview/bmpview_demo.ico -text
