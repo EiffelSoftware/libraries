@@ -69,6 +69,8 @@ Src/framework/configuration/*.wb
 Src/framework/configuration/EIFGENs
 Src/framework/parser/parser/output.txt
 Src/free_add_ons
+Src/library/cURL/spec/mingw
+Src/library/cURL/spec/msc
 Src/library/com/spec/bcb
 Src/library/com/spec/mingw
 Src/library/com/spec/msc
