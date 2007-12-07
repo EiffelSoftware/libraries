@@ -1721,13 +1721,11 @@ Src/library/editor/bitmaps/left_scroll_arrow.png -text
 Src/library/editor/bitmaps/right_scroll_arrow.png -text
 Src/library/i18n/README -text
 Src/library/i18n/TODO -text
-Src/library/i18n/doc/css/Thumbs.db -text
 Src/library/i18n/doc/css/commonPrint.css -text
 Src/library/i18n/doc/css/wikibits.js -text
 Src/library/i18n/doc/img/500px-I18n_translation.png -text
 Src/library/i18n/doc/img/I18n_locale_information.png -text
 Src/library/i18n/doc/img/I18n_overview.png -text
-Src/library/i18n/doc/img/Thumbs.db -text
 Src/library/i18n/documents/locale_info_features -text
 Src/library/i18n/example_application/logo.png -text
 Src/library/i18n/example_application/mo_files/ar_SA.mo -text
