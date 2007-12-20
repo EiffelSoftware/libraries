@@ -1,50 +1,28 @@
 indexing
-	description: "Validity error."
+	description	: "Warning object sent by the compiler to the workbench."
 	legal: "See notice at end of class."
 	status: "See notice at end of class."
-	date: "$Date$"
-	revision: "$Revision $"
+	date		: "$Date$"
+	revision	: "$Revision $"
 
-deferred class
-	VALIDITY_ERROR
+deferred class WARNING
 
 inherit
 	ERROR
-
-	SYNTAX_MESSAGE
-
-feature {NONE} -- Initialization
-
-	make (s, e: INTEGER; f: like file_name; error_mssage: STRING) is
-			-- Create a new SYNTAX_ERROR.
-		require
-			f_not_void: f /= Void
-		do
-			set_position (s, e)
-			file_name := f
-		ensure
-			line_set: line = s
-			column_set: column = e
-			file_name_set: file_name = f
+		redefine
+			Error_string
 		end
 
-feature -- Properties
+feature -- Property
 
-	file_name: STRING
-			-- Path to file where syntax issue happened
-
-	syntax_message: STRING is
-			-- Specific syntax message.
-			-- (By default, it is empty)
+	Error_string: STRING is
 		do
-			Result := ""
-		ensure
-			non_void_result: Result /= Void
+			Result := "Warning"
 		end
 
 indexing
 	copyright:	"Copyright (c) 1984-2006, Eiffel Software"
-	license:	"GPL version 2 see http://www.eiffel.com/licensing/gpl.txt)"
+	license:	"GPL version 2 (see http://www.eiffel.com/licensing/gpl.txt)"
 	licensing_options:	"http://www.eiffel.com/licensing"
 	copying: "[
 			This file is part of Eiffel Software's Eiffel Development Environment.
@@ -74,4 +52,4 @@ indexing
 			 Customer support http://support.eiffel.com
 		]"
 
-end -- class SYNTAX_ERROR
+end -- class WARNING
