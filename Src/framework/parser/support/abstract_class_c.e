@@ -1,37 +1,12 @@
 indexing
-	description: "Syntax error for basic type with generic derivation."
+	description: "Export class for documentation."
 	legal: "See notice at end of class."
-	status: "See notice at end of class.";
-	date: "$Date$";
+	status: "See notice at end of class."
+	date: "$Date$"
 	revision: "$Revision$"
 
-class BASIC_GEN_TYPE_ERR
-
-inherit
-
-	SYNTAX_ERROR
-		redefine
-			syntax_message,
-			process
-		end
-
-create
-	make
-
-feature -- Property
-
-	syntax_message: STRING is
-            -- Specific syntax message.
-        do
-			Result := "basic type cannot have generic derivation"
-        end
-
-feature -- Visitor
-
-	process (a_visitor: ERROR_VISITOR) is
-		do
-			a_visitor.process_basic_gen_type_err (Current)
-		end
+class
+	ABSTRACT_CLASS_C
 
 indexing
 	copyright:	"Copyright (c) 1984-2006, Eiffel Software"
@@ -64,5 +39,4 @@ indexing
 			 Website http://www.eiffel.com
 			 Customer support http://support.eiffel.com
 		]"
-
 end

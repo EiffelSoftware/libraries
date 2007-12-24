@@ -1,28 +1,27 @@
 indexing
-	description: "To represent a message related to syntax."
+	description: "[
+		Base class for user defined errors (for example errors from a compiler should inherit
+		from this class).
+		]"
 	legal: "See notice at end of class."
-	status: "See notice at end of class."
+	status: "See notice at end of class.";
 	date: "$Date$"
 	revision: "$Revision$"
 
 deferred class
-	SYNTAX_MESSAGE
+	USER_DEFINED_ERROR
 
-feature -- Properties
-
-	file_name: STRING is
-			-- Path to file where syntax issue happened
-		deferred
+inherit
+	ERROR
+		redefine
+			process
 		end
 
-	line: INTEGER is
-			-- Line number of token involved in syntax issue
-		deferred
-		end
+feature -- Visitor
 
-	column: INTEGER is
-			-- Column number of token involved in syntax issue
-		deferred
+	process (a_visitor: ERROR_VISITOR) is
+		do
+			a_visitor.process_user_defined_error (Current)
 		end
 
 indexing
