@@ -1481,6 +1481,10 @@ Src/C_library/zlib/contrib/blast/test.pk svneol=native#unset
 Src/C_library/zlib/contrib/puff/zeros.raw svneol=native#unset
 Src/examples/Eiffel2Java/README -text
 Src/examples/Eiffel2Java/test.class -text
+Src/examples/cURL/debug/debug.rc -text
+Src/examples/cURL/get_in_memory/get_in_memory.rc -text
+Src/examples/cURL/http_post/http_post.rc -text
+Src/examples/cURL/simple/simple.rc -text
 Src/examples/com/compound/child.ico -text
 Src/examples/com/compound/compound.ico -text
 Src/examples/cpp/mystring/README -text
