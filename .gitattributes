@@ -1763,7 +1763,6 @@ Src/library/process/classic/windows/wel_process_toolhelp_constants.e -text
 Src/library/vision2/Clib/default_vision2_icon.ico -text
 Src/library/vision2/implementation/carbon/Readme.txt -text
 Src/library/vision2/implementation/carbon/kernel/.DS_Store -text
-Src/library/vision2/implementation/carbon/kernel/ev_any_imp.fig -text
 Src/library/vision2/implementation/carbon/testing/HRidges.png -text
 Src/library/vision2/implementation/carbon/testing/HSplitter.png -text
 Src/library/vision2/implementation/carbon/testing/VRidges.png -text
