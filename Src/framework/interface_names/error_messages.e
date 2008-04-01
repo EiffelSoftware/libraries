@@ -15,7 +15,7 @@ inherit
 
 feature -- Access
 
-	e_code_template_parse (a_error: STRING_GENERAL; a_file_name: STRING_GENERAL): !STRING_32 do Result ?= locale.formatted_string ("Unable to parse the code template: $1 in '$2'.", [a_error, a_file_name]) end
+	e_code_template_parse (a_error: STRING_GENERAL; a_file_name: STRING_GENERAL): !STRING_32 do Result ?= locale.formatted_string ("Unable to parse the code template  '$1'. Error: $2.", [a_file_name, a_error]) end
 	e_code_template_read (a_file_name: STRING_GENERAL): !STRING_32 do Result ?= locale.formatted_string ("Unable to read the code template file '$1'.", [a_file_name]) end
 
 ;indexing
