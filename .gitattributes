@@ -1723,6 +1723,7 @@ Src/library/editor/bitmaps/cut_selection.png -text
 Src/library/editor/bitmaps/icon_close_color.png -text
 Src/library/editor/bitmaps/left_scroll_arrow.png -text
 Src/library/editor/bitmaps/right_scroll_arrow.png -text
+Src/library/encoding/implementation/unix/Clib/iconv-config -text
 Src/library/i18n/README -text
 Src/library/i18n/TODO -text
 Src/library/i18n/doc/css/commonPrint.css -text
