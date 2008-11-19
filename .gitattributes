@@ -1500,7 +1500,6 @@ Src/examples/dotnet/winforms/control_reference/tree_view_ctl/diamond.bmp -text
 Src/examples/dotnet/winforms/control_reference/tree_view_ctl/openfold.bmp -text
 Src/examples/dotnet/winforms/gdi_plus/text/colorbars.jpg -text
 Src/examples/dotnet/winforms/gdi_plus/text/marble.jpg -text
-Src/examples/net_ipv6/tftp/tftp/server/qqq -text
 Src/examples/obsolete/base/desc-32/test.ico svneol=native#unset
 Src/examples/obsolete/base/desc-32/testdesc.dll -text
 Src/examples/obsolete/base/desc-32/testdesc.lib -text
