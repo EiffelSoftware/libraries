@@ -1734,6 +1734,7 @@ Src/framework/framework.lic -text
 Src/framework/gui_testing/gui_testing.lic -text
 Src/framework/interface_names/interface_names.lic -text
 Src/framework/parser/parser.lic -text
+Src/framework/parser_extension/parser_extension.lic -text
 Src/framework/patterns/bridge/bridge.lic -text
 Src/framework/patterns/call_site/call_site.lic -text
 Src/framework/patterns/printer/printer.lic -text
