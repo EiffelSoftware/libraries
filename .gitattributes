@@ -1741,6 +1741,7 @@ Src/framework/patterns/printer/printer.lic -text
 Src/framework/patterns/service_coupling/service_coupling.lic -text
 Src/framework/resources/resources.lic -text
 Src/framework/tagging/tagging.lic -text
+Src/framework/tagging/tests/tests.lic -text
 Src/framework/testing/testing.lic -text
 Src/framework/threading/threading.lic -text
 Src/framework/uri_launcher/uri_launcher.lic -text
