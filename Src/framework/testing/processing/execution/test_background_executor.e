@@ -13,7 +13,6 @@ inherit
 	TEST_EXECUTOR
 		redefine
 			compile_project,
-			evaluator_count,
 			relaunch_evaluators
 		end
 
@@ -24,11 +23,6 @@ inherit
 
 create
 	make
-
-feature -- Access
-
-	evaluator_count: NATURAL = 4
-			-- <Precursor>
 
 feature {NONE} -- Status report
 
@@ -60,7 +54,7 @@ feature {NONE} -- Factory
 		end
 
 note
-	copyright: "Copyright (c) 1984-2008, Eiffel Software"
+	copyright: "Copyright (c) 1984-2009, Eiffel Software"
 	license:   "GPL version 2 (see http://www.eiffel.com/licensing/gpl.txt)"
 	licensing_options: "http://www.eiffel.com/licensing"
 	copying: "[
