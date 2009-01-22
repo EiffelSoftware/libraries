@@ -1792,6 +1792,7 @@ Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
 Src/library/process/classic/unix/process_thread_timer.e -text
 Src/library/process/classic/windows/wel_process_id_pair.e -text
 Src/library/process/classic/windows/wel_process_toolhelp_constants.e -text
+Src/library/process/process-safe.lic -text
 Src/library/process/process.lic -text
 Src/library/process/tests/tests.lic -text
 Src/library/thread/tests/tests.lic -text
@@ -1810,4 +1811,5 @@ Src/library/vision2/implementation/carbon/wrapper/generated_wrapper/eiffel/abstr
 Src/library/wel/extra/h2e.ico svneol=native#unset
 Src/library/wel/extra/h2e1.ico svneol=native#unset
 Src/library/wel/extra/h2e2.ico svneol=native#unset
+Src/library/wel/wel-safe.lic -text
 Src/library/wizard/help/Clib/htmlhelp.lib -text
