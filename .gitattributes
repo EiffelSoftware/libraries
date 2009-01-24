@@ -1795,9 +1795,11 @@ Src/library/process/classic/windows/wel_process_toolhelp_constants.e -text
 Src/library/process/process-safe.lic -text
 Src/library/process/process.lic -text
 Src/library/process/tests/tests.lic -text
+Src/library/testing/tests/tests.lic -text
 Src/library/thread/tests/tests.lic -text
 Src/library/thread/thread-safe.lic -text
 Src/library/thread/thread.lic -text
+Src/library/uuid/tests/tests.lic -text
 Src/library/vision2/Clib/default_vision2_icon.ico -text
 Src/library/vision2/implementation/carbon/Readme.txt -text
 Src/library/vision2/implementation/carbon/kernel/.DS_Store -text
