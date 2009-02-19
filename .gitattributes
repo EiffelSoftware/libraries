@@ -1788,8 +1788,8 @@ Src/library/i18n/example_application/po_files/ru_RU.po -text
 Src/library/i18n/example_application/po_files/xx_XX.po -text
 Src/library/i18n/example_application/po_files/zh_CN.po -text
 Src/library/i18n/forum.txt -text
-Src/library/i18n/test_files/mo/ar.mo -text
-Src/library/i18n/test_files/mo/zh_CN.mo -text
+Src/library/i18n/tests/test_files/mo/ar.mo -text
+Src/library/i18n/tests/test_files/mo/zh_CN.mo -text
 Src/library/i18n/tests/zh_CN.mo -text
 Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
 Src/library/process/classic/unix/process_thread_timer.e -text
