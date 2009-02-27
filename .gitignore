@@ -68,6 +68,7 @@ Src/framework/cli_writer/spec
 Src/framework/configuration/*.wb
 Src/framework/configuration/EIFGENs
 Src/framework/parser/parser/output.txt
+Src/framework/web/xebra/.project
 Src/free_add_ons
 Src/library/cURL/spec/mingw
 Src/library/cURL/spec/msc
