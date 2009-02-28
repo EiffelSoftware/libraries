@@ -69,6 +69,11 @@ Src/framework/configuration/*.wb
 Src/framework/configuration/EIFGENs
 Src/framework/parser/parser/output.txt
 Src/framework/web/xebra/.project
+Src/framework/web/xebra/c_projects/.project
+Src/framework/web/xebra/c_projects/mod_xebra/autom4te.cache
+Src/framework/web/xebra/c_projects/mod_xebra/debug
+Src/framework/web/xebra/c_projects/xebrasockets/autom4te.cache
+Src/framework/web/xebra/c_projects/xebrasockets/debug
 Src/free_add_ons
 Src/library/cURL/spec/mingw
 Src/library/cURL/spec/msc
