@@ -1485,6 +1485,8 @@ Src/examples/cURL/debug/debug.rc -text
 Src/examples/cURL/get_in_memory/get_in_memory.rc -text
 Src/examples/cURL/http_post/http_post.rc -text
 Src/examples/cURL/simple/simple.rc -text
+Src/examples/cURL/upload_and_read_function/eiffel_tower.jpg -text
+Src/examples/cURL/upload_and_read_function/put.php -text
 Src/examples/com/compound/child.ico -text
 Src/examples/com/compound/compound.ico -text
 Src/examples/cpp/mystring/README -text
