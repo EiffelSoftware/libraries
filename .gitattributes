@@ -2007,6 +2007,7 @@ Src/library/i18n/tests/test_files/mo/ar.mo -text
 Src/library/i18n/tests/test_files/mo/zh_CN.mo -text
 Src/library/i18n/tests/zh_CN.mo -text
 Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
+Src/library/preferences/preferences_reg-safe.lic -text
 Src/library/preferences/preferences_reg.lic -text
 Src/library/process/classic/unix/process_thread_timer.e -text
 Src/library/process/classic/windows/wel_process_id_pair.e -text
