@@ -1738,7 +1738,6 @@ Src/framework/interface_names/interface_names.lic -text
 Src/framework/parser/parser.lic -text
 Src/framework/parser_extension/parser_extension.lic -text
 Src/framework/patterns/service_coupling/service_coupling.lic -text
-Src/framework/patterns/site/call_site.lic -text
 Src/framework/resources/resources.lic -text
 Src/framework/tagging/tagging.lic -text
 Src/framework/tagging/tests/tests.lic -text
