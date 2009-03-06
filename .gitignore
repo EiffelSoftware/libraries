@@ -78,6 +78,7 @@ Src/framework/web/xebra/eiffel_projects/.project
 Src/framework/web/xebra/eiffel_projects/xebra_server/EIFGENs
 Src/framework/web/xebra/eiffel_projects/xebra_translator/EIFGENs
 Src/framework/web/xebra/eiffel_projects/xebra_web_app/EIFGENs
+Src/framework/web/xebra/websites/testapp/EIFGENs
 Src/free_add_ons
 Src/library/cURL/spec/mingw
 Src/library/cURL/spec/msc
