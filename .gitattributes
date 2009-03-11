@@ -1748,6 +1748,10 @@ Src/framework/web/xebra/c_projects/xebrasockets/sockettest2.kdevelop.pcs -text
 Src/framework/web/xebra/doc/XEbraArchitecture.pdf -text
 Src/framework/web/xebra/doc/XEbraArchitecture.png -text
 Src/framework/web/xebra/doc/XEbraArchitecture.pptx -text
+Src/framework/web/xebra/doc/XEbraArchitecture2-1.png -text
+Src/framework/web/xebra/doc/XEbraArchitecture2-2.png -text
+Src/framework/web/xebra/doc/XEbraArchitecture2.pdf -text svneol=unset#unset
+Src/framework/web/xebra/doc/XEbraArchitecture2.pptx -text
 Src/framework/web/xebra/doc/XEbraCreationWorkflow.pdf -text
 Src/framework/web/xebra/doc/XEbraCreationWorkflow.png -text
 Src/framework/web/xebra/doc/XEbraCreationWorkflow.pptx -text
