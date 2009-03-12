@@ -1743,7 +1743,8 @@ Src/framework/tagging/tests/tests.lic -text
 Src/framework/testing/testing.lic -text
 Src/framework/threading/threading.lic -text
 Src/framework/uri_launcher/uri_launcher.lic -text
-Src/framework/web/xebra/c_projects/mod_xebra/mod_xebra.kdevelop.pcs -text
+Src/framework/web/xebra/c_projects/mod_xebra/src/.deps/mod_xebra.Plo -text
+Src/framework/web/xebra/c_projects/mod_xebra/src/.deps/xebrasockets.Plo -text
 Src/framework/web/xebra/c_projects/xebrasockets/sockettest2.kdevelop.pcs -text
 Src/framework/web/xebra/doc/XEbraArchitecture.pdf -text
 Src/framework/web/xebra/doc/XEbraArchitecture.png -text
