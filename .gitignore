@@ -70,9 +70,6 @@ Src/framework/configuration/EIFGENs
 Src/framework/parser/parser/output.txt
 Src/framework/web/xebra/.project
 Src/framework/web/xebra/c_projects/.project
-Src/framework/web/xebra/c_projects/mod_xebra/autom4te.cache
-Src/framework/web/xebra/c_projects/mod_xebra/debug
-Src/framework/web/xebra/c_projects/mod_xebra/xebrasockets.h.gch
 Src/framework/web/xebra/c_projects/mod_xebra2/.libs
 Src/framework/web/xebra/c_projects/mod_xebra2/clean.sh
 Src/framework/web/xebra/c_projects/mod_xebra2/mod_xebra.slo
