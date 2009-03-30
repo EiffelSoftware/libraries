@@ -70,9 +70,9 @@ Src/framework/configuration/EIFGENs
 Src/framework/parser/parser/output.txt
 Src/framework/web/xebra/.project
 Src/framework/web/xebra/c_projects/.project
-Src/framework/web/xebra/c_projects/mod_xebra2/.libs
-Src/framework/web/xebra/c_projects/mod_xebra2/clean.sh
-Src/framework/web/xebra/c_projects/mod_xebra2/mod_xebra.slo
+Src/framework/web/xebra/c_projects/mod_xebra/.libs
+Src/framework/web/xebra/c_projects/mod_xebra/clean.sh
+Src/framework/web/xebra/c_projects/mod_xebra/mod_xebra.slo
 Src/framework/web/xebra/c_projects/serverclienttest/.deps
 Src/framework/web/xebra/c_projects/serverclienttest/.libs
 Src/framework/web/xebra/c_projects/serverclienttest/AUTHORS
