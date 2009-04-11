@@ -29,6 +29,10 @@ Src/C_library/zlib/zlib1.res
 Src/Delivery
 Src/Documentation
 Src/examples/docking/simple/EIFGENs
+Src/examples/store/convert/EIFGENs
+Src/examples/store/insert/EIFGENs
+Src/examples/store/nesting/EIFGENs
+Src/examples/store/oom2rm/EIFGENs
 Src/examples/vision2/widget_test/bitmaps
 Src/examples/vision2/widget_test/interface/default_object_state_checker.e
 Src/examples/vision2/widget_test/interface/events
