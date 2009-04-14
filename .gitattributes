@@ -1793,6 +1793,10 @@ Src/framework/web/xebra/websites/demoapplication/html/reservations.html -text
 Src/framework/web/xebra/websites/demoapplication/html/style.css -text
 Src/framework/web/xebra/websites/demoapplication/html/template.html -text
 Src/framework/web/xebra/websites/demoapplication/html/xebra_tutorial.html -text
+Src/framework/web/xebra/websites/demoapplication/input_servlet_gen.txt -text svneol=unset#text/plain
+Src/framework/web/xebra/websites/demoapplication/input_translator.txt -text svneol=unset#text/plain
+Src/framework/web/xebra/websites/demoapplication/xeb.taglib -text
+Src/framework/web/xebra/websites/demoapplication/xeb_form.taglib -text
 Src/framework/web/xebra/xebra_tutorial.html -text
 Src/framework/xml/xml.lic -text
 Src/library/Eiffel2Java/Eiffel2Java-safe.lic -text
