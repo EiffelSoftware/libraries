@@ -1757,6 +1757,7 @@ Src/framework/web/xebra/eiffel_projects/xebra_translator/dtd.txt -text svneol=un
 Src/framework/web/xebra/eiffel_projects/xebra_translator/input_servlet_gen.txt svneol=native#text/plain
 Src/framework/web/xebra/eiffel_projects/xebra_translator/input_translator.txt svneol=native#text/plain
 Src/framework/web/xebra/eiffel_projects/xebra_translator/xeb_form.taglib -text
+Src/framework/web/xebra/websites/demoapplication/.demoapplication_global_state.e.swp -text
 Src/framework/web/xebra/websites/demoapplication/delete.xeb -text
 Src/framework/web/xebra/websites/demoapplication/details.xeb -text
 Src/framework/web/xebra/websites/demoapplication/dtd.txt -text svneol=unset#text/plain
