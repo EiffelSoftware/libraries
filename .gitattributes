@@ -1762,6 +1762,7 @@ Src/framework/web/xebra/websites/demoapplication/details.xeb -text
 Src/framework/web/xebra/websites/demoapplication/dtd.txt -text svneol=unset#text/plain
 Src/framework/web/xebra/websites/demoapplication/html/Templates/templatexebrademoapp.dwt -text
 Src/framework/web/xebra/websites/demoapplication/html/contact.html -text
+Src/framework/web/xebra/websites/demoapplication/html/delete.html -text
 Src/framework/web/xebra/websites/demoapplication/html/details.html -text
 Src/framework/web/xebra/websites/demoapplication/html/home.html -text
 Src/framework/web/xebra/websites/demoapplication/html/images/content.gif -text
