@@ -1791,6 +1791,7 @@ Src/framework/web/xebra/websites/demoapplication/html/images/template_22.gif -te
 Src/framework/web/xebra/websites/demoapplication/html/images/template_23.gif -text
 Src/framework/web/xebra/websites/demoapplication/html/images/template_24.gif -text
 Src/framework/web/xebra/websites/demoapplication/html/images/template_25.gif -text
+Src/framework/web/xebra/websites/demoapplication/html/insert.html -text
 Src/framework/web/xebra/websites/demoapplication/html/login.html -text
 Src/framework/web/xebra/websites/demoapplication/html/logout.html -text
 Src/framework/web/xebra/websites/demoapplication/html/reservations.html -text
@@ -1799,6 +1800,7 @@ Src/framework/web/xebra/websites/demoapplication/html/template.html -text
 Src/framework/web/xebra/websites/demoapplication/html/xebra_tutorial.html -text
 Src/framework/web/xebra/websites/demoapplication/input_servlet_gen.txt -text svneol=unset#text/plain
 Src/framework/web/xebra/websites/demoapplication/input_translator.txt -text svneol=unset#text/plain
+Src/framework/web/xebra/websites/demoapplication/insert.xeb -text
 Src/framework/web/xebra/websites/demoapplication/xeb.taglib -text
 Src/framework/web/xebra/websites/demoapplication/xeb_form.taglib -text
 Src/framework/web/xebra/xebra_tutorial.html -text
