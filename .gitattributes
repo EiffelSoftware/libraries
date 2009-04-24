@@ -1743,7 +1743,7 @@ Src/framework/tagging/tests/tests.lic -text
 Src/framework/testing/testing.lic -text
 Src/framework/threading/threading.lic -text
 Src/framework/uri_launcher/uri_launcher.lic -text
-Src/framework/web/xebra/c_projects/mod_xebra/apache2_xebra_mod.tar.gz -text
+Src/framework/web/xebra/c_projects/mod_xebra/apache2-2-11_modXebra.tar.gz -text
 Src/framework/web/xebra/doc/XEbraArchitecture.pdf -text
 Src/framework/web/xebra/doc/XEbraArchitecture.png -text
 Src/framework/web/xebra/doc/XEbraArchitecture.pptx -text
