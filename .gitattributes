@@ -2041,6 +2041,7 @@ Src/library/vision2/implementation/carbon/testing/VSplitter.png -text
 Src/library/vision2/implementation/carbon/widgets/dialogs/.DS_Store -text
 Src/library/vision2/implementation/carbon/wrapper/config.ewg -text
 Src/library/vision2/implementation/carbon/wrapper/generated_wrapper/eiffel/abstraction/.DS_Store -text
+Src/library/vision2/implementation/cocoa/Readme.txt -text
 Src/library/wel/extra/h2e.ico svneol=native#unset
 Src/library/wel/extra/h2e1.ico svneol=native#unset
 Src/library/wel/extra/h2e2.ico svneol=native#unset
