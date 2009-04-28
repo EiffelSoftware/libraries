@@ -1754,6 +1754,7 @@ Src/framework/web/xebra/doc/XEbraArchitecture2.pptx -text
 Src/framework/web/xebra/doc/XEbraCreationWorkflow.pdf -text
 Src/framework/web/xebra/doc/XEbraCreationWorkflow.png -text
 Src/framework/web/xebra/doc/XEbraCreationWorkflow.pptx -text
+Src/framework/web/xebra/eiffel_projects/xebra_server/config.xml -text
 Src/framework/web/xebra/eiffel_projects/xebra_translator/dtd.txt -text svneol=unset#text/plain
 Src/framework/web/xebra/eiffel_projects/xebra_translator/input_servlet_gen.txt svneol=native#text/plain
 Src/framework/web/xebra/eiffel_projects/xebra_translator/input_translator.txt svneol=native#text/plain
