@@ -116,6 +116,7 @@ Src/framework/web/xebra/websites/demoapplication/demoapplication_application.e
 Src/framework/web/xebra/websites/demoapplication/demoapplication_g_application.e
 Src/framework/web/xebra/websites/demoapplication/demoapplication_g_server_conn_handler.e
 Src/framework/web/xebra/websites/demoapplication/details_servlet.e
+Src/framework/web/xebra/websites/demoapplication/g_*
 Src/framework/web/xebra/websites/demoapplication/g_shared_demoapplication_global_state.e
 Src/framework/web/xebra/websites/demoapplication/home_servlet.e
 Src/framework/web/xebra/websites/demoapplication/login_servlet.e
@@ -133,6 +134,7 @@ Src/framework/web/xebra/websites/xebrawebapp/g_shared_xebrawebapp_global_state.e
 Src/framework/web/xebra/websites/xebrawebapp/hello_servlet.e
 Src/framework/web/xebra/websites/xebrawebapp/servlet_gen/EIFGENs
 Src/framework/web/xebra/websites/xebrawebapp/servlet_gen/application.e
+Src/framework/web/xebra/websites/xebrawebapp/servlet_gen/g_*
 Src/framework/web/xebra/websites/xebrawebapp/servlet_gen/hello_g_servlet_generator.e
 Src/framework/web/xebra/websites/xebrawebapp/servlet_gen/hello_servlet_generator.e
 Src/framework/web/xebra/websites/xebrawebapp/servlet_gen/servlet_gen.ecf
