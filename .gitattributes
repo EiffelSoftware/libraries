@@ -1803,7 +1803,6 @@ Src/framework/web/xebra/websites/demoapplication/input_translator.txt -text svne
 Src/framework/web/xebra/websites/demoapplication/insert.xeb -text
 Src/framework/web/xebra/websites/demoapplication/xeb.taglib -text
 Src/framework/web/xebra/websites/demoapplication/xeb_form.taglib -text
-Src/framework/web/xebra/websites/xebrawebapp/config.ini -text
 Src/framework/web/xebra/xebra_tutorial.html -text
 Src/framework/xml/xml.lic -text
 Src/library/Eiffel2Java/Eiffel2Java-safe.lic -text
