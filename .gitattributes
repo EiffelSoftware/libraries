@@ -1742,6 +1742,7 @@ Src/framework/tagging/tests/tests.lic -text
 Src/framework/testing/testing.lic -text
 Src/framework/threading/threading.lic -text
 Src/framework/uri_launcher/uri_launcher.lic -text
+Src/framework/web/xebra/c_projects/mod_xebra_win/Debug/mod_xebra.so -text
 Src/framework/web/xebra/c_projects/mod_xebra_win/mod_xebra.vcproj.ARNOF-WIN64.Administrator.user -text
 Src/framework/web/xebra/doc/XEbraArchitecture.pdf -text
 Src/framework/web/xebra/doc/XEbraArchitecture.png -text
