@@ -106,6 +106,7 @@ Src/framework/web/xebra/c_projects/serverclienttest/stamp-h1
 Src/framework/web/xebra/eiffel_projects/.project
 Src/framework/web/xebra/eiffel_projects/library/xebra_error/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_taglibrary_base/EIFGENs
+Src/framework/web/xebra/eiffel_projects/library/xebra_tags/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_web_application/EIFGENs
 Src/framework/web/xebra/eiffel_projects/xebra_server/EIFGENs
 Src/framework/web/xebra/eiffel_projects/xebra_server/response.txt
