@@ -1760,10 +1760,7 @@ Src/framework/web/xebra/eiffel_projects/xebra_translator/dtd.txt -text svneol=un
 Src/framework/web/xebra/eiffel_projects/xebra_translator/input_servlet_gen.txt svneol=native#text/plain
 Src/framework/web/xebra/eiffel_projects/xebra_translator/input_translator.txt svneol=native#text/plain
 Src/framework/web/xebra/eiffel_projects/xebra_translator/xeb_form.taglib -text
-Src/framework/web/xebra/websites/demoapplication/.demoapplication_global_state.e.swp -text
 Src/framework/web/xebra/websites/demoapplication/config.ini -text
-Src/framework/web/xebra/websites/demoapplication/delete.xeb -text
-Src/framework/web/xebra/websites/demoapplication/details.xeb -text
 Src/framework/web/xebra/websites/demoapplication/dtd.txt -text svneol=unset#text/plain
 Src/framework/web/xebra/websites/demoapplication/html/Templates/templatexebrademoapp.dwt -text
 Src/framework/web/xebra/websites/demoapplication/html/contact.html -text
@@ -1798,12 +1795,11 @@ Src/framework/web/xebra/websites/demoapplication/html/images/template_25.gif -te
 Src/framework/web/xebra/websites/demoapplication/html/insert.html -text
 Src/framework/web/xebra/websites/demoapplication/html/login.html -text
 Src/framework/web/xebra/websites/demoapplication/html/logout.html -text
+Src/framework/web/xebra/websites/demoapplication/html/master_template.html -text
 Src/framework/web/xebra/websites/demoapplication/html/reservations.html -text
 Src/framework/web/xebra/websites/demoapplication/html/style.css -text
-Src/framework/web/xebra/websites/demoapplication/html/template.html -text
 Src/framework/web/xebra/websites/demoapplication/input_servlet_gen.txt -text svneol=unset#text/plain
 Src/framework/web/xebra/websites/demoapplication/input_translator.txt -text svneol=unset#text/plain
-Src/framework/web/xebra/websites/demoapplication/insert.xeb -text
 Src/framework/web/xebra/websites/demoapplication/xeb.taglib -text
 Src/framework/web/xebra/websites/demoapplication/xeb_form.taglib -text
 Src/framework/web/xebra/websites/xebrawebapp/config.ini -text
