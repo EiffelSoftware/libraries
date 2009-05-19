@@ -111,6 +111,8 @@ Src/framework/web/xebra/eiffel_projects/library/xebra_web_application/EIFGENs
 Src/framework/web/xebra/eiffel_projects/xebra_server/EIFGENs
 Src/framework/web/xebra/eiffel_projects/xebra_server/response.txt
 Src/framework/web/xebra/eiffel_projects/xebra_translator/EIFGENs
+Src/framework/web/xebra/httpd
+Src/framework/web/xebra/httpd_tmp
 Src/framework/web/xebra/websites/demoapplication/EIFGENs
 Src/framework/web/xebra/websites/demoapplication/g_*
 Src/framework/web/xebra/websites/demoapplication/servlet_gen
