@@ -1825,7 +1825,6 @@ Src/library/Eiffel2Java/Eiffel2Java-safe.lic -text
 Src/library/Eiffel2Java/Eiffel2Java.lic -text
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
 Src/library/api_wrapper/api_wrapper.lic -text
-Src/library/api_wrapper/implementation/unix/api_wrapper-config -text
 Src/library/cocoa/Clib/ns_text_delegate.m -text
 Src/library/diff/diff_index_link.e -text
 Src/library/diff/diff_line.e -text
