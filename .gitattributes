@@ -1756,7 +1756,6 @@ Src/framework/web/xebra/c_projects/iis_xebra_handler/Xebra.csproj -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler/Xebra.csproj.user -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler/Xebra.sln -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler/Xebra.suo -text
-Src/framework/web/xebra/c_projects/iis_xebra_handler/bin/Release/Xebra.dll -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler_testproject/XebraHandlerTester/XebraHandlerTester.sln -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler_testproject/XebraHandlerTester/XebraHandlerTester.suo -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler_testproject/XebraHandlerTester/XebraHandlerTester/Form1.Designer.cs -text
