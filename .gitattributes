@@ -1830,8 +1830,6 @@ Src/framework/web/xebra/websites/demoapplication/html/logout.html -text
 Src/framework/web/xebra/websites/demoapplication/html/master_template.html -text
 Src/framework/web/xebra/websites/demoapplication/html/reservations.html -text
 Src/framework/web/xebra/websites/demoapplication/html/style.css -text
-Src/framework/web/xebra/websites/demoapplication/input_servlet_gen.txt -text svneol=unset#text/plain
-Src/framework/web/xebra/websites/demoapplication/input_translator.txt -text svneol=unset#text/plain
 Src/framework/web/xebra/websites/demoapplication/insert.xeb -text
 Src/framework/web/xebra/websites/demoapplication/login.xeb -text
 Src/framework/web/xebra/websites/demoapplication/logout.xeb -text
