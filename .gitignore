@@ -155,6 +155,7 @@ Src/library/obsolete/net/spec
 Src/library/store/spec
 Src/library/vision2/spec/bcb
 Src/library/vision2/spec/linux-x86-64
+Src/library/vision2/spec/macosx-x86
 Src/library/vision2/spec/mingw
 Src/library/vision2/spec/msc
 Src/library/vision2/spec/unix
