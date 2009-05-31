@@ -134,6 +134,7 @@ Src/framework/web/xebra/websites/xebrawebapp/servlet_gen/servlet_gen.ecf
 Src/free_add_ons
 Src/library/cURL/spec/mingw
 Src/library/cURL/spec/msc
+Src/library/cocoa/spec
 Src/library/com/spec/bcb
 Src/library/com/spec/mingw
 Src/library/com/spec/msc
