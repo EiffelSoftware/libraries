@@ -2053,8 +2053,6 @@ Src/library/i18n/tests/test_files/locale/results/zu_ZA -text
 Src/library/i18n/tests/test_files/mo/ar.mo -text
 Src/library/i18n/tests/test_files/mo/zh_CN.mo -text
 Src/library/i18n/tests/zh_CN.mo -text
-Src/library/iphone/Clib/Makefile.SH -text
-Src/library/iphone/iphone.lic -text
 Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
 Src/library/preferences/preferences_reg-safe.lic -text
 Src/library/preferences/preferences_reg.lic -text
