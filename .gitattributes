@@ -1836,7 +1836,7 @@ Src/framework/web/xebra/websites/demoapplication/master_template.xeb -text
 Src/framework/web/xebra/websites/demoapplication/reservations.xeb -text
 Src/framework/web/xebra/websites/demoapplication/xeb.taglib -text
 Src/framework/web/xebra/websites/demoapplication/xeb_form.taglib -text
-Src/framework/web/xebra/websites/xebrawebapp/config.ini -text
+Src/framework/web/xebra/websites/helloworld/config.ini -text
 Src/framework/web/xebra/xebra_examples.html -text
 Src/framework/web/xebra/xebra_tutorial.html -text
 Src/framework/xml/xml.lic -text
