@@ -1736,6 +1736,8 @@ Src/framework/interface_names/interface_names.lic -text
 Src/framework/parser/parser.lic -text
 Src/framework/parser_extension/parser_extension.lic -text
 Src/framework/resources/resources.lic -text
+Src/framework/sqlite3/sqlite-safe.lic -text
+Src/framework/sqlite3/sqlite.lic -text
 Src/framework/tagging/tagging.lic -text
 Src/framework/tagging/tests/tests.lic -text
 Src/framework/testing/testing.lic -text
