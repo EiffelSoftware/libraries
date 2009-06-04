@@ -162,6 +162,7 @@ Src/library/vision2/spec/unix
 Src/library/wel/Clib/ilwel.lib
 Src/library/wel/Clib/make.log
 Src/library/wel/Clib/wel.lib
+Src/library/wel/Clib/wel_hook.exp
 Src/library/wel/spec/bcb
 Src/library/wel/spec/mingw
 Src/library/wel/spec/msc
