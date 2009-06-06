@@ -142,6 +142,9 @@ Src/framework/web/xebra/websites/helloworld/servlet_gen/g_*
 Src/framework/web/xebra/websites/helloworld/servlet_gen/hello_g_servlet_generator.e
 Src/framework/web/xebra/websites/helloworld/servlet_gen/hello_servlet_generator.e
 Src/framework/web/xebra/websites/helloworld/servlet_gen/servlet_gen.ecf
+Src/framework/web/xebra/websites/xebrahome/EIFGENs
+Src/framework/web/xebra/websites/xebrahome/g_*
+Src/framework/web/xebra/websites/xebrahome/servlet_gen/*
 Src/free_add_ons
 Src/library/cURL/spec/mingw
 Src/library/cURL/spec/msc
