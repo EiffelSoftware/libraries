@@ -135,6 +135,7 @@ Src/framework/web/xebra/websites/demoapplication/servlet_gen/*.*
 Src/framework/web/xebra/websites/demoapplication/servlet_gen/EIFGENs
 Src/framework/web/xebra/websites/helloworld/EIFGENs
 Src/framework/web/xebra/websites/helloworld/g_*
+Src/framework/web/xebra/websites/helloworld/servlet_constants.e
 Src/framework/web/xebra/websites/helloworld/servlet_gen
 Src/framework/web/xebra/websites/helloworld/servlet_gen/EIFGENs
 Src/framework/web/xebra/websites/helloworld/servlet_gen/application.e

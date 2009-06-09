@@ -1800,6 +1800,7 @@ Src/framework/web/xebra/httpd/htdocs/demoapplication/index.html -text
 Src/framework/web/xebra/httpd/htdocs/helloworld/index.html -text
 Src/framework/web/xebra/httpd/htdocs/index.html -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/base.css -text
+Src/framework/web/xebra/httpd/htdocs/xebrahome/csshover3.htc -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/images/box_1-5_bg.gif -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/images/box_1-5_bottom.gif -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/images/box_1-5_top.gif -text
@@ -1841,10 +1842,13 @@ Src/framework/web/xebra/websites/xebrahome/doc_master.xeb -text
 Src/framework/web/xebra/websites/xebrahome/doc_nav.xeb -text
 Src/framework/web/xebra/websites/xebrahome/download.xeb -text
 Src/framework/web/xebra/websites/xebrahome/examples.xeb -text
+Src/framework/web/xebra/websites/xebrahome/faq.xeb -text
+Src/framework/web/xebra/websites/xebrahome/index.xeb -text
 Src/framework/web/xebra/websites/xebrahome/installation.xeb -text
 Src/framework/web/xebra/websites/xebrahome/master.xeb -text
 Src/framework/web/xebra/websites/xebrahome/one_column_design.xeb -text
 Src/framework/web/xebra/websites/xebrahome/three_column_design.xeb -text
+Src/framework/web/xebra/websites/xebrahome/tutorials.xeb -text
 Src/framework/xml/xml.lic -text
 Src/library/Eiffel2Java/Eiffel2Java-safe.lic -text
 Src/library/Eiffel2Java/Eiffel2Java.lic -text
