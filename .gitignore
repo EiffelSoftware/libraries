@@ -133,6 +133,7 @@ Src/framework/web/xebra/websites/demoapplication/g_*
 Src/framework/web/xebra/websites/demoapplication/servlet_gen
 Src/framework/web/xebra/websites/demoapplication/servlet_gen/*.*
 Src/framework/web/xebra/websites/demoapplication/servlet_gen/EIFGENs
+Src/framework/web/xebra/websites/demoapplication/servlets
 Src/framework/web/xebra/websites/helloworld/EIFGENs
 Src/framework/web/xebra/websites/helloworld/g_*
 Src/framework/web/xebra/websites/helloworld/servlet_constants.e
@@ -146,6 +147,7 @@ Src/framework/web/xebra/websites/helloworld/servlet_gen/servlet_gen.ecf
 Src/framework/web/xebra/websites/xebrahome/EIFGENs
 Src/framework/web/xebra/websites/xebrahome/g_*
 Src/framework/web/xebra/websites/xebrahome/servlet_gen/*
+Src/framework/web/xebra/websites/xebrahome/servlets
 Src/free_add_ons
 Src/library/cURL/spec/mingw
 Src/library/cURL/spec/msc
