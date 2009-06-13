@@ -157,7 +157,6 @@ Src/library/i18n/preferences.wb
 Src/library/i18n/root_class.e
 Src/library/i18n/sample.ecf
 Src/library/i18n/sample.rc
-Src/library/iphone/spec
 Src/library/net/spec
 Src/library/obsolete/net/spec
 Src/library/store/spec
