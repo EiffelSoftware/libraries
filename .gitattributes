@@ -1792,6 +1792,7 @@ Src/framework/web/xebra/httpd/htdocs/demoapplication/images/header_img.jpg -text
 Src/framework/web/xebra/httpd/htdocs/demoapplication/images/header_title.gif -text
 Src/framework/web/xebra/httpd/htdocs/demoapplication/images/nav_line.gif -text
 Src/framework/web/xebra/httpd/htdocs/index.html -text
+Src/framework/web/xebra/httpd/htdocs/servercontrol/base.css -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/base.css -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/csshover3.htc -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/images/box_1-5_bg.gif -text

@@ -128,6 +128,7 @@ Src/framework/web/xebra/httpd/man
 Src/framework/web/xebra/httpd/manual
 Src/framework/web/xebra/httpd/modules
 Src/framework/web/xebra/httpd_tmp
+Src/framework/web/xebra/websites/demoapplication/.generated
 Src/framework/web/xebra/websites/demoapplication/EIFGENs
 Src/framework/web/xebra/websites/demoapplication/g_*
 Src/framework/web/xebra/websites/demoapplication/servlet_gen
@@ -136,6 +137,9 @@ Src/framework/web/xebra/websites/helloworld/EIFGENs
 Src/framework/web/xebra/websites/helloworld/g_*
 Src/framework/web/xebra/websites/helloworld/servlet_constants.e
 Src/framework/web/xebra/websites/helloworld/servlet_gen
+Src/framework/web/xebra/websites/servercontrol/.generated
+Src/framework/web/xebra/websites/servercontrol/EIFGENs
+Src/framework/web/xebra/websites/xebrahome/.generated
 Src/framework/web/xebra/websites/xebrahome/EIFGENs
 Src/framework/web/xebra/websites/xebrahome/g_*
 Src/framework/web/xebra/websites/xebrahome/servlets
