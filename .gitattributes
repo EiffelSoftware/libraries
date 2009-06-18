@@ -1806,6 +1806,7 @@ Src/framework/web/xebra/httpd/htdocs/index.html -text
 Src/framework/web/xebra/httpd/htdocs/servercontrol/base.css -text
 Src/framework/web/xebra/httpd/htdocs/servercontrol/config.ini -text
 Src/framework/web/xebra/httpd/htdocs/servercontrol/index.xeb -text
+Src/framework/web/xebra/httpd/htdocs/servercontrol/reload_config.xeb -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/about.xeb -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/about_master.xeb -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/about_nav.xeb -text
