@@ -72,7 +72,6 @@ Src/framework/cli_writer/spec
 Src/framework/configuration/*.wb
 Src/framework/configuration/EIFGENs
 Src/framework/parser/parser/output.txt
-Src/framework/web/xebra/.project
 Src/framework/web/xebra/c_projects/.project
 Src/framework/web/xebra/c_projects/apache_mod_xebra/.libs
 Src/framework/web/xebra/c_projects/apache_mod_xebra/clean.sh
@@ -115,7 +114,6 @@ Src/framework/web/xebra/eiffel_projects/xebra_server/*.rc
 Src/framework/web/xebra/eiffel_projects/xebra_server/EIFGENs
 Src/framework/web/xebra/eiffel_projects/xebra_server/response.txt
 Src/framework/web/xebra/eiffel_projects/xebra_translator/EIFGENs
-Src/framework/web/xebra/httpd
 Src/framework/web/xebra/httpd/bin
 Src/framework/web/xebra/httpd/build
 Src/framework/web/xebra/httpd/cgi-bin
@@ -135,7 +133,6 @@ Src/framework/web/xebra/httpd/logs
 Src/framework/web/xebra/httpd/man
 Src/framework/web/xebra/httpd/manual
 Src/framework/web/xebra/httpd/modules
-Src/framework/web/xebra/httpd_tmp
 Src/free_add_ons
 Src/library/cURL/spec/mingw
 Src/library/cURL/spec/msc
