@@ -121,6 +121,14 @@ Src/framework/web/xebra/httpd/build
 Src/framework/web/xebra/httpd/cgi-bin
 Src/framework/web/xebra/httpd/conf
 Src/framework/web/xebra/httpd/error
+Src/framework/web/xebra/httpd/htdocs/demoapplication/.generated
+Src/framework/web/xebra/httpd/htdocs/demoapplication/EIFGENs
+Src/framework/web/xebra/httpd/htdocs/helloworld/.generated
+Src/framework/web/xebra/httpd/htdocs/helloworld/EIFGENs
+Src/framework/web/xebra/httpd/htdocs/servercontrol/.generated
+Src/framework/web/xebra/httpd/htdocs/servercontrol/EIFGENs
+Src/framework/web/xebra/httpd/htdocs/xebrahome/.generated
+Src/framework/web/xebra/httpd/htdocs/xebrahome/EIFGENs
 Src/framework/web/xebra/httpd/icons
 Src/framework/web/xebra/httpd/include
 Src/framework/web/xebra/httpd/logs
