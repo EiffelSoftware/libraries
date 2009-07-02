@@ -75,8 +75,8 @@ Src/framework/parser/parser/output.txt
 Src/framework/web/xebra/c_projects/.project
 Src/framework/web/xebra/c_projects/apache_mod_xebra/.libs
 Src/framework/web/xebra/c_projects/apache_mod_xebra/clean.sh
+Src/framework/web/xebra/c_projects/apache_mod_xebra/mod_upload*
 Src/framework/web/xebra/c_projects/apache_mod_xebra/mod_xebra.slo
-Src/framework/web/xebra/c_projects/apache_mod_xebra/module_upload*
 Src/framework/web/xebra/c_projects/iis_xebra_handler/obj
 Src/framework/web/xebra/c_projects/iis_xebra_handler/website
 Src/framework/web/xebra/c_projects/iis_xebra_handler_testproject/XebraHandlerTester/XebraHandlerTester/bin
@@ -108,6 +108,7 @@ Src/framework/web/xebra/c_projects/serverclienttest/server
 Src/framework/web/xebra/c_projects/serverclienttest/stamp-h1
 Src/framework/web/xebra/eiffel_projects/.project
 Src/framework/web/xebra/eiffel_projects/library/xebra_error/EIFGENs
+Src/framework/web/xebra/eiffel_projects/library/xebra_precompile/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_taglibrary_base/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_tags/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_web_application/EIFGENs
