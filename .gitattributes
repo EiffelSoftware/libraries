@@ -1773,15 +1773,10 @@ Src/framework/web/xebra/c_projects/iis_xebra_handler_testproject/XebraHandlerTes
 Src/framework/web/xebra/c_projects/iis_xebra_handler_testproject/XebraHandlerTester/XebraHandlerTester/XebraHandlerTesterMainForm.Designer.cs -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler_testproject/XebraHandlerTester/XebraHandlerTester/XebraHandlerTesterMainForm.cs -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler_testproject/XebraHandlerTester/XebraHandlerTester/XebraHandlerTesterMainForm.resx -text
-Src/framework/web/xebra/doc/XEbraArchitecture.pdf -text
-Src/framework/web/xebra/doc/XEbraArchitecture.png -text
 Src/framework/web/xebra/doc/XEbraArchitecture.pptx -text
 Src/framework/web/xebra/doc/XEbraArchitecture2-1.png -text
-Src/framework/web/xebra/doc/XEbraArchitecture2-2.png -text
-Src/framework/web/xebra/doc/XEbraArchitecture2.pdf -text svneol=unset#unset
+Src/framework/web/xebra/doc/XEbraArchitecture2-1_small.png -text
 Src/framework/web/xebra/doc/XEbraArchitecture2.pptx -text
-Src/framework/web/xebra/doc/XEbraCreationWorkflow.pdf -text
-Src/framework/web/xebra/doc/XEbraCreationWorkflow.png -text
 Src/framework/web/xebra/doc/XEbraCreationWorkflow.pptx -text
 Src/framework/web/xebra/eiffel_projects/xebra_server/config.ini -text
 Src/framework/web/xebra/eiffel_projects/xebra_translator/dtd.txt -text svneol=unset#text/plain
