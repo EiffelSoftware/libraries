@@ -112,6 +112,7 @@ Src/framework/web/xebra/eiffel_projects/library/xebra_precompile/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_taglibrary_base/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_tags/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_web_application/EIFGENs
+Src/framework/web/xebra/eiffel_projects/tests/xebra_tests/EIFGENs
 Src/framework/web/xebra/eiffel_projects/xebra_server/*.log
 Src/framework/web/xebra/eiffel_projects/xebra_server/*.rc
 Src/framework/web/xebra/eiffel_projects/xebra_server/EIFGENs
