@@ -123,6 +123,7 @@ Src/framework/web/xebra/httpd/build
 Src/framework/web/xebra/httpd/cgi-bin
 Src/framework/web/xebra/httpd/conf
 Src/framework/web/xebra/httpd/error
+Src/framework/web/xebra/httpd/htdocs/demoapplication/*.log
 Src/framework/web/xebra/httpd/htdocs/demoapplication/.generated
 Src/framework/web/xebra/httpd/htdocs/demoapplication/EIFGENs
 Src/framework/web/xebra/httpd/htdocs/helloworld/*.log
