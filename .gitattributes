@@ -1738,8 +1738,8 @@ Src/framework/parser_extension/parser_extension.lic -text
 Src/framework/resources/resources.lic -text
 Src/framework/sqlite3/sqlite-safe.lic -text
 Src/framework/sqlite3/sqlite.lic -text
+Src/framework/tagging/obsolete/tests/tests.lic -text
 Src/framework/tagging/tagging.lic -text
-Src/framework/tagging/tests/tests.lic -text
 Src/framework/testing/testing.lic -text
 Src/framework/threading/threading.lic -text
 Src/framework/uri_launcher/uri_launcher.lic -text
