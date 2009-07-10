@@ -1780,7 +1780,7 @@ Src/framework/web/xebra/doc/XEbraArchitecture2-1_small.png -text
 Src/framework/web/xebra/doc/XEbraArchitecture2.pptx -text
 Src/framework/web/xebra/doc/XEbraCreationWorkflow.pptx -text
 Src/framework/web/xebra/eiffel_projects/xebra_server/config.ini -text
-Src/framework/web/xebra/eiffel_projects/xebra_translator/dtd.txt -text svneol=unset#text/plain
+Src/framework/web/xebra/eiffel_projects/xebra_translator/efa.taglib -text
 Src/framework/web/xebra/eiffel_projects/xebra_translator/xeb_form.taglib -text
 Src/framework/web/xebra/eiffel_projects/xebra_translator/xrpc.taglib -text
 Src/framework/web/xebra/httpd/htdocs/demoapplication/base.css -text
