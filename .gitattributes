@@ -1803,9 +1803,11 @@ Src/framework/web/xebra/httpd/htdocs/servercontrol/base.css -text
 Src/framework/web/xebra/httpd/htdocs/servercontrol/config.ini -text
 Src/framework/web/xebra/httpd/htdocs/servercontrol/index.xeb -text
 Src/framework/web/xebra/httpd/htdocs/servercontrol/reload_config.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/Web.config -text
 Src/framework/web/xebra/httpd/htdocs/support/config.ini -text
 Src/framework/web/xebra/httpd/htdocs/support/default.css -text
-Src/framework/web/xebra/httpd/htdocs/support/home.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/default.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/howto.xeb -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/banner.jpg -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/eiffel_for_asp_net2.png -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/title_bot_lef.gif -text
@@ -1816,8 +1818,12 @@ Src/framework/web/xebra/httpd/htdocs/support/images/support/title_cen_rig.gif -t
 Src/framework/web/xebra/httpd/htdocs/support/images/support/title_top_lef.gif -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/title_top_mid.gif -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/title_top_rig.gif -text
-Src/framework/web/xebra/httpd/htdocs/support/index.xeb -text
-Src/framework/web/xebra/httpd/htdocs/support/master.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/maintenance.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/maintenance_master.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/support.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/support_master.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/support_plain.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/support_side.xeb -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/about.xeb -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/about_master.xeb -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/about_nav.xeb -text
