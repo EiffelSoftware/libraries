@@ -134,6 +134,7 @@ Src/framework/web/xebra/httpd/htdocs/servercontrol/*.log
 Src/framework/web/xebra/httpd/htdocs/servercontrol/.generated
 Src/framework/web/xebra/httpd/htdocs/servercontrol/EIFGENs
 Src/framework/web/xebra/httpd/htdocs/support/.generated
+Src/framework/web/xebra/httpd/htdocs/support/EIFGENs
 Src/framework/web/xebra/httpd/htdocs/xebrahome/*.log
 Src/framework/web/xebra/httpd/htdocs/xebrahome/.generated
 Src/framework/web/xebra/httpd/htdocs/xebrahome/EIFGENs
