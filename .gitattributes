@@ -1810,6 +1810,7 @@ Src/framework/web/xebra/httpd/htdocs/support/config.ini -text
 Src/framework/web/xebra/httpd/htdocs/support/default.css -text
 Src/framework/web/xebra/httpd/htdocs/support/default.xeb -text
 Src/framework/web/xebra/httpd/htdocs/support/howto.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/images/problem_report/information.png -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/banner.jpg -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/eiffel_for_asp_net2.png -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/title_bot_lef.gif -text
