@@ -1799,6 +1799,7 @@ Src/framework/web/xebra/httpd/htdocs/demoapplication/login.xeb -text
 Src/framework/web/xebra/httpd/htdocs/demoapplication/logout.xeb -text
 Src/framework/web/xebra/httpd/htdocs/demoapplication/master_template.xeb -text
 Src/framework/web/xebra/httpd/htdocs/demoapplication/reservations.xeb -text
+Src/framework/web/xebra/httpd/htdocs/demoapplication/upload.xeb -text
 Src/framework/web/xebra/httpd/htdocs/helloworld/config.ini -text
 Src/framework/web/xebra/httpd/htdocs/index.html -text
 Src/framework/web/xebra/httpd/htdocs/servercontrol/base.css -text
