@@ -1803,13 +1803,16 @@ Src/framework/web/xebra/httpd/htdocs/demoapplication/login.xeb -text
 Src/framework/web/xebra/httpd/htdocs/demoapplication/logout.xeb -text
 Src/framework/web/xebra/httpd/htdocs/demoapplication/master_template.xeb -text
 Src/framework/web/xebra/httpd/htdocs/demoapplication/reservations.xeb -text
+Src/framework/web/xebra/httpd/htdocs/demoapplication/translation_conf.xml -text
 Src/framework/web/xebra/httpd/htdocs/demoapplication/upload.xeb -text
 Src/framework/web/xebra/httpd/htdocs/helloworld/config.ini -text
+Src/framework/web/xebra/httpd/htdocs/helloworld/translation_conf.xml -text
 Src/framework/web/xebra/httpd/htdocs/index.html -text
 Src/framework/web/xebra/httpd/htdocs/servercontrol/base.css -text
 Src/framework/web/xebra/httpd/htdocs/servercontrol/config.ini -text
 Src/framework/web/xebra/httpd/htdocs/servercontrol/index.xeb -text
 Src/framework/web/xebra/httpd/htdocs/servercontrol/reload_config.xeb -text
+Src/framework/web/xebra/httpd/htdocs/servercontrol/translation_conf.xml -text
 Src/framework/web/xebra/httpd/htdocs/support/Web.config -text
 Src/framework/web/xebra/httpd/htdocs/support/config.ini -text
 Src/framework/web/xebra/httpd/htdocs/support/default.css -text
@@ -1818,6 +1821,12 @@ Src/framework/web/xebra/httpd/htdocs/support/howto.xeb -text
 Src/framework/web/xebra/httpd/htdocs/support/images/problem_report/information.png -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/banner.jpg -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/eiffel_for_asp_net2.png -text
+Src/framework/web/xebra/httpd/htdocs/support/images/support/priority_high.gif -text
+Src/framework/web/xebra/httpd/htdocs/support/images/support/priority_low.gif -text
+Src/framework/web/xebra/httpd/htdocs/support/images/support/priority_medium.gif -text
+Src/framework/web/xebra/httpd/htdocs/support/images/support/severity_critical.gif -text
+Src/framework/web/xebra/httpd/htdocs/support/images/support/severity_non_critical.gif -text
+Src/framework/web/xebra/httpd/htdocs/support/images/support/severity_serious.gif -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/status_closed.gif -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/status_open.gif -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/status_suspended.gif -text
@@ -1849,6 +1858,7 @@ Src/framework/web/xebra/httpd/htdocs/support/support.xeb -text
 Src/framework/web/xebra/httpd/htdocs/support/support_master.xeb -text
 Src/framework/web/xebra/httpd/htdocs/support/support_plain.xeb -text
 Src/framework/web/xebra/httpd/htdocs/support/support_side.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/translation_conf.xml -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/about.xeb -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/about_master.xeb -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/about_nav.xeb -text
@@ -1885,7 +1895,9 @@ Src/framework/web/xebra/httpd/htdocs/xebrahome/installation.xeb -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/master.xeb -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/one_column_design.xeb -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/three_column_design.xeb -text
+Src/framework/web/xebra/httpd/htdocs/xebrahome/translation_conf.xml -text
 Src/framework/web/xebra/httpd/htdocs/xebrahome/tutorials.xeb -text
+Src/framework/web/xebra/httpd/htdocs/xmlrpc_demo/translation_conf.xml -text
 Src/framework/xml/xml.lic -text
 Src/library/Eiffel2Java/Eiffel2Java-safe.lic -text
 Src/library/Eiffel2Java/Eiffel2Java.lic -text
