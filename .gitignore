@@ -119,17 +119,6 @@ Src/framework/web/xebra/eiffel_projects/xebra_server/*.rc
 Src/framework/web/xebra/eiffel_projects/xebra_server/EIFGENs
 Src/framework/web/xebra/eiffel_projects/xebra_server/response.txt
 Src/framework/web/xebra/eiffel_projects/xebra_translator/EIFGENs
-Src/framework/web/xebra/httpd/bin
-Src/framework/web/xebra/httpd/build
-Src/framework/web/xebra/httpd/cgi-bin
-Src/framework/web/xebra/httpd/conf
-Src/framework/web/xebra/httpd/error
-Src/framework/web/xebra/httpd/icons
-Src/framework/web/xebra/httpd/include
-Src/framework/web/xebra/httpd/logs
-Src/framework/web/xebra/httpd/man
-Src/framework/web/xebra/httpd/manual
-Src/framework/web/xebra/httpd/modules
 Src/framework/web/xebra/www/demoapplication/*.log
 Src/framework/web/xebra/www/demoapplication/.generated
 Src/framework/web/xebra/www/demoapplication/EIFGENs
