@@ -1818,6 +1818,7 @@ Src/framework/web/xebra/httpd/htdocs/support/config.ini -text
 Src/framework/web/xebra/httpd/htdocs/support/default.css -text
 Src/framework/web/xebra/httpd/htdocs/support/default.xeb -text
 Src/framework/web/xebra/httpd/htdocs/support/howto.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/images/grid/down.gif -text
 Src/framework/web/xebra/httpd/htdocs/support/images/problem_report/information.png -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/banner.jpg -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/eiffel_for_asp_net2.png -text
@@ -1827,6 +1828,7 @@ Src/framework/web/xebra/httpd/htdocs/support/images/support/priority_medium.gif 
 Src/framework/web/xebra/httpd/htdocs/support/images/support/severity_critical.gif -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/severity_non_critical.gif -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/severity_serious.gif -text
+Src/framework/web/xebra/httpd/htdocs/support/images/support/status_analyzed.gif -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/status_closed.gif -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/status_open.gif -text
 Src/framework/web/xebra/httpd/htdocs/support/images/support/status_suspended.gif -text
@@ -1849,6 +1851,7 @@ Src/framework/web/xebra/httpd/htdocs/support/protected/download_interaction.xeb 
 Src/framework/web/xebra/httpd/htdocs/support/protected/download_to_reproduce.xeb -text
 Src/framework/web/xebra/httpd/htdocs/support/protected/problem_report_form.xeb -text
 Src/framework/web/xebra/httpd/htdocs/support/protected/report.xeb -text
+Src/framework/web/xebra/httpd/htdocs/support/protected/responsibles/bug_report_nav.xeb -text
 Src/framework/web/xebra/httpd/htdocs/support/protected/responsibles/default.xeb -text
 Src/framework/web/xebra/httpd/htdocs/support/protected/responsibles/register.xeb -text
 Src/framework/web/xebra/httpd/htdocs/support/protected/responsibles/subscribers.xeb -text
