@@ -112,13 +112,16 @@ Src/framework/web/xebra/eiffel_projects/library/xebra_error/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_precompile/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_taglibrary_base/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_tags/EIFGENs
+Src/framework/web/xebra/eiffel_projects/library/xebra_utilities/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_web_application/EIFGENs
+Src/framework/web/xebra/eiffel_projects/tests/xebra_tests/*.rc
 Src/framework/web/xebra/eiffel_projects/tests/xebra_tests/EIFGENs
 Src/framework/web/xebra/eiffel_projects/xebra_server/*.log
 Src/framework/web/xebra/eiffel_projects/xebra_server/*.rc
 Src/framework/web/xebra/eiffel_projects/xebra_server/EIFGENs
 Src/framework/web/xebra/eiffel_projects/xebra_server/response.txt
 Src/framework/web/xebra/eiffel_projects/xebra_translator/EIFGENs
+Src/framework/web/xebra/httpd
 Src/framework/web/xebra/tools/installer/win/*.log
 Src/framework/web/xebra/www/demoapplication/*.log
 Src/framework/web/xebra/www/demoapplication/.generated
