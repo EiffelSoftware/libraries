@@ -127,6 +127,7 @@ Src/framework/web/xebra/tools/installer/win/setup/XebraInstaller/XebraInstaller/
 Src/framework/web/xebra/tools/installer/win/setup/XebraInstaller/XebraInstaller/Debug/*.msi
 Src/framework/web/xebra/tools/installer/win/xebra_deployer/*.log
 Src/framework/web/xebra/tools/installer/win/xebra_deployer/*.rc
+Src/framework/web/xebra/tools/installer/win/xebra_deployer/EIFGENs
 Src/framework/web/xebra/www/demoapplication/*.log
 Src/framework/web/xebra/www/demoapplication/.generated
 Src/framework/web/xebra/www/demoapplication/EIFGENs
