@@ -1871,7 +1871,7 @@ Src/framework/web/xebra/www/xebrahome/about.xeb -text
 Src/framework/web/xebra/www/xebrahome/about_master.xeb -text
 Src/framework/web/xebra/www/xebrahome/about_nav.xeb -text
 Src/framework/web/xebra/www/xebrahome/base.css -text
-Src/framework/web/xebra/www/xebrahome/config.ini -text
+Src/framework/web/xebra/www/xebrahome/c-disabled -text
 Src/framework/web/xebra/www/xebrahome/csshover3.htc -text
 Src/framework/web/xebra/www/xebrahome/doc.xeb -text
 Src/framework/web/xebra/www/xebrahome/doc_float.xeb -text
