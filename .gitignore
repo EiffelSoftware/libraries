@@ -73,10 +73,6 @@ Src/framework/configuration/*.wb
 Src/framework/configuration/EIFGENs
 Src/framework/parser/parser/output.txt
 Src/framework/web/xebra/c_projects/.project
-Src/framework/web/xebra/c_projects/apache_mod_xebra/.libs
-Src/framework/web/xebra/c_projects/apache_mod_xebra/clean.sh
-Src/framework/web/xebra/c_projects/apache_mod_xebra/mod_upload*
-Src/framework/web/xebra/c_projects/apache_mod_xebra/mod_xebra.slo
 Src/framework/web/xebra/c_projects/iis_xebra_handler/obj
 Src/framework/web/xebra/c_projects/iis_xebra_handler/website
 Src/framework/web/xebra/c_projects/iis_xebra_handler_testproject/XebraHandlerTester/XebraHandlerTester/bin
