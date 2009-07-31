@@ -123,8 +123,6 @@ Src/framework/web/xebra/eiffel_projects/xebra_server/response.txt
 Src/framework/web/xebra/eiffel_projects/xebra_translator/EIFGENs
 Src/framework/web/xebra/httpd
 Src/framework/web/xebra/tools/installer/win/*.log
-Src/framework/web/xebra/tools/installer/win/setup/XebraInstaller/XebraInstaller/Debug/*.exe
-Src/framework/web/xebra/tools/installer/win/setup/XebraInstaller/XebraInstaller/Debug/*.msi
 Src/framework/web/xebra/tools/installer/win/xebra_deployer/*.log
 Src/framework/web/xebra/tools/installer/win/xebra_deployer/*.rc
 Src/framework/web/xebra/tools/installer/win/xebra_deployer/EIFGENs

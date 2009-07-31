@@ -1790,9 +1790,6 @@ Src/framework/web/xebra/eiffel_projects/xebra_translator/tag_library_form.taglib
 Src/framework/web/xebra/eiffel_projects/xebra_translator/xrpc.taglib -text
 Src/framework/web/xebra/tools/installer/win/XebraBuild.bld -text
 Src/framework/web/xebra/tools/installer/win/httpd.conf -text
-Src/framework/web/xebra/tools/installer/win/setup/XebraInstaller/XebraInstaller.sln -text
-Src/framework/web/xebra/tools/installer/win/setup/XebraInstaller/XebraInstaller.suo -text
-Src/framework/web/xebra/tools/installer/win/setup/XebraInstaller/XebraInstaller/XebraInstaller.vdproj -text
 Src/framework/web/xebra/www/demoapplication/base.css -text
 Src/framework/web/xebra/www/demoapplication/config.ini -text
 Src/framework/web/xebra/www/demoapplication/images/footer.jpg -text
