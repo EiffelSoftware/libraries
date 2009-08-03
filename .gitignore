@@ -72,6 +72,7 @@ Src/framework/cli_writer/spec
 Src/framework/configuration/*.wb
 Src/framework/configuration/EIFGENs
 Src/framework/parser/parser/output.txt
+Src/framework/settable_types/EIFGENs
 Src/framework/web/xebra/c_projects/.project
 Src/framework/web/xebra/c_projects/apache_mod_xebra/.libs
 Src/framework/web/xebra/c_projects/apache_mod_xebra/mod_xebra.slo
