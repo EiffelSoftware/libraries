@@ -106,8 +106,6 @@ Src/framework/web/xebra/c_projects/serverclienttest/missing
 Src/framework/web/xebra/c_projects/serverclienttest/server
 Src/framework/web/xebra/c_projects/serverclienttest/stamp-h1
 Src/framework/web/xebra/eiffel_projects/.project
-Src/framework/web/xebra/eiffel_projects/library/peg/EIFGENs
-Src/framework/web/xebra/eiffel_projects/library/peg/test/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_ast_elements/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_error/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_precompile/EIFGENs
