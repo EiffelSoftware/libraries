@@ -1853,7 +1853,7 @@ Src/framework/web/xebra/www/xebrahome/images/btn_download_b.gif -text
 Src/framework/web/xebra/www/xebrahome/images/header_bar.gif -text
 Src/framework/web/xebra/www/xebrahome/images/li.gif -text
 Src/framework/web/xebra/www/xebrahome/translation_conf.xml -text
-Src/framework/web/xebra/www/xmlrpc_demo/config.wapp -text
+Src/framework/web/xebra/www/xmlrpc_demo/config-DISABLED-wapp -text
 Src/framework/xml/xml.lic -text
 Src/library/Eiffel2Java/Eiffel2Java-safe.lic -text
 Src/library/Eiffel2Java/Eiffel2Java.lic -text
