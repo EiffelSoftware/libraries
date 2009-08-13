@@ -1,84 +1,57 @@
 note
 	description: "[
-		Controller for evaluators running in the debugger.
+		Base implementation of {TEST_SESSION_I}.
 	]"
 	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
-class
-	TEST_DEBUG_EVALUATOR_CONTROLLER
+deferred class
+	TEST_SESSION
 
 inherit
-	TEST_EVALUATOR_CONTROLLER
-		rename
-			make as make_controller
-		end
-
-	SHARED_DEBUGGER_MANAGER
-		export
-			{NONE} all
-		end
-
-create
-	make
+	TEST_SESSION_I
 
 feature {NONE} -- Initialization
 
-	make (a_assigner: like assigner; a_project_helper: like project_helper)
-			-- Initialize `Current'.
+	make (a_test_suite: like test_suite)
+			-- Initizialize `Current'.
 			--
-			-- `a_assigner': Assigner for retrieving test to be executed.
-			-- `a_project_helper': Helper object for launching debugger
+			-- `a_test_suite': Test suite instanciating `Current'.
 		do
-			make_controller (a_assigner)
-			project_helper := a_project_helper
+			test_suite := a_test_suite
 		end
 
-feature {NONE} -- Access
+feature -- Access
 
-	project_helper: TEST_PROJECT_HELPER_I
-			-- Project containing tests to be debugged.
-
-feature -- Status report
-
-	is_evaluator_running: BOOLEAN
+	test_suite: TEST_SUITE_S
 			-- <Precursor>
-		do
-			Result := debugger_manager.application_initialized and then
-				debugger_manager.application.is_running
-		end
 
-feature -- Status setting
+feature -- Basic operations
 
-	terminate_evaluator
-			-- <Precursor>
-		do
-			if is_evaluator_running then
-				debugger_manager.application.kill
-			end
-		end
-
-	launch_evaluator (a_args: LIST [STRING])
-			-- <Precursor>
+	append_output (a_procedure: PROCEDURE [ANY, TUPLE [TEXT_FORMATTER]])
+			-- Append output for `Current'.
+			--
+			-- `a_precedure': Procedure called with corresponding {TEXT_FORMATTER} instance.
+		require
+			a_procedure_attached: a_procedure /= Void
 		local
-			l_param: DEBUGGER_EXECUTION_PARAMETERS
-			l_args: STRING
+			l_formatter: TEXT_FORMATTER
+			l_tuple: TUPLE [TEXT_FORMATTER]
 		do
-			create l_param
-			create l_args.make (50)
-			from
-				a_args.start
-			until
-				a_args.after
-			loop
-				l_args.append (a_args.item_for_iteration)
-				l_args.append_character (' ')
-				a_args.forth
+			if attached test_suite.output (Current) as l_output then
+				l_output.lock
+				l_formatter := l_output.formatter
+				l_tuple := a_procedure.empty_operands
+				check
+					valid_operands: l_tuple.count = 1 and then
+						l_tuple.is_reference_item (1) and then
+						l_tuple.valid_type_for_index (l_formatter, 1)
+				end
+				l_tuple.put (l_formatter, 1)
+				a_procedure.call (l_tuple)
+				l_output.unlock
 			end
-			l_param.set_arguments (l_args)
-
-			project_helper.run (Void, l_args, Void)
 		end
 
 note

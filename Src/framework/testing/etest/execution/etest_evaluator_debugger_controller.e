@@ -1,19 +1,16 @@
 note
 	description: "[
-		Controller for evaluators running in the debugger.
+		Evaulator controller which launched the evaluator through the debugger.
 	]"
 	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
 class
-	TEST_DEBUG_EVALUATOR_CONTROLLER
+	ETEST_EVALUATOR_DEBUGGER_CONTROLLER
 
 inherit
-	TEST_EVALUATOR_CONTROLLER
-		rename
-			make as make_controller
-		end
+	ETEST_EVALUATOR_CONTROLLER
 
 	SHARED_DEBUGGER_MANAGER
 		export
@@ -23,62 +20,39 @@ inherit
 create
 	make
 
-feature {NONE} -- Initialization
-
-	make (a_assigner: like assigner; a_project_helper: like project_helper)
-			-- Initialize `Current'.
-			--
-			-- `a_assigner': Assigner for retrieving test to be executed.
-			-- `a_project_helper': Helper object for launching debugger
-		do
-			make_controller (a_assigner)
-			project_helper := a_project_helper
-		end
-
 feature {NONE} -- Access
 
-	project_helper: TEST_PROJECT_HELPER_I
-			-- Project containing tests to be debugged.
-
-feature -- Status report
-
-	is_evaluator_running: BOOLEAN
-			-- <Precursor>
-		do
-			Result := debugger_manager.application_initialized and then
-				debugger_manager.application.is_running
+	service: SERVICE_CONSUMER [TEST_SUITE_S]
+		once
+			create Result
 		end
 
-feature -- Status setting
+feature {NONE} -- Status report
 
-	terminate_evaluator
+	is_evaluator_launched: BOOLEAN
 			-- <Precursor>
+
+	is_evaluator_running: BOOLEAN
+		do
+			Result := debugger_manager.application_initialized and then debugger_manager.application.is_running
+		end
+
+
+feature {NONE} -- Status setting
+
+	start_evaluator (a_argument: STRING_8)
+			-- <Precursor>
+		do
+			service.service.eiffel_project_helper.run (Void, a_argument, Void)
+			is_evaluator_launched := True
+		end
+
+	stop_evaluator
 		do
 			if is_evaluator_running then
 				debugger_manager.application.kill
 			end
-		end
-
-	launch_evaluator (a_args: LIST [STRING])
-			-- <Precursor>
-		local
-			l_param: DEBUGGER_EXECUTION_PARAMETERS
-			l_args: STRING
-		do
-			create l_param
-			create l_args.make (50)
-			from
-				a_args.start
-			until
-				a_args.after
-			loop
-				l_args.append (a_args.item_for_iteration)
-				l_args.append_character (' ')
-				a_args.forth
-			end
-			l_param.set_arguments (l_args)
-
-			project_helper.run (Void, l_args, Void)
+			is_evaluator_launched := False
 		end
 
 note
