@@ -1712,6 +1712,9 @@ Src/framework/auto_test/auto_test.lic -text
 Src/framework/base/application/command_line_builder/command_line_builder.lic -text
 Src/framework/base/application/error_manager/error_manager.lic -text
 Src/framework/base/text/text.lic -text
+Src/framework/base64/base64-safe.lic -text
+Src/framework/base64/base64.lic -text
+Src/framework/base64/tests/tests.lic -text
 Src/framework/cli_debugger/cli_debugger.lic -text
 Src/framework/cli_writer/cli_writer.lic -text
 Src/framework/command_tunnel/command_tunnel.lic -text
