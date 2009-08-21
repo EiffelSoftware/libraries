@@ -1800,6 +1800,7 @@ Src/framework/web/xebra/eiffel_projects/xebra_translator/tag_library_efa.taglib 
 Src/framework/web/xebra/eiffel_projects/xebra_translator/tag_library_form.taglib -text
 Src/framework/web/xebra/eiffel_projects/xebra_translator/xrpc.taglib -text
 Src/framework/web/xebra/tools/installer/win/XebraBuild.bld -text
+Src/framework/web/xebra/tools/installer/win/config.srv -text
 Src/framework/web/xebra/tools/installer/win/httpd.conf -text
 Src/framework/web/xebra/tools/installer/win/innosetup/output/setup.exe -text
 Src/framework/web/xebra/tools/installer/win/innosetup/xebra_install_test.iss -text
