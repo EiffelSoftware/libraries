@@ -1766,6 +1766,7 @@ Src/framework/web/xebra/c_projects/iis_xebra_handler/XebraEventSourceInstaller/X
 Src/framework/web/xebra/c_projects/iis_xebra_handler/XebraEventSourceInstaller/XebraEventSourceInstaller/Program.cs -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler/XebraEventSourceInstaller/XebraEventSourceInstaller/Properties/AssemblyInfo.cs -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler/XebraEventSourceInstaller/XebraEventSourceInstaller/XebraEventSourceInstaller.csproj -text
+Src/framework/web/xebra/c_projects/iis_xebra_handler/website/bin/Xebra.dll -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler/website/web.config -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler_testproject/XebraHandlerTester/XebraHandlerTester.sln -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler_testproject/XebraHandlerTester/XebraHandlerTester.suo -text
