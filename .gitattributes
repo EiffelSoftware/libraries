@@ -1809,8 +1809,10 @@ Src/framework/web/xebra/eiffel_projects/library/xebra_tags/xebra_tags.lic -text
 Src/framework/web/xebra/eiffel_projects/library/xebra_utilities/xebra_utilities.lic -text
 Src/framework/web/xebra/eiffel_projects/library/xebra_web_application/xebra_web_application.lic -text
 Src/framework/web/xebra/eiffel_projects/xebra_server/config.srv -text
+Src/framework/web/xebra/eiffel_projects/xebra_server/xebra_server.lic -text
 Src/framework/web/xebra/eiffel_projects/xebra_translator/tag_library_efa.taglib -text
 Src/framework/web/xebra/eiffel_projects/xebra_translator/tag_library_form.taglib -text
+Src/framework/web/xebra/eiffel_projects/xebra_translator/xebra_translator.lic -text
 Src/framework/web/xebra/eiffel_projects/xebra_translator/xrpc.taglib -text
 Src/framework/web/xebra/tools/installer/win/XebraBuild.bld -text
 Src/framework/web/xebra/tools/installer/win/config.srv -text
@@ -1822,6 +1824,7 @@ Src/framework/web/xebra/www/demoapplication/base.css -text
 Src/framework/web/xebra/www/demoapplication/box_ex.js -text
 Src/framework/web/xebra/www/demoapplication/codethatcalendar.html -text
 Src/framework/web/xebra/www/demoapplication/config.wapp -text
+Src/framework/web/xebra/www/demoapplication/demoapplication.lic -text
 Src/framework/web/xebra/www/demoapplication/dt_ex.js -text
 Src/framework/web/xebra/www/demoapplication/iframe_ex.js -text
 Src/framework/web/xebra/www/demoapplication/images/footer.jpg -text
@@ -1835,9 +1838,11 @@ Src/framework/web/xebra/www/demoapplication/reservations_files/base.css -text
 Src/framework/web/xebra/www/demoapplication/reservations_files/codethatcalendarstd.js -text
 Src/framework/web/xebra/www/demoapplication/scroller_ex.js -text
 Src/framework/web/xebra/www/helloworld/config.wapp -text
+Src/framework/web/xebra/www/helloworld/helloworld.lic -text
 Src/framework/web/xebra/www/index.html -text
 Src/framework/web/xebra/www/servercontrol/base.css -text
 Src/framework/web/xebra/www/servercontrol/config.wapp -text
+Src/framework/web/xebra/www/servercontrol/servercontrol.lic -text
 Src/framework/web/xebra/www/support/Web.config -text
 Src/framework/web/xebra/www/support/config.wapp -text
 Src/framework/web/xebra/www/support/default.css -text
@@ -1864,6 +1869,7 @@ Src/framework/web/xebra/www/support/images/support/title_top_lef.gif -text
 Src/framework/web/xebra/www/support/images/support/title_top_mid.gif -text
 Src/framework/web/xebra/www/support/images/support/title_top_rig.gif -text
 Src/framework/web/xebra/www/support/images/support/xebra_for_eiffel.png -text
+Src/framework/web/xebra/www/support/support.lic -text
 Src/framework/web/xebra/www/xebrahome/base.css -text
 Src/framework/web/xebra/www/xebrahome/c-disabled -text
 Src/framework/web/xebra/www/xebrahome/csshover3.htc -text
