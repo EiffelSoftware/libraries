@@ -1819,6 +1819,7 @@ Src/framework/web/xebra/tools/installer/win/config.srv -text
 Src/framework/web/xebra/tools/installer/win/httpd.conf -text
 Src/framework/web/xebra/tools/installer/win/innosetup/output/setup.exe -text
 Src/framework/web/xebra/tools/installer/win/innosetup/xebra_install_test.iss -text
+Src/framework/web/xebra/tools/installer/win/xebra_deployer/xebra_deployer.lic -text
 Src/framework/web/xebra/www/demoapplication/Scripts/codethatcalendarstd.js -text
 Src/framework/web/xebra/www/demoapplication/base.css -text
 Src/framework/web/xebra/www/demoapplication/box_ex.js -text
