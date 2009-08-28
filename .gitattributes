@@ -1837,6 +1837,8 @@ Src/framework/web/xebra/www/demoapplication/reservations.html -text
 Src/framework/web/xebra/www/demoapplication/reservations_files/base.css -text
 Src/framework/web/xebra/www/demoapplication/reservations_files/codethatcalendarstd.js -text
 Src/framework/web/xebra/www/demoapplication/scroller_ex.js -text
+Src/framework/web/xebra/www/examples/config.wapp -text
+Src/framework/web/xebra/www/examples/index.xeb -text
 Src/framework/web/xebra/www/helloworld/config.wapp -text
 Src/framework/web/xebra/www/helloworld/helloworld.lic -text
 Src/framework/web/xebra/www/index.html -text
