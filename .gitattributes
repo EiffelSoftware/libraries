@@ -1831,6 +1831,10 @@ Src/framework/web/xebra/www/demoapplication/images/footer.jpg -text
 Src/framework/web/xebra/www/demoapplication/images/header_img.jpg -text
 Src/framework/web/xebra/www/demoapplication/images/header_title.gif -text
 Src/framework/web/xebra/www/demoapplication/images/nav_line.gif -text
+Src/framework/web/xebra/www/demoapplication/img/next.gif -text
+Src/framework/web/xebra/www/demoapplication/img/next_year.gif -text
+Src/framework/web/xebra/www/demoapplication/img/prev.gif -text
+Src/framework/web/xebra/www/demoapplication/img/prev_year.gif -text
 Src/framework/web/xebra/www/demoapplication/inline_ex.js -text
 Src/framework/web/xebra/www/demoapplication/local_ex.js -text
 Src/framework/web/xebra/www/demoapplication/reservations.html -text
