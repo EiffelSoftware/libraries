@@ -1730,6 +1730,7 @@ Src/framework/configuration/versioning/configuration-1-5-0.xsd -text
 Src/framework/dotnet_loader/dotnet_loader.lic -text
 Src/framework/eiffel_identifier/eiffel_identifier.lic -text
 Src/framework/emitter_loader/emitter_loader.lic -text
+Src/framework/enumerated_type/license.lic -text
 Src/framework/environment/environment.lic -text
 Src/framework/file_formats/ini.lic -text
 Src/framework/file_formats/pe/pe.lic -text
@@ -1743,6 +1744,7 @@ Src/framework/sqlite3/sqlite-safe.lic -text
 Src/framework/sqlite3/sqlite.lic -text
 Src/framework/tagging/ev/tagging-ev.lic -text
 Src/framework/tagging/tagging.lic -text
+Src/framework/terminal/license.lic -text
 Src/framework/testing/testing.lic -text
 Src/framework/threading/threading.lic -text
 Src/framework/uri_launcher/uri_launcher.lic -text
