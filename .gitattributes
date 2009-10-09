@@ -1909,9 +1909,6 @@ Src/library/Eiffel2Java/Eiffel2Java.lic -text
 Src/library/api_wrapper/api_wrapper.lic -text
 Src/library/cURL/cURL-safe.lic -text
 Src/library/cURL/cURL.lic -text
-Src/library/cocoa/Clib/ns_button.m -text
-Src/library/cocoa/Clib/ns_responder_category.m -text
-Src/library/cocoa/Clib/ns_text_delegate.m -text
 Src/library/diff/diff_index_link.e -text
 Src/library/diff/diff_line.e -text
 Src/library/diff/diff_line_add.e -text
@@ -2120,7 +2117,6 @@ Src/library/i18n/tests/test_files/mo/ar.mo -text
 Src/library/i18n/tests/test_files/mo/zh_CN.mo -text
 Src/library/i18n/tests/zh_CN.mo -text
 Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
-Src/library/objc_base/Clib/objc_callback_marshal.m -text
 Src/library/preferences/preferences_reg-safe.lic -text
 Src/library/preferences/preferences_reg.lic -text
 Src/library/process/classic/unix/process_thread_timer.e -text
