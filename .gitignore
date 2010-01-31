@@ -183,6 +183,8 @@ Src/library/i18n/sample.rc
 Src/library/net/spec
 Src/library/obsolete/net/spec
 Src/library/store/spec
+Src/library/testing/.git
+Src/library/testing/EIFGENs
 Src/library/vision2/spec/bcb
 Src/library/vision2/spec/linux-x86-64
 Src/library/vision2/spec/macosx-x86
