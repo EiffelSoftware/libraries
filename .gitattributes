@@ -1742,6 +1742,7 @@ Src/framework/interface_names/interface_names.lic -text
 Src/framework/parser/parser.lic -text
 Src/framework/parser_extension/parser_extension.lic -text
 Src/framework/resources/resources.lic -text
+Src/framework/sqlite3/README -text
 Src/framework/sqlite3/license.lic -text
 Src/framework/tagging/ev/tagging-ev.lic -text
 Src/framework/tagging/tagging.lic -text
