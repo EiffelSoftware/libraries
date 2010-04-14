@@ -1908,6 +1908,7 @@ Src/framework/web/xebra/www/xebrahome/images/li.gif -text
 Src/framework/web/xebra/www/xebrahome/translation_conf.xml -text
 Src/framework/web/xebra/www/xmlrpc_demo/config-DISABLED-wapp -text
 Src/framework/xml/xml.lic -text
+Src/framework/xml_utility/xml_utility.lic -text
 Src/library/Eiffel2Java/Eiffel2Java-safe.lic -text
 Src/library/Eiffel2Java/Eiffel2Java.lic -text
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
