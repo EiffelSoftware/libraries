@@ -1907,6 +1907,9 @@ Src/framework/web/xebra/www/xebrahome/images/header_bar.gif -text
 Src/framework/web/xebra/www/xebrahome/images/li.gif -text
 Src/framework/web/xebra/www/xebrahome/translation_conf.xml -text
 Src/framework/web/xebra/www/xmlrpc_demo/config-DISABLED-wapp -text
+Src/framework/xml/gobo/README.TXT -text
+Src/framework/xml/gobo/license.lic -text
+Src/framework/xml/gobo/xml_callbacks_filter_factory.e.new -text
 Src/framework/xml/parser/callbacks/README.TXT -text
 Src/framework/xml/parser/license.lic -text
 Src/framework/xml/tests/license.lic -text
