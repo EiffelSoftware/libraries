@@ -163,6 +163,7 @@ Src/framework/web/xebra/www/xebrahome/EIFGENs
 Src/framework/web/xebra/www/xmlrpc_demo/*.log
 Src/framework/web/xebra/www/xmlrpc_demo/.generated
 Src/framework/web/xebra/www/xmlrpc_demo/EIFGENs
+Src/framework/xml/gobo/removed
 Src/free_add_ons
 Src/library/cURL/spec/mingw
 Src/library/cURL/spec/msc
