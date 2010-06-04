@@ -1,49 +1,20 @@
 note
-	description: "AST representation of binary `+' operation."
-	legal: "See notice at end of class."
-	status: "See notice at end of class."
+	description: "[
+					This is an exporter for internal strings (UTF-8) in the compiler. 
+					It is not recommended to use internal string directly, unless you
+					know what is happening exactly!
+					Use STRING_32 (UTF-32) APIs instead.
+				]"
 	date: "$Date$"
 	revision: "$Revision$"
 
 class
-	BIN_PLUS_AS
-
-inherit
-	ARITHMETIC_AS
-
-	PREFIX_INFIX_NAMES
-
-create
-	initialize
-
-feature -- Properties
-
-	op_name: ID_AS
-			-- Name without the infix keyword.
-		once
-			create Result.initialize ("+")
-		end
-
-feature {INTERNAL_COMPILER_STRING_EXPORTER} -- Properties
-
-	infix_function_name: STRING
-			-- Qualified name with the infix keyword.
-		once
-			Result := infix_feature_name_with_symbol (op_name.name)
-		end
-
-feature -- Visitor
-
-	process (v: AST_VISITOR)
-			-- process current element.
-		do
-			v.process_bin_plus_as (Current)
-		end
+	INTERNAL_COMPILER_STRING_EXPORTER
 
 note
-	copyright:	"Copyright (c) 1984-2010, Eiffel Software"
-	license:	"GPL version 2 (see http://www.eiffel.com/licensing/gpl.txt)"
-	licensing_options:	"http://www.eiffel.com/licensing"
+	copyright: "Copyright (c) 1984-2010, Eiffel Software"
+	license: "GPL version 2 (see http://www.eiffel.com/licensing/gpl.txt)"
+	licensing_options: "http://www.eiffel.com/licensing"
 	copying: "[
 			This file is part of Eiffel Software's Eiffel Development Environment.
 			
@@ -71,5 +42,4 @@ note
 			Website http://www.eiffel.com
 			Customer support http://support.eiffel.com
 		]"
-
-end -- class BIN_PLUS_AS
+end
