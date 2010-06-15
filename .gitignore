@@ -165,6 +165,8 @@ Src/framework/web/xebra/www/xmlrpc_demo/.generated
 Src/framework/web/xebra/www/xmlrpc_demo/EIFGENs
 Src/framework/xml/gobo/removed
 Src/free_add_ons
+Src/library/cURL/spec/linux-x86
+Src/library/cURL/spec/linux-x86-64
 Src/library/cURL/spec/mingw
 Src/library/cURL/spec/msc
 Src/library/cocoa/EIFGENs
