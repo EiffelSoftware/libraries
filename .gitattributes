@@ -2189,6 +2189,10 @@ Src/library/store/dbms/rdbms/mysql/Readme -text
 Src/library/testing/testing-safe.lic -text
 Src/library/testing/testing.lic -text
 Src/library/testing/tests/tests.lic -text
+Src/library/text/parser/xml/parser/callbacks/README.TXT -text
+Src/library/text/parser/xml/parser/license.lic -text
+Src/library/text/parser/xml/tree/README.TXT -text
+Src/library/text/parser/xml/tree/license.lic -text
 Src/library/thread/tests/tests.lic -text
 Src/library/thread/thread-safe.lic -text
 Src/library/thread/thread.lic -text
