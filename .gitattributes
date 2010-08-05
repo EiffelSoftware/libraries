@@ -1480,6 +1480,7 @@ Src/C_library/openssl/util/tab_num.pl -text
 Src/C_library/zlib/contrib/blast/test.pk svneol=native#unset
 Src/C_library/zlib/contrib/puff/zeros.raw svneol=native#unset
 Src/contrib/library/README.txt -text
+Src/contrib/library/svn/svn.lic -text
 Src/examples/Eiffel2Java/README -text
 Src/examples/Eiffel2Java/test.class -text
 Src/examples/cURL/debug/debug.rc -text
