@@ -62,6 +62,7 @@ Src/examples/vision2/widget_test/interface/gb_table_positioner_imp.e
 Src/examples/vision2/widget_test/interface/gb_widget_utilities.e
 Src/examples/vision2/widget_test/interface/ordered_string_handler.e
 Src/examples/vision2/widget_test/templates
+Src/examples/web_browser/EIFGENs
 Src/framework/cli_debugger/Clib/OBJ
 Src/framework/cli_debugger/spec
 Src/framework/cli_writer/*.rc
@@ -202,6 +203,7 @@ Src/library/vision2/spec/mingw
 Src/library/vision2/spec/msc
 Src/library/vision2/spec/unix
 Src/library/vision2/tests/EIFGENs
+Src/library/web_browser/EIFGENs
 Src/library/wel/Clib/ilwel.lib
 Src/library/wel/Clib/make.log
 Src/library/wel/Clib/wel.lib
