@@ -31,6 +31,7 @@ Src/Documentation
 Src/examples/docking/simple/EIFGENs
 Src/examples/scoop/baboon_crossing/EIFGENs
 Src/examples/scoop/barbershop/EIFGENs
+Src/examples/scoop/concurrency/concurrency/EIFGENs
 Src/examples/scoop/concurrency/event_driven_programming/EIFGENs
 Src/examples/scoop/concurrency/redezvous_synchronisation/EIFGENs
 Src/examples/scoop/concurrency/resource_pooling/EIFGENs
