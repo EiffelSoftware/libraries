@@ -1543,6 +1543,18 @@ Src/examples/obsolete/vision2/test_all_widgets/pixmaps/vision_tower.bmp -text
 Src/examples/obsolete/vision2/test_all_widgets/pixmaps/vision_tower.xpm -text svneol=unset#application/octet-stream
 Src/examples/preferences/display.png -text
 Src/examples/preferences/graphics.png -text
+Src/examples/ribbon/simple/res/AddTableL.bmp -text
+Src/examples/ribbon/simple/res/AddTableS.bmp -text
+Src/examples/ribbon/simple/res/Button_Image.bmp -text
+Src/examples/ribbon/simple/res/Copy.bmp -text
+Src/examples/ribbon/simple/res/Cut.bmp -text
+Src/examples/ribbon/simple/res/DeleteTableL.bmp -text
+Src/examples/ribbon/simple/res/DeleteTableS.bmp -text
+Src/examples/ribbon/simple/res/ExitL.bmp -text
+Src/examples/ribbon/simple/res/Paste.bmp -text
+Src/examples/ribbon/simple/res/PrintRelationshipsL.bmp -text
+Src/examples/ribbon/simple/res/PrintRelationshipsS.bmp -text
+Src/examples/ribbon/simple/ribbon.bml -text
 Src/examples/store/select/data.sql.mysql -text
 Src/examples/thread/fancy/fancy.ico svneol=native#unset
 Src/examples/vision2/edraw/nocolor.png -text
