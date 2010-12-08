@@ -1947,6 +1947,7 @@ Src/library/editor/bitmaps/right_scroll_arrow.png -text
 Src/library/edk/include/edk.lib -text
 Src/library/edk/spec/msc/windows/lib/edk.lib -text
 Src/library/encoding/implementation/unix/Clib/iconv-config -text
+Src/library/graph/license.lic -text
 Src/library/i18n/README -text
 Src/library/i18n/TODO -text
 Src/library/i18n/doc/css/commonPrint.css -text
