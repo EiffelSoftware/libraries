@@ -1556,6 +1556,7 @@ Src/examples/ribbon/simple/res/Paste.bmp -text
 Src/examples/ribbon/simple/res/PrintRelationshipsL.bmp -text
 Src/examples/ribbon/simple/res/PrintRelationshipsS.bmp -text
 Src/examples/ribbon/simple/ribbon.bml -text
+Src/examples/store/extended_select/data.sql.mysql -text
 Src/examples/store/select/data.sql.mysql -text
 Src/examples/thread/fancy/fancy.ico svneol=native#unset
 Src/examples/vision2/edraw/nocolor.png -text
