@@ -1619,6 +1619,7 @@ Src/examples/wel/comctrls/toolbar.bmp -text
 Src/examples/wel/commands/commands_demo.ico -text
 Src/examples/wel/controls/controls_demo.ico -text
 Src/examples/wel/ctlcolor/ctlcolor_demo.ico -text
+Src/examples/wel/cursors/README -text
 Src/examples/wel/cursors/cursors_demo.ico -text
 Src/examples/wel/cursors/custom.cur svneol=native#unset
 Src/examples/wel/diskspace/diskspace_demo.ico -text
