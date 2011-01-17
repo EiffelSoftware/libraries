@@ -28,10 +28,7 @@ Src/C_library/zlib/zlib1.dll
 Src/C_library/zlib/zlib1.res
 Src/Delivery
 Src/Documentation
-Src/examples/cURL/simple/EIFGENs
-Src/examples/docking/docking_control/EIFGENs
 Src/examples/docking/simple/EIFGENs
-Src/examples/preferences/EIFGENs
 Src/examples/ribbon/simple/EIFGENs
 Src/examples/scoop/baboon_crossing/EIFGENs
 Src/examples/scoop/barbershop/EIFGENs
@@ -213,7 +210,6 @@ Src/library/iphone/spec
 Src/library/net/spec
 Src/library/objc_base/spec
 Src/library/obsolete/net/spec
-Src/library/store/EIFGENs
 Src/library/store/spec
 Src/library/testing/.git
 Src/library/testing/EIFGENs
