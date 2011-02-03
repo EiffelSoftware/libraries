@@ -2195,6 +2195,10 @@ Src/library/process/process-safe.lic -text
 Src/library/process/process.lic -text
 Src/library/process/tests/tests.lic -text
 Src/library/ribbon/Clib/Makefile-win.SH -text
+Src/library/runtime/logging/doc/Arch_Design_and_Impl.docx -text
+Src/library/runtime/logging/doc/Arch_Design_and_Impl.pdf -text svneol=unset#application/pdf
+Src/library/runtime/logging/doc/Arch_Design_and_Impl.vsd -text
+Src/library/runtime/logging/doc/Readme.1st -text
 Src/library/store/dbms/rdbms/mysql/Readme -text
 Src/library/testing/testing-safe.lic -text
 Src/library/testing/testing.lic -text
