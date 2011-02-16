@@ -2194,7 +2194,6 @@ Src/library/process/classic/windows/wel_process_toolhelp_constants.e -text
 Src/library/process/process-safe.lic -text
 Src/library/process/process.lic -text
 Src/library/process/tests/tests.lic -text
-Src/library/ribbon/Clib/Makefile-win.SH -text
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.docx -text
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.pdf -text svneol=unset#application/pdf
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.vsd -text
