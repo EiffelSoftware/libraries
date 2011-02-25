@@ -32,11 +32,6 @@ Src/examples/docking/simple/EIFGENs
 Src/examples/ribbon/simple/EIFGENs
 Src/examples/scoop/baboon_crossing/EIFGENs
 Src/examples/scoop/barbershop/EIFGENs
-Src/examples/scoop/concurrency/concurrency/EIFGENs
-Src/examples/scoop/concurrency/event_driven_programming/EIFGENs
-Src/examples/scoop/concurrency/rendezvous_synchronisation/EIFGENs
-Src/examples/scoop/concurrency/resource_pooling/EIFGENs
-Src/examples/scoop/concurrency/waiting_faster/EIFGENs
 Src/examples/scoop/counter/EIFGENs
 Src/examples/scoop/dining_philosophers/EIFGENs
 Src/examples/scoop/dining_savages/EIFGENs
