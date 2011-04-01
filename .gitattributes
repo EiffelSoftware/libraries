@@ -1550,14 +1550,17 @@ Src/examples/ribbon/all_widgets_basic/res/PrintRelationshipsS.bmp -text svneol=u
 Src/examples/ribbon/all_widgets_basic/ribbon.bml -text svneol=unset#unset
 Src/examples/ribbon/all_widgets_basic/ribbon_project.er svneol=native#unset
 Src/examples/ribbon/all_widgets_complex/eiffelribbon.rc -text
-Src/examples/ribbon/all_widgets_complex/res/1.bmp -text
-Src/examples/ribbon/all_widgets_complex/res/2.bmp -text
-Src/examples/ribbon/all_widgets_complex/res/3.bmp -text
-Src/examples/ribbon/all_widgets_complex/res/4.bmp -text
-Src/examples/ribbon/all_widgets_complex/res/5.bmp -text
-Src/examples/ribbon/all_widgets_complex/res/6.bmp -text
-Src/examples/ribbon/all_widgets_complex/res/7.bmp -text
-Src/examples/ribbon/all_widgets_complex/res/8.bmp -text
+Src/examples/ribbon/all_widgets_complex/res/AddTableL.bmp -text
+Src/examples/ribbon/all_widgets_complex/res/AddTableS.bmp -text
+Src/examples/ribbon/all_widgets_complex/res/Button_Image.bmp -text
+Src/examples/ribbon/all_widgets_complex/res/Copy.bmp -text
+Src/examples/ribbon/all_widgets_complex/res/Cut.bmp -text
+Src/examples/ribbon/all_widgets_complex/res/DeleteTableL.bmp -text
+Src/examples/ribbon/all_widgets_complex/res/DeleteTableS.bmp -text
+Src/examples/ribbon/all_widgets_complex/res/ExitL.bmp -text
+Src/examples/ribbon/all_widgets_complex/res/Paste.bmp -text
+Src/examples/ribbon/all_widgets_complex/res/PrintRelationshipsL.bmp -text
+Src/examples/ribbon/all_widgets_complex/res/PrintRelationshipsS.bmp -text
 Src/examples/ribbon/all_widgets_complex/ribbon.bml -text
 Src/examples/ribbon/all_widgets_complex/ribbon_project.er -text
 Src/examples/store/extended_select/data.sql.mysql -text
