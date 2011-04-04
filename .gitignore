@@ -30,6 +30,7 @@ Src/Delivery
 Src/Documentation
 Src/examples/docking/simple/EIFGENs
 Src/examples/scoop/baboon_crossing/EIFGENs
+Src/examples/scoop/barbershop/*.rc
 Src/examples/scoop/barbershop/EIFGENs
 Src/examples/scoop/counter/EIFGENs
 Src/examples/scoop/dining_philosophers/EIFGENs
