@@ -1544,6 +1544,7 @@ Src/examples/obsolete/vision2/test_all_widgets/pixmaps/vision_tower.xpm -text sv
 Src/examples/preferences/display.png -text
 Src/examples/preferences/graphics.png -text
 Src/examples/ribbon/all_widgets_basic/res/AddTableL.bmp -text svneol=unset#unset
+Src/examples/ribbon/all_widgets_basic/res/Copy.bmp -text
 Src/examples/ribbon/all_widgets_basic/res/ExitL.bmp -text svneol=unset#unset
 Src/examples/ribbon/all_widgets_basic/res/Paste.bmp -text svneol=unset#unset
 Src/examples/ribbon/all_widgets_basic/res/PrintRelationshipsS.bmp -text svneol=unset#unset
