@@ -1945,6 +1945,7 @@ Src/library/api_wrapper/implementation/unix/Clib/dl-config -text
 Src/library/api_wrapper/license.lic -text
 Src/library/cURL/cURL-safe.lic -text
 Src/library/cURL/cURL.lic -text
+Src/library/cURL/readme.txt -text
 Src/library/cocoa/Clib/ns_responder_category.m -text
 Src/library/cocoa/Clib/ns_text_delegate.m -text
 Src/library/diff/diff_index_link.e -text
