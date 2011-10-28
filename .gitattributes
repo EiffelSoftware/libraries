@@ -2242,3 +2242,4 @@ Src/library/wizard/help/Clib/htmlhelp.lib -text
 Src/unstable/README.txt -text
 Src/unstable/library/persistency/database/sqlite3/README -text
 Src/unstable/library/persistency/database/sqlite3/license.lic -text
+Src/unstable/library/text/regexp/pcre/pcre.rc -text
