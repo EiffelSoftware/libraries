@@ -28,6 +28,9 @@ Src/C_library/zlib/zlib1.dll
 Src/C_library/zlib/zlib1.res
 Src/Delivery
 Src/Documentation
+Src/contrib/library/graphic/toolkit/wex/library/wex/spec/bcb
+Src/contrib/library/graphic/toolkit/wex/library/wex/spec/mingw
+Src/contrib/library/graphic/toolkit/wex/library/wex/spec/msc
 Src/examples/docking/simple/EIFGENs
 Src/examples/scoop/baboon_crossing/EIFGENs
 Src/examples/scoop/barbershop/*.rc
