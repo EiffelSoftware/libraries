@@ -1529,6 +1529,7 @@ Src/examples/obsolete/old_com/Compound/child.ico svneol=native#unset
 Src/examples/obsolete/old_com/Compound/compound.ico svneol=native#unset
 Src/examples/obsolete/old_com/Wordbasic/wordbasic.ico svneol=native#unset
 Src/examples/obsolete/vision2/drawing_area/car.png -text
+Src/examples/obsolete/vision2/figure/logo.png -text
 Src/examples/obsolete/vision2/grid/icon_bpdisabled.png -text
 Src/examples/obsolete/vision2/grid/icon_bpenabled.png -text
 Src/examples/obsolete/vision2/grid/image1.png -text
