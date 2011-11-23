@@ -1549,12 +1549,6 @@ Src/examples/obsolete/vision2/pixmap/magenta.png -text
 Src/examples/obsolete/vision2/pixmap/new.png -text
 Src/examples/obsolete/vision2/pixmap/open.png -text
 Src/examples/obsolete/vision2/pixmap/save.png -text
-Src/examples/obsolete/vision2/test_all_widgets/pixmaps/power_small.bmp -text
-Src/examples/obsolete/vision2/test_all_widgets/pixmaps/power_small.xpm -text svneol=unset#application/octet-stream
-Src/examples/obsolete/vision2/test_all_widgets/pixmaps/vision.bmp -text
-Src/examples/obsolete/vision2/test_all_widgets/pixmaps/vision.xpm -text svneol=unset#application/octet-stream
-Src/examples/obsolete/vision2/test_all_widgets/pixmaps/vision_tower.bmp -text
-Src/examples/obsolete/vision2/test_all_widgets/pixmaps/vision_tower.xpm -text svneol=unset#application/octet-stream
 Src/examples/preferences/display.png -text
 Src/examples/preferences/graphics.png -text
 Src/examples/ribbon/all_widgets_basic/res/AddTableL.bmp -text svneol=unset#unset
