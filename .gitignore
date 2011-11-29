@@ -89,7 +89,6 @@ Src/framework/cli_writer/spec
 Src/framework/configuration/*.wb
 Src/framework/configuration/EIFGENs
 Src/framework/parser/parser/output.txt
-Src/framework/peg/test/EIFGENs
 Src/framework/settable_types/EIFGENs
 Src/framework/web/xebra/c_projects/.project
 Src/framework/web/xebra/c_projects/apache_mod_xebra/*.exp
@@ -133,10 +132,8 @@ Src/framework/web/xebra/c_projects/serverclienttest/server
 Src/framework/web/xebra/c_projects/serverclienttest/stamp-h1
 Src/framework/web/xebra/eiffel_projects/.project
 Src/framework/web/xebra/eiffel_projects/library/thread_utilities/EIFGENs
-Src/framework/web/xebra/eiffel_projects/library/xebra_ast_elements/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_error/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_http/EIFGENs
-Src/framework/web/xebra/eiffel_projects/library/xebra_precompile/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_taglibrary_base/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_taglibrary_form/EIFGENs
 Src/framework/web/xebra/eiffel_projects/library/xebra_taglibrary_xrpc/EIFGENs
