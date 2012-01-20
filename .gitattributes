@@ -1783,6 +1783,7 @@ Src/framework/terminal/license.lic -text
 Src/framework/testing/testing.lic -text
 Src/framework/threading/threading.lic -text
 Src/framework/uri_launcher/uri_launcher.lic -text
+Src/framework/vision2/license.lic -text
 Src/framework/web/xebra/c_projects/apache_mod_xebra/mod_xebra.so -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler/Properties/AssemblyInfo.cs -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler/XConfig.cs -text
