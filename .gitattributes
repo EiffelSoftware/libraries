@@ -2201,7 +2201,6 @@ Src/library/libevent/Clib/libevent/test/regress.rpc -text
 Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
 Src/library/objc_base/Clib/objc_callback_marshal.m -text
 Src/library/preferences/license.lic -text
-Src/library/process/classic/unix/process_thread_timer.e -text
 Src/library/process/classic/windows/wel_process_id_pair.e -text
 Src/library/process/classic/windows/wel_process_toolhelp_constants.e -text
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.docx -text
