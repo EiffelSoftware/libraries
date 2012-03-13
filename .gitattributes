@@ -1580,6 +1580,9 @@ Src/examples/ribbon/all_widgets_complex/ribbon_project.er -text
 Src/examples/store/extended_select/data.sql.mysql -text
 Src/examples/store/select/data.sql.mysql -text
 Src/examples/thread/fancy/fancy.ico svneol=native#unset
+Src/examples/thread/fancy/license.lic -text
+Src/examples/thread/producer_consumer/license.lic -text
+Src/examples/thread/race/license.lic -text
 Src/examples/vision2/edraw/nocolor.png -text
 Src/examples/vision2/edraw/toolbar/arc.png -text
 Src/examples/vision2/edraw/toolbar/dot.png -text
