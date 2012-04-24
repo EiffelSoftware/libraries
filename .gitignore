@@ -219,6 +219,9 @@ Src/library/vision2/spec/msc
 Src/library/vision2/spec/unix
 Src/library/vision2/tests/EIFGENs
 Src/library/web_browser/EIFGENs
+Src/library/web_browser/spec/bsb
+Src/library/web_browser/spec/mingw
+Src/library/web_browser/spec/msc
 Src/library/wel/Clib/ilwel.lib
 Src/library/wel/Clib/make.log
 Src/library/wel/Clib/wel.lib
