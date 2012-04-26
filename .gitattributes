@@ -1759,6 +1759,7 @@ Src/framework/base64/base64.lic -text
 Src/framework/base64/tests/tests.lic -text
 Src/framework/cli_debugger/cli_debugger.lic -text
 Src/framework/cli_writer/cli_writer.lic -text
+Src/framework/com_light/tests/test.docx -text
 Src/framework/command_tunnel/command_tunnel.lic -text
 Src/framework/configuration/configuration_compiler.lic -text
 Src/framework/configuration/configuration_gui.lic -text
