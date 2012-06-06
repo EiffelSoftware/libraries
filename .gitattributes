@@ -2212,6 +2212,7 @@ Src/library/runtime/logging/doc/Arch_Design_and_Impl.pdf -text svneol=unset#appl
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.vsd -text
 Src/library/runtime/logging/doc/Readme.1st -text
 Src/library/store/dbms/rdbms/mysql/Readme -text
+Src/library/store/test/test_results/odbc_PostgreSQL_results.txt svneol=native#unset
 Src/library/text/parser/xml/parser/callbacks/README.TXT -text
 Src/library/text/parser/xml/parser/license.lic -text
 Src/library/text/parser/xml/tree/README.TXT -text
