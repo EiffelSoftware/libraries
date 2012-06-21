@@ -1483,7 +1483,6 @@ Src/contrib/README.txt -text
 Src/contrib/library/graphic/toolkit/wex/examples/wex/Framework_example/TOOLBAR.BMP svneol=native#unset
 Src/contrib/library/graphic/toolkit/wex/examples/wex/Framework_example/app.ico svneol=native#unset
 Src/contrib/library/graphic/toolkit/wex/examples/wex/MCI_Splash/APP.ICO svneol=native#unset
-Src/contrib/library/math/decimal/decimal/format -text
 Src/contrib/library/math/eapml/README.txt -text
 Src/contrib/library/math/eapml/tests/TODO.txt -text
 Src/contrib/library/runtime/process/eclop/doc/eclop.pdf -text
