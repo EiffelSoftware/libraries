@@ -1480,6 +1480,1788 @@ Src/C_library/openssl/util/tab_num.pl -text
 Src/C_library/zlib/contrib/blast/test.pk svneol=native#unset
 Src/C_library/zlib/contrib/puff/zeros.raw svneol=native#unset
 Src/contrib/README.txt -text
+Src/contrib/library/gobo/History.txt -text
+Src/contrib/library/gobo/License.txt -text
+Src/contrib/library/gobo/Readme.txt -text
+Src/contrib/library/gobo/Release_notes.txt -text
+Src/contrib/library/gobo/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/Readme.txt -text
+Src/contrib/library/gobo/doc/argument/alternate.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/argument/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/argument/error.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/argument/help.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/argument/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/argument/introduction.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/argument/options.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/argument/parser.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/download.html -text
+Src/contrib/library/gobo/doc/geant/available_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/geant/builtin_variables.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/copy_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/delete_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/echo_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/examples.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/exec_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/exit_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/fileset_element.xml -text
+Src/contrib/library/gobo/doc/geant/geant.rng -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/geant_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/gec_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/gelex_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/gepp_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/getest_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/gexace_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/geyacc_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/hello_world.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/input_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/introduction.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/ise_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/map_element.xml -text
+Src/contrib/library/gobo/doc/geant/mkdir_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/move_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/outofdate_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/overview.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/precursor_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/replace_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/set_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/setenv_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/target.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/tasks.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/unset_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/xslt_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gec/Readme.txt -text
+Src/contrib/library/gobo/doc/gec/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/gec/future.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gec/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gec/limitations.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gec/platforms.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gec/see_also.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gec/technology.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gec/usage.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gelex/Readme.txt -text
+Src/contrib/library/gobo/doc/gelex/actions.html -text
+Src/contrib/library/gobo/doc/gelex/description.html -text
+Src/contrib/library/gobo/doc/gelex/examples.html -text
+Src/contrib/library/gobo/doc/gelex/index.html -text
+Src/contrib/library/gobo/doc/gelex/introduction.html -text
+Src/contrib/library/gobo/doc/gelex/limitations.html -text
+Src/contrib/library/gobo/doc/gelex/matching_rules.html -text
+Src/contrib/library/gobo/doc/gelex/options.html -text
+Src/contrib/library/gobo/doc/gelex/patterns.html -text
+Src/contrib/library/gobo/doc/gelex/scanner.html -text
+Src/contrib/library/gobo/doc/gelex/see_also.html -text
+Src/contrib/library/gobo/doc/gelex/skeleton.html -text
+Src/contrib/library/gobo/doc/gelex/stages.html -text
+Src/contrib/library/gobo/doc/gelex/start_conditions.html -text
+Src/contrib/library/gobo/doc/gelint/Readme.txt -text
+Src/contrib/library/gobo/doc/gelint/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/gelint/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gelint/limitations.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gelint/see_also.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gelint/technology.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gelint/usage.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/getest/Readme.txt -text
+Src/contrib/library/gobo/doc/getest/assertions.html -text
+Src/contrib/library/gobo/doc/getest/configuration.html -text
+Src/contrib/library/gobo/doc/getest/examples.html -text
+Src/contrib/library/gobo/doc/getest/index.html -text
+Src/contrib/library/gobo/doc/getest/options.html -text
+Src/contrib/library/gobo/doc/getest/output.html -text
+Src/contrib/library/gobo/doc/getest/see_also.html -text
+Src/contrib/library/gobo/doc/getest/stages.html -text
+Src/contrib/library/gobo/doc/gexace/Readme.txt -text
+Src/contrib/library/gobo/doc/gexace/options.txt -text
+Src/contrib/library/gobo/doc/gexace/xace.rnc -text
+Src/contrib/library/gobo/doc/gexace/xace.rng -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gexslt/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/gexslt/extension/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/gexslt/extension/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gexslt/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gexslt/index_wrapper.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gexslt/index_wrapper_2.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gexslt/options.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gexslt/options_wrapper.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gexslt/options_wrapper_2.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geyacc/Readme.txt -text
+Src/contrib/library/gobo/doc/geyacc/actions.html -text
+Src/contrib/library/gobo/doc/geyacc/algorithm.html -text
+Src/contrib/library/gobo/doc/geyacc/context.html -text
+Src/contrib/library/gobo/doc/geyacc/declarations.html -text
+Src/contrib/library/gobo/doc/geyacc/description.html -text
+Src/contrib/library/gobo/doc/geyacc/error.html -text
+Src/contrib/library/gobo/doc/geyacc/examples.html -text
+Src/contrib/library/gobo/doc/geyacc/index.html -text
+Src/contrib/library/gobo/doc/geyacc/introduction.html -text
+Src/contrib/library/gobo/doc/geyacc/limitations.html -text
+Src/contrib/library/gobo/doc/geyacc/options.html -text
+Src/contrib/library/gobo/doc/geyacc/parser.html -text
+Src/contrib/library/gobo/doc/geyacc/precedence.html -text
+Src/contrib/library/gobo/doc/geyacc/rules.html -text
+Src/contrib/library/gobo/doc/geyacc/see_also.html -text
+Src/contrib/library/gobo/doc/geyacc/skeleton.html -text
+Src/contrib/library/gobo/doc/geyacc/stages.html -text
+Src/contrib/library/gobo/doc/geyacc/symbols.html -text
+Src/contrib/library/gobo/doc/guidelines/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/guidelines/class_layout.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/compilers.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/documentation.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/examples.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/installation.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/language.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/license.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/naming_conventions.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/programming_style.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/svn.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/test.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/image/book/bison.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/compiler_design.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/compilers.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/data_structures_and_algorithms.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/design_patterns.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/empty.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/flex.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/index.html -text
+Src/contrib/library/gobo/doc/image/book/ise.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/lex_yacc.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/object_structures.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/ooapp.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/regex.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/reusable_software.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/book/xp.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/construction.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/download.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/home.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/index.html -text
+Src/contrib/library/gobo/doc/image/next.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/previous.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/image/toc.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/index.html -text
+Src/contrib/library/gobo/doc/license.html -text
+Src/contrib/library/gobo/doc/math/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/math/decimal/dachange.html -text
+Src/contrib/library/gobo/doc/math/decimal/daconcep.html -text
+Src/contrib/library/gobo/doc/math/decimal/daconvs.html -text
+Src/contrib/library/gobo/doc/math/decimal/daexcep.html -text
+Src/contrib/library/gobo/doc/math/decimal/daintro.html -text
+Src/contrib/library/gobo/doc/math/decimal/damodel.html -text
+Src/contrib/library/gobo/doc/math/decimal/daops.html -text
+Src/contrib/library/gobo/doc/math/decimal/dascope.html -text
+Src/contrib/library/gobo/doc/math/decimal/dax3274.html -text
+Src/contrib/library/gobo/doc/math/decimal/decarith.html -text
+Src/contrib/library/gobo/doc/math/decimal/dectest.html -text
+Src/contrib/library/gobo/doc/math/decimal/default.css -text
+Src/contrib/library/gobo/doc/math/decimal/dtchange.html -text
+Src/contrib/library/gobo/doc/math/decimal/dtfile.html -text
+Src/contrib/library/gobo/doc/math/decimal/dtintro.html -text
+Src/contrib/library/gobo/doc/math/decimal/dtnotes.html -text
+Src/contrib/library/gobo/doc/math/decimal/index.html -text
+Src/contrib/library/gobo/doc/math/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/misc/gobo.rng -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/misc/gobo2db.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/misc/gobo2html.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/misc/gobo2html2.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/portability/Readme.txt -text
+Src/contrib/library/gobo/doc/portability/client.html -text
+Src/contrib/library/gobo/doc/portability/gepp.html -text
+Src/contrib/library/gobo/doc/portability/index.html -text
+Src/contrib/library/gobo/doc/portability/inheritance.html -text
+Src/contrib/library/gobo/doc/portability/portability.html -text
+Src/contrib/library/gobo/doc/string/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/string/formatter/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/string/formatter/correctness.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/formatter/examples.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/formatter/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/formatter/quick_start.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/formatter/scientific_format.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/formatter/see_also.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/unicode/about.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/unicode/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/string/unicode/case.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/unicode/classes.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/unicode/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/unicode/routines.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/unicode/see_also.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/structure/Readme.txt -text
+Src/contrib/library/gobo/doc/structure/base.html -text
+Src/contrib/library/gobo/doc/structure/container.html -text
+Src/contrib/library/gobo/doc/structure/container.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/structure/dispenser.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_arrayed_list.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_arrayed_list_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_arrayed_sparse_set.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_arrayed_sparse_set_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_arrayed_sparse_table.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_arrayed_sparse_table_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_arrayed_stack.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_bilinear.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_bilinear_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_bilinkable.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_bilinked_list.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_bilinked_list_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_bubble_sorter.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_cell.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_comparable_comparator.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_comparator.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_container.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_dispenser.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_dynamic_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_equality_tester.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_hash_set.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_hash_set_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_hash_table.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_hash_table_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_indexable.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_indexable_sorter.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_indexed_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_linear.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_linear_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_linkable.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_linked_list.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_linked_list_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_linked_queue.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_linked_stack.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_list.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_list_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_multiarrayed_hash_set.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_multiarrayed_hash_set_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_multiarrayed_hash_table.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_multiarrayed_hash_table_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_multiarrayed_sparse_set.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_multiarrayed_sparse_set_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_multiarrayed_sparse_table.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_multiarrayed_sparse_table_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_pair.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_queue.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_quick_sorter.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_resizable.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_reverse_comparable_comparator.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_reverse_comparator.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_searchable.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_set.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_set_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_shell_sorter.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_sortable.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_sorter.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_sparse_set.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_sparse_set_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_sparse_table.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_sparse_table_cursor.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_stack.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_table.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/ds_traversable.html -text
+Src/contrib/library/gobo/doc/structure/flatshort/index.html -text
+Src/contrib/library/gobo/doc/structure/image/arrayed_list.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/structure/image/base.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/structure/image/bilinked_list.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/structure/image/container.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/structure/image/dispenser.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/structure/image/index.html -text
+Src/contrib/library/gobo/doc/structure/image/linked_list.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/structure/image/list.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/structure/image/set.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/structure/image/sort.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/structure/image/table.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/structure/image/traversal.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/structure/index.html -text
+Src/contrib/library/gobo/doc/structure/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/structure/list.html -text
+Src/contrib/library/gobo/doc/structure/see_also.html -text
+Src/contrib/library/gobo/doc/structure/set.html -text
+Src/contrib/library/gobo/doc/structure/sort.html -text
+Src/contrib/library/gobo/doc/structure/table.html -text
+Src/contrib/library/gobo/doc/structure/terminology.html -text
+Src/contrib/library/gobo/doc/structure/terminology.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/structure/traversal.html -text
+Src/contrib/library/gobo/doc/structure/traversal.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/structure/visio/arrayed_list.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/structure/visio/base.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/structure/visio/bilinked_list.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/structure/visio/container.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/structure/visio/dispenser.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/structure/visio/linked_list.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/structure/visio/list.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/structure/visio/set.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/structure/visio/sort.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/structure/visio/table.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/structure/visio/traversal.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/time/Readme.txt -text
+Src/contrib/library/gobo/doc/time/absolute.html -text
+Src/contrib/library/gobo/doc/time/clock.html -text
+Src/contrib/library/gobo/doc/time/duration.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_absolute_time.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_clock.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_date.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_date_duration.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_date_handler.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_date_time.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_date_time_duration.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_date_time_handler.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_date_time_value.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_date_value.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_duration.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_gregorian_calendar.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_shared_system_clock.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_system_clock.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_time.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_time_duration.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_time_handler.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_time_value.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_time_zone.html -text
+Src/contrib/library/gobo/doc/time/flatshort/dt_utc_system_clock.html -text
+Src/contrib/library/gobo/doc/time/flatshort/index.html -text
+Src/contrib/library/gobo/doc/time/image/absolute.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/time/image/clock.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/time/image/duration.gif -text svneol=unset#image/gif
+Src/contrib/library/gobo/doc/time/image/index.html -text
+Src/contrib/library/gobo/doc/time/index.html -text
+Src/contrib/library/gobo/doc/time/limitations.html -text
+Src/contrib/library/gobo/doc/time/see_also.html -text
+Src/contrib/library/gobo/doc/time/stopwatch.html -text
+Src/contrib/library/gobo/doc/time/visio/absolute.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/time/visio/clock.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/time/visio/duration.vsd -text svneol=unset#application/msword
+Src/contrib/library/gobo/doc/tools/Readme.txt -text
+Src/contrib/library/gobo/doc/tools/ace.xml -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/tools/applications.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/tools/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/tools/ecf.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/tools/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/tools/limitations.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/tools/see_also.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/TODO.txt -text
+Src/contrib/library/gobo/doc/xml/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/xml/catalogs.xml -text
+Src/contrib/library/gobo/doc/xml/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/resolvers.xml -text
+Src/contrib/library/gobo/doc/xml/serializers.xml -text
+Src/contrib/library/gobo/doc/xml/using.xml -text
+Src/contrib/library/gobo/doc/xml/xpath/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/xml/xpath/collection.xml -text
+Src/contrib/library/gobo/doc/xml/xpath/data_model_design.html -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xpath/evaluation_process.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xpath/implemented_functions.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xpath/invoking.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xpath/issues.html -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xpath/tiny_tree.html -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xpath/xpointer.xml -text
+Src/contrib/library/gobo/doc/xml/xpath/xpointer_wrapper.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xpath/xpointer_wrapper_2.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/configuration.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/conformance.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/error_listener.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/examples.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/extension_functions.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/output_extensions.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/output_resolver.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/overview.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/results.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/security_manager.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/tracing.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/transformation_result.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/transformation_source.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/transformer.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/transforming.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xslt/xslt_serializer.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/example/argument/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/argument/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/Readme.txt -text
+Src/contrib/library/gobo/example/geant/argument/a.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/argument/arguments.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/argument/b.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/argument/client.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/argument/deferred.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/argument/supplier.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/exec/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/exec/dir.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/exec/dir2.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/exec/exec1.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/exec/ls.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/exec/returncode.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/export/a.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/export/b.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/export/c.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/export/readme.txt -text
+Src/contrib/library/gobo/example/geant/filesystem/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/gepp/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/gexace/hello/hello.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/hello/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/inherit/a.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/inherit/b.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/inherit/buildfile_location/ancestor/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/inherit/buildfile_location/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/inherit/multiple/diamond/a1.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/inherit/multiple/diamond/b1.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/inherit/multiple/diamond/c1.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/inherit/multiple/diamond/d1.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/inherit/multiple/diamond/readme.txt -text
+Src/contrib/library/gobo/example/geant/inherit/readme.txt -text
+Src/contrib/library/gobo/example/geant/map/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/map/in/ttt/ttt.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/example/geant/misc/available.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/misc/gedoc.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/misc/mktmpdir.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/misc/obsolete.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/misc/once.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/misc/outofdate.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/misc/xslt.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/variables/variables1.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/variables/variables2.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/variables/variables3.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/variables/variables4.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/variables/variables5.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/geant/variables/variables6.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/lexical/ascii2ps/Readme.txt -text
+Src/contrib/library/gobo/example/lexical/ascii2ps/ascii2ps.l -text
+Src/contrib/library/gobo/example/lexical/ascii2ps/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/lexical/ascii2ps/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/lexical/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/lexical/eiffel_scanner/Readme.txt -text
+Src/contrib/library/gobo/example/lexical/eiffel_scanner/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/lexical/eiffel_scanner/eiffel_scanner.l -text
+Src/contrib/library/gobo/example/lexical/eiffel_scanner/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/lexical/gegrep/Readme.txt -text
+Src/contrib/library/gobo/example/lexical/gegrep/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/lexical/gegrep/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/math/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/math/decimal/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/math/decimal/telco/Readme.txt -text
+Src/contrib/library/gobo/example/math/decimal/telco/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/math/decimal/telco/data/telco.test -text
+Src/contrib/library/gobo/example/math/decimal/telco/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/parse/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/parse/calc/Readme.txt -text
+Src/contrib/library/gobo/example/parse/calc/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/parse/calc/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/parse/eiffel_parser/Readme.txt -text
+Src/contrib/library/gobo/example/parse/eiffel_parser/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/parse/eiffel_parser/eiffel_scanner.l -text
+Src/contrib/library/gobo/example/parse/eiffel_parser/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/parse/mcalc/Readme.txt -text
+Src/contrib/library/gobo/example/parse/mcalc/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/parse/mcalc/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/parse/rpcalc/Readme.txt -text
+Src/contrib/library/gobo/example/parse/rpcalc/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/parse/rpcalc/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/pattern/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/pattern/singleton/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/pattern/singleton/do_nothing/Readme.txt -text
+Src/contrib/library/gobo/example/pattern/singleton/do_nothing/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/pattern/singleton/do_nothing/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/regexp/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/regexp/pcre/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/regexp/pcre/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/test/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/test/concat1/Readme.txt -text
+Src/contrib/library/gobo/example/test/concat1/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/test/concat1/getest.cfg -text
+Src/contrib/library/gobo/example/test/concat1/getest.ise -text
+Src/contrib/library/gobo/example/test/concat1/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/test/concat2/Readme.txt -text
+Src/contrib/library/gobo/example/test/concat2/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/test/concat2/getest.cfg -text
+Src/contrib/library/gobo/example/test/concat2/getest.ise -text
+Src/contrib/library/gobo/example/test/concat2/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/time/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/time/clock/Readme.txt -text
+Src/contrib/library/gobo/example/time/clock/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/time/clock/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/tools/bang2create/Readme.txt -text
+Src/contrib/library/gobo/example/tools/bang2create/bang2create.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/tools/bang2create/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/tools/bang2create/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/tools/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/tools/pretty_printer/Readme.txt -text
+Src/contrib/library/gobo/example/tools/pretty_printer/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/tools/pretty_printer/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/event/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/event/print/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/event/print/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/event/tagcount/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/event/tagcount/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/tree/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/tree/formatter/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/tree/formatter/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/tree/namespaces/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/tree/namespaces/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/xslt/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/xslt/schematron/Readme.txt -text
+Src/contrib/library/gobo/example/xml/xslt/schematron/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/xslt/schematron/data/conformance1-5.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/example/xml/xslt/schematron/data/evil_wai.xml -text
+Src/contrib/library/gobo/example/xml/xslt/schematron/data/report.txt -text
+Src/contrib/library/gobo/example/xml/xslt/schematron/data/schematron-basic.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/example/xml/xslt/schematron/data/schematron-report.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/example/xml/xslt/schematron/data/skeleton1-5.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/example/xml/xslt/schematron/data/verbid.xsl -text
+Src/contrib/library/gobo/example/xml/xslt/schematron/data/wai.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/example/xml/xslt/schematron/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/xslt/serializer/Readme.txt -text
+Src/contrib/library/gobo/example/xml/xslt/serializer/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/example/xml/xslt/serializer/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/argument/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/free_elks/Readme.txt -text
+Src/contrib/library/gobo/library/free_elks/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/free_elks/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/kernel.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/kernel/Readme.txt -text
+Src/contrib/library/gobo/library/kernel/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/kernel/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/lexical/Readme.txt -text
+Src/contrib/library/gobo/library/lexical/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/lexical/lex/lx_lex_scanner.l -text
+Src/contrib/library/gobo/library/lexical/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/lexical/library_skl.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/lexical/regexp/lx_regexp_scanner.l -text
+Src/contrib/library/gobo/library/lexical/regexp/lx_wildcard_scanner.l -text
+Src/contrib/library/gobo/library/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/math/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/math/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/parse/Readme.txt -text
+Src/contrib/library/gobo/library/parse/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/parse/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/parse/library_skl.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/parse/yacc/pr_yacc_scanner.l -text
+Src/contrib/library/gobo/library/pattern/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/pattern/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/pattern/singleton/Readme.txt -text
+Src/contrib/library/gobo/library/regexp/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/regexp/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/string/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/string/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/structure/Readme.txt -text
+Src/contrib/library/gobo/library/structure/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/structure/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/test/Readme.txt -text
+Src/contrib/library/gobo/library/test/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/test/config/getest.cfg -text
+Src/contrib/library/gobo/library/test/config/getest.ise -text
+Src/contrib/library/gobo/library/test/generation/ts_config_scanner.l -text
+Src/contrib/library/gobo/library/test/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/test/library_skl.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/time/Readme.txt -text
+Src/contrib/library/gobo/library/time/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/time/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/tools/Readme.txt -text
+Src/contrib/library/gobo/library/tools/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/tools/eiffel/parser/et_eiffel_preparser.l -text
+Src/contrib/library/gobo/library/tools/eiffel/parser/et_eiffel_scanner.l -text
+Src/contrib/library/gobo/library/tools/lace/parser/et_lace_scanner.l -text
+Src/contrib/library/gobo/library/tools/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/utility/Readme.txt -text
+Src/contrib/library/gobo/library/utility/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/utility/config/ut_config_scanner.l -text
+Src/contrib/library/gobo/library/utility/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/xml/Readme.txt -text
+Src/contrib/library/gobo/library/xml/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/library/xml/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/xml/library_core.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/xml/parser/eiffel/xm_eiffel_scanner.l -text
+Src/contrib/library/gobo/library/xml/xpath/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/library/xml/xslt/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/misc/catalog.dtd -text
+Src/contrib/library/gobo/misc/catalog.rng -text svneol=unset#application/xml
+Src/contrib/library/gobo/misc/catalog.xsd -text svneol=unset#application/xml
+Src/contrib/library/gobo/misc/eiffel.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/misc/ge2e.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/misc/test.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/misc/todo.txt -text
+Src/contrib/library/gobo/src/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/src/geant/Readme.txt -text
+Src/contrib/library/gobo/src/geant/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/src/geant/library.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/src/geant/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/src/gec/Readme.txt -text
+Src/contrib/library/gobo/src/gec/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/src/gec/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/src/gelex/Readme.txt -text
+Src/contrib/library/gobo/src/gelex/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/src/gelex/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/src/gelint/Readme.txt -text
+Src/contrib/library/gobo/src/gelint/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/src/gelint/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/src/gepp/Readme.txt -text
+Src/contrib/library/gobo/src/gepp/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/src/gepp/gepp_scanner.l -text
+Src/contrib/library/gobo/src/gepp/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/src/getest/Readme.txt -text
+Src/contrib/library/gobo/src/getest/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/src/getest/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/src/gexace/Readme.txt -text
+Src/contrib/library/gobo/src/gexace/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/src/gexace/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/src/gexslt/Readme.txt -text
+Src/contrib/library/gobo/src/gexslt/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/src/gexslt/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/src/geyacc/Readme.txt -text
+Src/contrib/library/gobo/src/geyacc/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/src/geyacc/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/argument/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/argument/getest.cfg -text
+Src/contrib/library/gobo/test/argument/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/common/data/freeise.txt -text
+Src/contrib/library/gobo/test/common/data/geeraise.txt -text
+Src/contrib/library/gobo/test/example/argument/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/argument/data/output1.txt -text
+Src/contrib/library/gobo/test/example/argument/data/output2.txt -text
+Src/contrib/library/gobo/test/example/argument/getest.cfg -text
+Src/contrib/library/gobo/test/example/argument/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/lexical/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/lexical/data/sample.ps -text svneol=unset#application/postscript
+Src/contrib/library/gobo/test/example/lexical/getest.cfg -text
+Src/contrib/library/gobo/test/example/lexical/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/math/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/math/data/telco.outc -text
+Src/contrib/library/gobo/test/example/math/data/telco.txt -text
+Src/contrib/library/gobo/test/example/math/getest.cfg -text
+Src/contrib/library/gobo/test/example/math/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/parse/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/parse/getest.cfg -text
+Src/contrib/library/gobo/test/example/parse/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/pattern/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/pattern/data/do_nothing.log -text
+Src/contrib/library/gobo/test/example/pattern/getest.cfg -text
+Src/contrib/library/gobo/test/example/pattern/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/regexp/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/regexp/data/pcre.txt -text
+Src/contrib/library/gobo/test/example/regexp/getest.cfg -text
+Src/contrib/library/gobo/test/example/regexp/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/test/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/test/data/concat1a.log -text
+Src/contrib/library/gobo/test/example/test/data/concat1b.log -text
+Src/contrib/library/gobo/test/example/test/data/concat1c.log -text
+Src/contrib/library/gobo/test/example/test/data/concat2a.log -text
+Src/contrib/library/gobo/test/example/test/data/concat2b.log -text
+Src/contrib/library/gobo/test/example/test/data/concat2c.log -text
+Src/contrib/library/gobo/test/example/test/getest.cfg -text
+Src/contrib/library/gobo/test/example/test/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/time/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/time/getest.cfg -text
+Src/contrib/library/gobo/test/example/time/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/tools/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/tools/getest.cfg -text
+Src/contrib/library/gobo/test/example/tools/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/xml/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/example/xml/data/doc.xml -text
+Src/contrib/library/gobo/test/example/xml/getest.cfg -text
+Src/contrib/library/gobo/test/example/xml/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/free_elks/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/free_elks/getest.cfg -text
+Src/contrib/library/gobo/test/free_elks/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/equality/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/equality/ge.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/equality/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/semantics/equality/ise.ecf -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/equality/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/integer_constant/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/integer_constant/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/semantics/integer_constant/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/object_equality/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/object_equality/ge.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/object_equality/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/semantics/object_equality/ise.ecf -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/object_equality/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/object_test/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/object_test/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/semantics/object_test/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/once/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/once/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/semantics/once/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/precursor/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/semantics/precursor/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/semantics/precursor/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/syntax/s/ssel_test1/successful.se -text
+Src/contrib/library/gobo/test/gelint/syntax/s/ssel_test1/ve.esd -text
+Src/contrib/library/gobo/test/gelint/syntax/s/ssel_test2/successful.se -text
+Src/contrib/library/gobo/test/gelint/syntax/s/ssel_test2/ve.esd -text
+Src/contrib/library/gobo/test/gelint/syntax/s/ssel_test3/successful.se -text
+Src/contrib/library/gobo/test/gelint/syntax/s/ssel_test3/ve.esd -text
+Src/contrib/library/gobo/test/gelint/syntax/s/ssel_test4/successful.se -text
+Src/contrib/library/gobo/test/gelint/syntax/s/ssel_test4/ve.esd -text
+Src/contrib/library/gobo/test/gelint/validity/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test1/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test1/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test1/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test1/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test1/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test10/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test10/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test10/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test10/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test10/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test11/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test11/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test11/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test11/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test11/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test12/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test12/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test12/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test12/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test12/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test13/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test13/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test13/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test13/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test13/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test14/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test14/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test14/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test14/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test14/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test15/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test15/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test15/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test15/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test15/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test16/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test16/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test16/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test16/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test16/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test17/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test17/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test17/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test17/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test17/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test18/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test18/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test18/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test18/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test18/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test2/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test2/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test2/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test2/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test2/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test3/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test3/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test3/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test3/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test3/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test4/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test4/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test4/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test4/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test4/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test5/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test5/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test5/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test5/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test5/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test6/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test6/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test6/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test6/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test6/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test7/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test7/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test7/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test7/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test7/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test8/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test8/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test8/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test8/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test8/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test9/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test9/failed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test9/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test9/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/gvwmc2/test9/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vcfg1/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg1/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg1/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg1/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg1/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg1/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg2/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg2/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg2/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg2/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg2/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg2/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test10/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test10/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test10/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test10/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test10/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test10/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test11/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test11/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test11/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test11/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test11/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test11/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test12/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test12/failed.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test12/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test12/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test12/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test12/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test13/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test13/failed.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test13/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test13/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test13/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test13/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test4/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test4/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test4/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test4/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test4/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test4/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test5/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test5/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test5/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test5/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test5/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test5/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test6/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test6/failed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test6/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test6/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test6/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test6/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test6/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test7/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test7/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test7/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test7/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test7/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test7/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test8/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test8/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test8/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test8/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test8/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test8/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test9/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test9/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test9/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test9/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test9/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vcfg3/test9/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd4/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd5/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd5/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd5/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd5/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd5/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdrd5/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs1/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs1/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs1/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs1/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs1/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs1/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs2/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs3/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs3/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs3/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs3/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs3/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs3/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs3/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs3/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs3/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs3/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs3/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs3/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs4/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs4/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs4/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs4/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs4/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs4/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs4/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs4/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs4/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs4/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs4/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdrs4/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus1/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdus1/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus1/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdus1/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdus1/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdus1/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test4/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test4/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test4/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test4/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test4/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdus2/test4/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus3/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdus3/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus3/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdus3/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdus3/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdus3/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus4/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdus4/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus4/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdus4/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdus4/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdus4/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus4/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vdus4/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vdus4/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vdus4/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vdus4/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vdus4/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/veen8/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/veen8/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/validity/veen8/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/veen8/test1/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/veen8/test1/failed_finalized.ise -text
+Src/contrib/library/gobo/test/gelint/validity/veen8/test1/failed_workbench.ise -text
+Src/contrib/library/gobo/test/gelint/validity/veen8/test1/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/veen8/test1/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/veen8/test1/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test4/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test4/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test4/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test4/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test4/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr1/test4/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test10/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test10/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test10/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test10/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test10/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test10/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test11/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test11/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test11/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test11/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test11/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test11/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test12/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test12/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test12/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test12/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test12/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test12/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test13/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test13/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test13/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test13/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test13/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test13/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test14/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test14/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test14/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test14/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test14/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test14/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test15/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test15/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test15/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test15/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test15/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test15/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test16/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test16/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test16/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test16/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test16/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test16/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test17/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test17/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test17/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test17/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test17/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test17/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test18/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test18/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test18/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test18/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test18/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test18/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test19/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test19/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test19/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test19/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test19/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test19/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test4/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test4/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test4/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test4/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test4/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test4/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test5/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test5/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test5/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test5/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test5/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test5/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test6/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test6/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test6/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test6/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test6/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test6/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test7/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test7/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test7/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test7/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test7/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test7/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test8/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test8/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test8/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test8/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test8/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test8/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test9/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test9/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test9/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test9/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test9/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhpr3/test9/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc1/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc2/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc4/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vhrc5/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vjar/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vjar/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/validity/vjar/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vjar/test1/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vjar/test1/failed_finalized.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vjar/test1/failed_workbench.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vjar/test1/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vjar/test1/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vjar/test1/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test4/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test4/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test4/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test4/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test4/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vmfn/test4/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmrc2/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vmrc2/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmrc2/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vmrc2/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vmrc2/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vmrc2/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmrc2/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vmrc2/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmrc2/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vmrc2/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vmrc2/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vmrc2/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmss1/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vmss1/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmss1/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vmss1/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vmss1/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vmss1/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmss2/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vmss2/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmss2/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vmss2/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vmss2/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vmss2/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmss3/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vmss3/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmss3/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vmss3/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vmss3/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vmss3/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmss3/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vmss3/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vmss3/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vmss3/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vmss3/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vmss3/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vpir1/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vpir1/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/validity/vpir1/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vpir1/test1/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vpir1/test1/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vpir1/test1/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vpir1/test1/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vpir1/test1/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vpir1/test2/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vpir1/test2/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vpir1/test2/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vpir1/test2/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vpir1/test2/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test1/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test1/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test1/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test1/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test1/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test2/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test2/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test2/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test2/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test2/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test3/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test3/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test3/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test3/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test3/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test4/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test4/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test4/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test4/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vqmc3/test4/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test4/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test4/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test4/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test4/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test4/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test4/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test5/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test5/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test5/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test5/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test5/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test5/output.se -text svneol=unset#application/octet-stream
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test6/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test6/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test6/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test6/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test6/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test6/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test7/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test7/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test7/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test7/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test7/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test7/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test8/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test8/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test8/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test8/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test8/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtbt/test8/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtcg/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtcg/test1/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vtcg/test1/output1.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtcg/test1/output1.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtcg/test1/output1.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtcg/test1/output1.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtcg/test1/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vtct/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vtct/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vtct/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test4/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vtct/test4/failed_wrong_error.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test4/failed_wrong_error.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test4/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test4/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test4/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtct/test4/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vtug1/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtug1/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtug1/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtug1/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtug1/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtug1/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test1/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test1/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test1/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test1/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test1/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test1/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test2/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test2/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test2/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test2/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test2/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test2/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test3/Readme.txt -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test3/loadpath.se -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test3/output.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test3/output.hact -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test3/output.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vtug2/test3/output.se -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuex1/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test1/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test1/failed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test1/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test1/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test1/passed_veen_code.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test1/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test2/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test2/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test2/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test2/passed_veen_code.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test2/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test3/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test3/failed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test3/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test3/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test3/passed_veen8_code.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test3/passed_veen8_code.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test3/passed_veen_code.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vuex1/test3/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuot1/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuot1/getest.cfg -text
+Src/contrib/library/gobo/test/gelint/validity/vuot1/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuot1/test1/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuot1/test1/failed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vuot1/test1/failed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vuot1/test1/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuot1/test2/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/gelint/validity/vuot1/test2/passed.gec -text
+Src/contrib/library/gobo/test/gelint/validity/vuot1/test2/passed.gelint -text
+Src/contrib/library/gobo/test/gelint/validity/vuot1/test2/passed.ise -text
+Src/contrib/library/gobo/test/gelint/validity/vuot1/test2/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/kernel/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/kernel/data/booleans.txt -text
+Src/contrib/library/gobo/test/kernel/data/empty.txt -text
+Src/contrib/library/gobo/test/kernel/data/gobo.txt -text
+Src/contrib/library/gobo/test/kernel/data/hello.txt -text
+Src/contrib/library/gobo/test/kernel/data/integers.txt -text
+Src/contrib/library/gobo/test/kernel/getest.cfg -text
+Src/contrib/library/gobo/test/kernel/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/lexical/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/lexical/getest.cfg -text
+Src/contrib/library/gobo/test/lexical/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/math/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/math/decimal/acceptance/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/Readme.txt -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/abs.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/add.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/base.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/compare.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/divide.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/divideint.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/double.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/extend.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/inexact.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/integer.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/max.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/min.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/minus.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/multiply.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/new.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/normalize.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/plus.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/power.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/randomBound32.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/randomDouble.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/randomSingle.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/randoms.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/remainder.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/remainderNear.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/rescale.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/rounding.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/single.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/squareroot.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/subtract.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/testall.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/data/trim.decTest -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/getest.cfg -text
+Src/contrib/library/gobo/test/math/decimal/acceptance/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/math/decimal/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/pattern/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/pattern/getest.cfg -text
+Src/contrib/library/gobo/test/pattern/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/precomp/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/precomp/getest.cfg -text
+Src/contrib/library/gobo/test/precomp/precomp.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/precomp/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/regexp/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/regexp/getest.cfg -text
+Src/contrib/library/gobo/test/regexp/pcretest/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/regexp/pcretest/data/testinput1 -text
+Src/contrib/library/gobo/test/regexp/pcretest/data/testinput2 -text
+Src/contrib/library/gobo/test/regexp/pcretest/data/testinput3 -text
+Src/contrib/library/gobo/test/regexp/pcretest/data/testinput4 -text
+Src/contrib/library/gobo/test/regexp/pcretest/data/testinput5 -text
+Src/contrib/library/gobo/test/regexp/pcretest/data/testinput6 -text
+Src/contrib/library/gobo/test/regexp/pcretest/data/testoutput1 -text
+Src/contrib/library/gobo/test/regexp/pcretest/data/testoutput2 -text
+Src/contrib/library/gobo/test/regexp/pcretest/data/testoutput3 -text
+Src/contrib/library/gobo/test/regexp/pcretest/data/testoutput4 -text
+Src/contrib/library/gobo/test/regexp/pcretest/data/testoutput5 -text
+Src/contrib/library/gobo/test/regexp/pcretest/data/testoutput6 -text
+Src/contrib/library/gobo/test/regexp/pcretest/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/regexp/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/geant/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/geant/getest.cfg -text
+Src/contrib/library/gobo/test/src/geant/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gec/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gec/getest.cfg -text
+Src/contrib/library/gobo/test/src/gec/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gelex/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gelex/getest.cfg -text
+Src/contrib/library/gobo/test/src/gelex/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gepp/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gepp/getest.cfg -text
+Src/contrib/library/gobo/test/src/gepp/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/getest/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/getest/getest.cfg -text
+Src/contrib/library/gobo/test/src/getest/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gexace/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gexace/data/ge2.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gexace/data/ise3.ecf -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gexace/data/system1.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gexace/data/system2.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gexace/data/system3.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/gexace/getest.cfg -text
+Src/contrib/library/gobo/test/src/gexace/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/geyacc/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/src/geyacc/getest.cfg -text
+Src/contrib/library/gobo/test/src/geyacc/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/string/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/string/getest.cfg -text
+Src/contrib/library/gobo/test/string/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/structure/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/structure/getest.cfg -text
+Src/contrib/library/gobo/test/structure/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/time/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/time/getest.cfg -text
+Src/contrib/library/gobo/test/time/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/tools/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/tools/data/pretty_printed1.txt -text
+Src/contrib/library/gobo/test/tools/data/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/tools/getest.cfg -text
+Src/contrib/library/gobo/test/tools/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/utility/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/utility/transcoder/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/utility/transcoder/getest.cfg -text
+Src/contrib/library/gobo/test/utility/transcoder/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/utility/uri/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/utility/uri/getest.cfg -text
+Src/contrib/library/gobo/test/utility/uri/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/eiffel/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/eiffel/data/test-catalog-1.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/eiffel/data/test-catalog-2.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/eiffel/data/test-catalog-3.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/eiffel/data/test-catalog-4.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/eiffel/data/utf8bom.xml -text
+Src/contrib/library/gobo/test/xml/eiffel/getest.cfg -text
+Src/contrib/library/gobo/test/xml/eiffel/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/expat/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/expat/getest.cfg -text
+Src/contrib/library/gobo/test/xml/expat/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/expat/test.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/general/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/general/data/broken.xml -text
+Src/contrib/library/gobo/test/xml/general/data/brokensub.xml -text
+Src/contrib/library/gobo/test/xml/general/data/relative.xml -text
+Src/contrib/library/gobo/test/xml/general/data/relative/1.xml -text
+Src/contrib/library/gobo/test/xml/general/data/relative/2.xml -text
+Src/contrib/library/gobo/test/xml/general/data/relative1.xml -text
+Src/contrib/library/gobo/test/xml/general/data/relative2.xml -text
+Src/contrib/library/gobo/test/xml/general/data/test-catalog-1.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/general/data/test-catalog-2.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/general/data/test-catalog-3.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/general/data/test-catalog-4.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/general/getest.cfg -text
+Src/contrib/library/gobo/test/xml/general/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/oasis/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/oasis/getest.cfg -text
+Src/contrib/library/gobo/test/xml/oasis/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/xpath/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/xpath/data/base_uri_a.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpath/data/base_uri_master.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpath/data/booklist.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpath/data/books.dtd -text
+Src/contrib/library/gobo/test/xml/xpath/data/books.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpath/data/books.xsl -text
+Src/contrib/library/gobo/test/xml/xpath/data/books2.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpath/data/books3.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpath/data/categories.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpath/data/chinese.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpath/data/idrefs.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpath/data/languages.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpath/data/poem.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpath/data/qnames.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpath/getest.cfg -text
+Src/contrib/library/gobo/test/xml/xpath/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/xpointer/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/xpointer/data/test_event.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xpointer/getest.cfg -text
+Src/contrib/library/gobo/test/xml/xpointer/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/xslt/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/abstract.xml -text
+Src/contrib/library/gobo/test/xml/xslt/data/abstract.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/books1.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/character_map.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/character_map2.out -text
+Src/contrib/library/gobo/test/xml/xslt/data/character_map2.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/character_map3.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/character_map4.out -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/character_map4.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/character_map5.out -text
+Src/contrib/library/gobo/test/xml/xslt/data/character_map5.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/character_map6.out -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/character_map6.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/cite.xml -text
+Src/contrib/library/gobo/test/xml/xslt/data/cite.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/cities.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/collations.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/conformance1-5.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/continued.xml -text
+Src/contrib/library/gobo/test/xml/xslt/data/current.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/current2.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/current_group.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/dates.xml -text
+Src/contrib/library/gobo/test/xml/xslt/data/dates.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/doc.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/document.xhtml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/document1.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/document2.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/document3.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/document4.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/document5.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/embedded.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/evil_wai.xml -text
+Src/contrib/library/gobo/test/xml/xslt/data/example.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/example.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/example0.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/expected_report.txt -text
+Src/contrib/library/gobo/test/xml/xslt/data/fallback.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format1.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format2.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format3.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format4.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format5.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format6.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format7.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format_date_time1.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format_date_time2.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format_time1.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format_time2.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format_time3.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/format_time4.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/from-saxon.html -text
+Src/contrib/library/gobo/test/xml/xslt/data/from-saxon.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/gobo2html.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/gobo2xhtml.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/gobo2xml.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/group_adjacent.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/group_by_one.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/group_ending_with.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/group_starting_with.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/iago.txt -text
+Src/contrib/library/gobo/test/xml/xslt/data/iago_16.txt -text
+Src/contrib/library/gobo/test/xml/xslt/data/identity.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/infoset.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/mobile.xml -text
+Src/contrib/library/gobo/test/xml/xslt/data/namespace.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/namespace2.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/next_match.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/next_match.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/no_fallback.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/processing_instructions.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/qname_output.out -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/qname_output.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/reverse.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/reverse2.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/reverse3.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/schematron-basic.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/skeleton1-5.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/strip.out -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/strip.xml -text
+Src/contrib/library/gobo/test/xml/xslt/data/strip.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/structure-index.xhtml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/structure-index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/test1.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/titles.xml -text
+Src/contrib/library/gobo/test/xml/xslt/data/two-outputs.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/unparsed_text.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/unparsed_text2.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/unparsed_text3.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/use_when.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/var15.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/var16.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/var17.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/var20.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/var20.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/var21.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/var22.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/var23.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/var25.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/var25.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/var26.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/var27.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/var901err.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/var902err.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/var903err.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/var904err.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/var905err.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/var906err.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/var907err.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/var908err.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/var909err.xsl -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/wai.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/test/xml/xslt/data/xhtml-splitter.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/xslt_intro.xml -text
+Src/contrib/library/gobo/test/xml/xslt/data/xt1490-2.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/data/xt1490.xsl -text
+Src/contrib/library/gobo/test/xml/xslt/getest.cfg -text
+Src/contrib/library/gobo/test/xml/xslt/system.xace -text svneol=native#application/xml
+Src/contrib/library/gobo/tool/gec/config/c/bcc.cfg -text
+Src/contrib/library/gobo/tool/gec/config/c/cc.cfg -text
+Src/contrib/library/gobo/tool/gec/config/c/gcc.cfg -text
+Src/contrib/library/gobo/tool/gec/config/c/lcc-win32.cfg -text
+Src/contrib/library/gobo/tool/gec/config/c/mingw.cfg -text
+Src/contrib/library/gobo/tool/gec/config/c/msc.cfg -text
+Src/contrib/library/gobo/tool/gec/config/c/tcc.cfg -text
+Src/contrib/library/gobo/work/bootstrap/Readme.txt -text
+Src/contrib/library/gobo/work/geuc/Readme.txt -text
+Src/contrib/library/gobo/work/geuc/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/work/geuc/system.xace -text svneol=native#application/xml
 Src/contrib/library/graphic/toolkit/wex/examples/wex/Framework_example/TOOLBAR.BMP svneol=native#unset
 Src/contrib/library/graphic/toolkit/wex/examples/wex/Framework_example/app.ico svneol=native#unset
 Src/contrib/library/graphic/toolkit/wex/examples/wex/MCI_Splash/APP.ICO svneol=native#unset
