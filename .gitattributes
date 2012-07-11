@@ -2894,6 +2894,7 @@ Src/library/i18n/tests/test_files/locale/results/windows/zh_TW -text
 Src/library/i18n/tests/test_files/locale/results/windows/zu_ZA -text
 Src/library/i18n/tests/test_files/mo/ar.mo -text
 Src/library/i18n/tests/test_files/mo/zh_CN.mo -text
+Src/library/i18n/tests/test_results/result_Win7 -text
 Src/library/i18n/tests/zh_CN.mo -text
 Src/library/libevent/Clib/libevent/ChangeLog -text
 Src/library/libevent/Clib/libevent/Doxyfile -text
