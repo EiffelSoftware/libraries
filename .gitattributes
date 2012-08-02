@@ -2936,6 +2936,10 @@ Src/library/objc_base/Clib/objc_callback_marshal.m -text
 Src/library/preferences/license.lic -text
 Src/library/process/classic/windows/wel_process_id_pair.e -text
 Src/library/process/classic/windows/wel_process_toolhelp_constants.e -text
+Src/library/ribbon/test/src/eiffel_ribbon_1.dll -text
+Src/library/ribbon/test/src/eiffelribbon1.res -text
+Src/library/ribbon/test/src/ribbon_1.bml -text
+Src/library/ribbon/test/src/ribbon_project.er -text
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.docx -text
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.pdf -text svneol=unset#application/pdf
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.vsd -text
