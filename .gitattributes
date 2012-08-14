@@ -2256,7 +2256,7 @@ Src/examples/ribbon/all_widgets_complex/res/ExitL.bmp -text
 Src/examples/ribbon/all_widgets_complex/res/Paste.bmp -text
 Src/examples/ribbon/all_widgets_complex/res/PrintRelationshipsL.bmp -text
 Src/examples/ribbon/all_widgets_complex/res/PrintRelationshipsS.bmp -text
-Src/examples/ribbon/all_widgets_complex/ribbon.bml -text
+Src/examples/ribbon/all_widgets_complex/ribbon_1.bml -text
 Src/examples/ribbon/all_widgets_complex/ribbon_project.er -text
 Src/examples/store/extended_select/data.sql.mysql -text
 Src/examples/store/select/data.sql.mysql -text
