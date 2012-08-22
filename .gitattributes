@@ -1608,13 +1608,13 @@ Src/contrib/library/gobo/doc/guidelines/class_layout.xml -text svneol=unset#appl
 Src/contrib/library/gobo/doc/guidelines/compilers.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/guidelines/documentation.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/guidelines/examples.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/git.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/guidelines/index.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/guidelines/installation.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/guidelines/language.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/guidelines/license.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/guidelines/naming_conventions.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/guidelines/programming_style.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/guidelines/svn.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/guidelines/test.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/image/book/bison.gif -text svneol=unset#image/gif
 Src/contrib/library/gobo/doc/image/book/compiler_design.gif -text svneol=unset#image/gif
@@ -1832,7 +1832,9 @@ Src/contrib/library/gobo/doc/tools/build.eant -text svneol=native#application/xm
 Src/contrib/library/gobo/doc/tools/ecf.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/tools/index.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/tools/limitations.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/tools/new_xace_option.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/tools/see_also.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/tools/xace.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/xml/TODO.txt -text
 Src/contrib/library/gobo/doc/xml/build.eant -text svneol=native#application/xml
 Src/contrib/library/gobo/doc/xml/catalogs.xml -text
@@ -2107,6 +2109,7 @@ Src/contrib/library/gobo/src/geyacc/build.eant -text svneol=native#application/x
 Src/contrib/library/gobo/src/geyacc/system.xace -text svneol=native#application/xml
 Src/contrib/library/gobo/tool/gec/config/c/bcc.cfg -text
 Src/contrib/library/gobo/tool/gec/config/c/cc.cfg -text
+Src/contrib/library/gobo/tool/gec/config/c/default.cfg -text
 Src/contrib/library/gobo/tool/gec/config/c/gcc.cfg -text
 Src/contrib/library/gobo/tool/gec/config/c/lcc-win32.cfg -text
 Src/contrib/library/gobo/tool/gec/config/c/mingw.cfg -text
