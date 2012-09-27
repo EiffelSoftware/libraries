@@ -2120,6 +2120,7 @@ Src/contrib/library/graphic/toolkit/wex/examples/wex/Framework_example/app.ico s
 Src/contrib/library/graphic/toolkit/wex/examples/wex/MCI_Splash/APP.ICO svneol=native#unset
 Src/contrib/library/math/eapml/README.txt -text
 Src/contrib/library/math/eapml/tests/TODO.txt -text
+Src/contrib/library/print/ael_printf/AEL_Printf.pdf -text svneol=unset#unset
 Src/contrib/library/runtime/process/eclop/doc/eclop.pdf -text
 Src/contrib/library/svn/svn.lic -text
 Src/contrib/library/text/encryption/eel/README.txt -text
