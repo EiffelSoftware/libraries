@@ -2953,11 +2953,11 @@ Src/library/runtime/logging/doc/Arch_Design_and_Impl.pdf -text svneol=unset#appl
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.vsd -text
 Src/library/runtime/logging/doc/Readme.1st -text
 Src/library/store/dbms/rdbms/mysql/Readme -text
-Src/library/text/parser/xml_v2/README.txt -text
-Src/library/text/parser/xml_v2/parser/callbacks/README.TXT -text
-Src/library/text/parser/xml_v2/parser/license.lic -text
-Src/library/text/parser/xml_v2/tree/README.TXT -text
-Src/library/text/parser/xml_v2/tree/license.lic -text
+Src/library/text/parser/xml/README.txt -text
+Src/library/text/parser/xml/parser/callbacks/README.TXT -text
+Src/library/text/parser/xml/parser/license.lic -text
+Src/library/text/parser/xml/tree/README.TXT -text
+Src/library/text/parser/xml/tree/license.lic -text
 Src/library/vision2/Clib/default_vision2_icon.ico -text
 Src/library/vision2/implementation/carbon/Readme.txt -text
 Src/library/vision2/implementation/carbon/kernel/.DS_Store -text
