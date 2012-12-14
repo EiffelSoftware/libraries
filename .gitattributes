@@ -2957,6 +2957,7 @@ Src/library/text/parser/xml/parser/callbacks/README.TXT -text
 Src/library/text/parser/xml/parser/license.lic -text
 Src/library/text/parser/xml/tree/README.TXT -text
 Src/library/text/parser/xml/tree/license.lic -text
+Src/library/text/uri/license.lic -text
 Src/library/vision2/Clib/default_vision2_icon.ico -text
 Src/library/vision2/implementation/carbon/Readme.txt -text
 Src/library/vision2/implementation/carbon/kernel/.DS_Store -text
