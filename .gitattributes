@@ -1487,59 +1487,59 @@ Src/contrib/library/gobo/Release_notes.txt -text
 Src/contrib/library/gobo/build.eant -text svneol=native#application/xml
 Src/contrib/library/gobo/doc/Readme.txt -text
 Src/contrib/library/gobo/doc/argument/alternate.xml svneol=native#text/xml
-Src/contrib/library/gobo/doc/argument/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/argument/error.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/argument/help.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/argument/index.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/argument/introduction.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/argument/options.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/argument/parser.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/argument/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/argument/error.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/argument/help.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/argument/index.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/argument/introduction.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/argument/options.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/argument/parser.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/doc/download.html -text
-Src/contrib/library/gobo/doc/geant/available_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/geant/builtin_variables.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/copy_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/delete_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/echo_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/examples.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/exec_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/exit_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/fileset_element.xml -text
+Src/contrib/library/gobo/doc/geant/available_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/builtin_variables.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/copy_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/delete_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/echo_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/examples.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/exec_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/exit_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/fileset_element.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/geant/geant.rng -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/geant_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/gec_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/gelex_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/gepp_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/getest_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/gexace_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/geyacc_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/hello_world.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/input_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/introduction.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/ise_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/map_element.xml -text
-Src/contrib/library/gobo/doc/geant/mkdir_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/move_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/outofdate_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/overview.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/precursor_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/replace_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/set_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/setenv_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/target.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/tasks.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/unset_task.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/geant/xslt_task.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/geant/geant_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/gec_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/gelex_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/gepp_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/getest_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/gexace_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/geyacc_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/hello_world.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/input_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/introduction.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/ise_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/map_element.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/mkdir_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/move_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/outofdate_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/overview.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/precursor_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/replace_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/set_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/setenv_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/target.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/tasks.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/unset_task.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/geant/xslt_task.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/gec/Readme.txt -text
-Src/contrib/library/gobo/doc/gec/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/gec/future.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gec/index.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gec/limitations.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gec/platforms.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gec/see_also.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gec/technology.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gec/usage.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gec/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/gec/future.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gec/index.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gec/limitations.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gec/platforms.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gec/see_also.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gec/technology.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gec/usage.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/gelex/Readme.txt -text
 Src/contrib/library/gobo/doc/gelex/actions.html -text
 Src/contrib/library/gobo/doc/gelex/description.html -text
@@ -1556,12 +1556,12 @@ Src/contrib/library/gobo/doc/gelex/skeleton.html -text
 Src/contrib/library/gobo/doc/gelex/stages.html -text
 Src/contrib/library/gobo/doc/gelex/start_conditions.html -text
 Src/contrib/library/gobo/doc/gelint/Readme.txt -text
-Src/contrib/library/gobo/doc/gelint/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/gelint/index.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gelint/limitations.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gelint/see_also.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gelint/technology.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gelint/usage.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gelint/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/gelint/index.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gelint/limitations.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gelint/see_also.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gelint/technology.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gelint/usage.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/getest/Readme.txt -text
 Src/contrib/library/gobo/doc/getest/assertions.html -text
 Src/contrib/library/gobo/doc/getest/configuration.html -text
@@ -1575,15 +1575,15 @@ Src/contrib/library/gobo/doc/gexace/Readme.txt -text
 Src/contrib/library/gobo/doc/gexace/options.txt -text
 Src/contrib/library/gobo/doc/gexace/xace.rnc -text
 Src/contrib/library/gobo/doc/gexace/xace.rng -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gexslt/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/gexslt/extension/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/gexslt/extension/index.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gexslt/index.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gexslt/index_wrapper.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gexslt/index_wrapper_2.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gexslt/options.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gexslt/options_wrapper.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/gexslt/options_wrapper_2.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/gexslt/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/gexslt/extension/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/gexslt/extension/index.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gexslt/index.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gexslt/index_wrapper.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gexslt/index_wrapper_2.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gexslt/options.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gexslt/options_wrapper.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/gexslt/options_wrapper_2.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/geyacc/Readme.txt -text
 Src/contrib/library/gobo/doc/geyacc/actions.html -text
 Src/contrib/library/gobo/doc/geyacc/algorithm.html -text
@@ -1603,19 +1603,19 @@ Src/contrib/library/gobo/doc/geyacc/see_also.html -text
 Src/contrib/library/gobo/doc/geyacc/skeleton.html -text
 Src/contrib/library/gobo/doc/geyacc/stages.html -text
 Src/contrib/library/gobo/doc/geyacc/symbols.html -text
-Src/contrib/library/gobo/doc/guidelines/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/guidelines/class_layout.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/guidelines/compilers.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/guidelines/documentation.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/guidelines/examples.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/guidelines/git.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/guidelines/index.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/guidelines/installation.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/guidelines/language.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/guidelines/license.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/guidelines/naming_conventions.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/guidelines/programming_style.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/guidelines/test.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/guidelines/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/guidelines/class_layout.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/guidelines/compilers.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/guidelines/documentation.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/guidelines/examples.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/guidelines/git.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/guidelines/index.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/guidelines/installation.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/guidelines/language.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/guidelines/license.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/guidelines/naming_conventions.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/guidelines/programming_style.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/guidelines/test.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/image/book/bison.gif -text svneol=unset#image/gif
 Src/contrib/library/gobo/doc/image/book/compiler_design.gif -text svneol=unset#image/gif
 Src/contrib/library/gobo/doc/image/book/compilers.gif -text svneol=unset#image/gif
@@ -1640,7 +1640,7 @@ Src/contrib/library/gobo/doc/image/previous.gif -text svneol=unset#image/gif
 Src/contrib/library/gobo/doc/image/toc.gif -text svneol=unset#image/gif
 Src/contrib/library/gobo/doc/index.html -text
 Src/contrib/library/gobo/doc/license.html -text
-Src/contrib/library/gobo/doc/math/build.eant -text svneol=native#application/xml
+Src/contrib/library/gobo/doc/math/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/doc/math/decimal/dachange.html -text
 Src/contrib/library/gobo/doc/math/decimal/daconcep.html -text
 Src/contrib/library/gobo/doc/math/decimal/daconvs.html -text
@@ -1658,7 +1658,7 @@ Src/contrib/library/gobo/doc/math/decimal/dtfile.html -text
 Src/contrib/library/gobo/doc/math/decimal/dtintro.html -text
 Src/contrib/library/gobo/doc/math/decimal/dtnotes.html -text
 Src/contrib/library/gobo/doc/math/decimal/index.html -text
-Src/contrib/library/gobo/doc/math/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/math/index.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/misc/gobo.rng -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/misc/gobo2db.xsl -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/misc/gobo2html.xsl -text svneol=unset#application/xml
@@ -1669,26 +1669,26 @@ Src/contrib/library/gobo/doc/portability/gepp.html -text
 Src/contrib/library/gobo/doc/portability/index.html -text
 Src/contrib/library/gobo/doc/portability/inheritance.html -text
 Src/contrib/library/gobo/doc/portability/portability.html -text
-Src/contrib/library/gobo/doc/string/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/string/formatter/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/string/formatter/correctness.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/string/formatter/examples.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/string/formatter/index.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/string/formatter/quick_start.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/string/formatter/scientific_format.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/string/formatter/see_also.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/string/index.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/string/unicode/about.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/string/unicode/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/string/unicode/case.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/string/unicode/classes.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/string/unicode/index.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/string/unicode/routines.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/string/unicode/see_also.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/string/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/formatter/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/formatter/correctness.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/formatter/examples.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/formatter/index.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/formatter/quick_start.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/formatter/scientific_format.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/formatter/see_also.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/index.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/unicode/about.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/unicode/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/unicode/case.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/unicode/classes.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/unicode/index.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/unicode/routines.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/string/unicode/see_also.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/structure/Readme.txt -text
 Src/contrib/library/gobo/doc/structure/base.html -text
 Src/contrib/library/gobo/doc/structure/container.html -text
-Src/contrib/library/gobo/doc/structure/container.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/structure/container.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/structure/dispenser.html -text
 Src/contrib/library/gobo/doc/structure/flatshort/ds_arrayed_list.html -text
 Src/contrib/library/gobo/doc/structure/flatshort/ds_arrayed_list_cursor.html -text
@@ -1768,16 +1768,16 @@ Src/contrib/library/gobo/doc/structure/image/sort.gif -text svneol=unset#image/g
 Src/contrib/library/gobo/doc/structure/image/table.gif -text svneol=unset#image/gif
 Src/contrib/library/gobo/doc/structure/image/traversal.gif -text svneol=unset#image/gif
 Src/contrib/library/gobo/doc/structure/index.html -text
-Src/contrib/library/gobo/doc/structure/index.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/structure/index.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/structure/list.html -text
 Src/contrib/library/gobo/doc/structure/see_also.html -text
 Src/contrib/library/gobo/doc/structure/set.html -text
 Src/contrib/library/gobo/doc/structure/sort.html -text
 Src/contrib/library/gobo/doc/structure/table.html -text
 Src/contrib/library/gobo/doc/structure/terminology.html -text
-Src/contrib/library/gobo/doc/structure/terminology.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/structure/terminology.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/structure/traversal.html -text
-Src/contrib/library/gobo/doc/structure/traversal.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/structure/traversal.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/structure/visio/arrayed_list.vsd -text svneol=unset#application/msword
 Src/contrib/library/gobo/doc/structure/visio/base.vsd -text svneol=unset#application/msword
 Src/contrib/library/gobo/doc/structure/visio/bilinked_list.vsd -text svneol=unset#application/msword
@@ -1826,50 +1826,50 @@ Src/contrib/library/gobo/doc/time/visio/absolute.vsd -text svneol=unset#applicat
 Src/contrib/library/gobo/doc/time/visio/clock.vsd -text svneol=unset#application/msword
 Src/contrib/library/gobo/doc/time/visio/duration.vsd -text svneol=unset#application/msword
 Src/contrib/library/gobo/doc/tools/Readme.txt -text
-Src/contrib/library/gobo/doc/tools/ace.xml -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/tools/applications.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/tools/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/tools/ecf.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/tools/index.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/tools/limitations.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/tools/new_xace_option.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/tools/see_also.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/tools/xace.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/tools/ace.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/tools/applications.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/tools/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/tools/ecf.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/tools/index.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/tools/limitations.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/tools/new_xace_option.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/tools/see_also.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/tools/xace.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/xml/TODO.txt -text
-Src/contrib/library/gobo/doc/xml/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/xml/catalogs.xml -text
-Src/contrib/library/gobo/doc/xml/index.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/resolvers.xml -text
-Src/contrib/library/gobo/doc/xml/serializers.xml -text
-Src/contrib/library/gobo/doc/xml/using.xml -text
-Src/contrib/library/gobo/doc/xml/xpath/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/xml/xpath/collection.xml -text
+Src/contrib/library/gobo/doc/xml/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/catalogs.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/index.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/resolvers.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/serializers.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/using.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xpath/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xpath/collection.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/xml/xpath/data_model_design.html -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xpath/evaluation_process.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xpath/implemented_functions.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xpath/invoking.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xpath/evaluation_process.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xpath/implemented_functions.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xpath/invoking.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/xml/xpath/issues.html -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/xml/xpath/tiny_tree.html -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xpath/xpointer.xml -text
-Src/contrib/library/gobo/doc/xml/xpath/xpointer_wrapper.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xpath/xpointer_wrapper_2.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/configuration.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/conformance.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/error_listener.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/examples.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/extension_functions.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/output_extensions.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/output_resolver.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/overview.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/results.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/security_manager.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/tracing.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/transformation_result.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/transformation_source.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/transformer.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/transforming.xml -text svneol=unset#application/xml
-Src/contrib/library/gobo/doc/xml/xslt/xslt_serializer.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/xml/xpath/xpointer.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xpath/xpointer_wrapper.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xpath/xpointer_wrapper_2.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/build.eant svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/configuration.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/conformance.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/error_listener.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/examples.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/extension_functions.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/output_extensions.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/output_resolver.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/overview.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/results.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/security_manager.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/tracing.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/transformation_result.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/transformation_source.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/transformer.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/transforming.xml svneol=native#text/xml
+Src/contrib/library/gobo/doc/xml/xslt/xslt_serializer.xml svneol=native#text/xml
 Src/contrib/library/gobo/example/argument/build.eant -text svneol=native#application/xml
 Src/contrib/library/gobo/example/argument/system.xace -text svneol=native#application/xml
 Src/contrib/library/gobo/example/build.eant -text svneol=native#application/xml
