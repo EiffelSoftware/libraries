@@ -1486,7 +1486,7 @@ Src/contrib/library/gobo/Readme.txt -text
 Src/contrib/library/gobo/Release_notes.txt -text
 Src/contrib/library/gobo/build.eant -text svneol=native#application/xml
 Src/contrib/library/gobo/doc/Readme.txt -text
-Src/contrib/library/gobo/doc/argument/alternate.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/doc/argument/alternate.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/argument/build.eant -text svneol=native#application/xml
 Src/contrib/library/gobo/doc/argument/error.xml -text svneol=unset#application/xml
 Src/contrib/library/gobo/doc/argument/help.xml -text svneol=unset#application/xml
