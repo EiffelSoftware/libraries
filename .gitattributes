@@ -1885,7 +1885,7 @@ Src/contrib/library/gobo/example/geant/inherit/multiple/diamond/b1.eant -text sv
 Src/contrib/library/gobo/example/geant/inherit/multiple/diamond/c1.eant -text svneol=native#application/xml
 Src/contrib/library/gobo/example/geant/inherit/multiple/diamond/d1.eant -text svneol=native#application/xml
 Src/contrib/library/gobo/example/geant/map/build.eant -text svneol=native#application/xml
-Src/contrib/library/gobo/example/geant/map/in/ttt/ttt.xml -text svneol=unset#application/xml
+Src/contrib/library/gobo/example/geant/map/in/ttt/ttt.xml -text svneol=unset#text/xml
 Src/contrib/library/gobo/example/geant/misc/available.eant -text svneol=native#application/xml
 Src/contrib/library/gobo/example/geant/misc/gedoc.eant -text svneol=native#application/xml
 Src/contrib/library/gobo/example/geant/misc/mktmpdir.eant -text svneol=native#application/xml
