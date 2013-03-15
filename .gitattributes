@@ -2894,6 +2894,12 @@ Src/library/vision2/implementation/carbon/widgets/dialogs/.DS_Store -text
 Src/library/vision2/implementation/carbon/wrapper/config.ewg -text
 Src/library/vision2/implementation/carbon/wrapper/generated_wrapper/eiffel/abstraction/.DS_Store -text
 Src/library/vision2/implementation/cocoa/Readme.txt -text
+Src/library/vision2/tests/graphics/01bpp.bmp -text
+Src/library/vision2/tests/graphics/04bpp.bmp -text
+Src/library/vision2/tests/graphics/08bpp.bmp -text
+Src/library/vision2/tests/graphics/16bpp.bmp -text
+Src/library/vision2/tests/graphics/24bpp.bmp -text
+Src/library/vision2/tests/graphics/32bpp.bmp -text
 Src/library/vision2/tests/graphics/Lenna.png -text
 Src/library/wel/extra/h2e.ico svneol=native#unset
 Src/library/wel/extra/h2e1.ico svneol=native#unset
