@@ -2910,7 +2910,6 @@ Src/library/wel/tests/graphics/08bpp.bmp -text
 Src/library/wel/tests/graphics/16bpp.bmp -text
 Src/library/wel/tests/graphics/24bpp.bmp -text
 Src/library/wel/tests/graphics/32bpp.bmp -text
-Src/library/wel/tests/license.lic -text
 Src/library/wizard/help/Clib/htmlhelp.lib -text
 Src/unstable/README.txt -text
 Src/unstable/library/persistency/database/sqlite3/README -text
