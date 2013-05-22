@@ -2137,6 +2137,7 @@ Src/contrib/library/network/server/nino/library/README -text
 Src/contrib/library/network/server/nino/license.lic -text
 Src/contrib/library/network/server/nino/readme.txt -text
 Src/contrib/library/print/ael_printf/AEL_Printf.pdf -text svneol=unset#unset
+Src/contrib/library/print/ael_printf/Amalasoft[!!-~]Printf.docx -text
 Src/contrib/library/runtime/process/eclop/doc/eclop.pdf -text
 Src/contrib/library/security/openid/README.md -text
 Src/contrib/library/security/openid/consumer/README.md -text
