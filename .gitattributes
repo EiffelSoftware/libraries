@@ -2236,11 +2236,7 @@ Src/contrib/library/web/framework/ewf/wsf/doc/router.txt -text
 Src/contrib/library/web/framework/ewf/wsf/license.lic -text
 Src/contrib/library/web/framework/ewf/wsf/router/README.md -text
 Src/contrib/library/web/framework/ewf/wsf/router/filter/README.md -text
-Src/contrib/library/web/framework/ewf/wsf/router/filter/wsf_base_handler_filter.e- -text
-Src/contrib/library/web/framework/ewf/wsf/router/wsf_agent_base_handler.e- -text
-Src/contrib/library/web/framework/ewf/wsf/router/wsf_base_handler.e- -text
 Src/contrib/library/web/framework/ewf/wsf/router_context/support/uri_template/helpers/wsf_uri_template_filter_context_handler.e- -text
-Src/contrib/library/web/framework/ewf/wsf/session/wsf_fs_session_manager.e.c_storable -text
 Src/examples/Eiffel2Java/README -text
 Src/examples/Eiffel2Java/test.class -text
 Src/examples/cURL/debug/debug.rc -text
