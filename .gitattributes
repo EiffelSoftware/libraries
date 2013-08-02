@@ -2200,6 +2200,12 @@ Src/contrib/library/text/parser/uri_template/doc/REAMDE.txt -text
 Src/contrib/library/text/parser/uri_template/doc/rfc6570.txt -text
 Src/contrib/library/text/parser/uri_template/doc/uritemplate-RFC6570 -text
 Src/contrib/library/text/parser/uri_template/license.lic -text
+Src/contrib/library/text/parser/wikitext/README.md -text
+Src/contrib/library/text/parser/wikitext/apps/wiki2xhtml/footer.tpl -text
+Src/contrib/library/text/parser/wikitext/apps/wiki2xhtml/header.tpl -text
+Src/contrib/library/text/parser/wikitext/license.lic -text
+Src/contrib/library/text/parser/wikitext/tests/data/test/book.index -text
+Src/contrib/library/text/parser/wikitext/tests/data/test/index.wiki -text
 Src/contrib/library/text/template/smarty/README.md -text
 Src/contrib/library/text/template/smarty/examples/tpl/html_basic.tpl -text
 Src/contrib/library/text/template/smarty/examples/tpl/html_simple_table.tpl -text
