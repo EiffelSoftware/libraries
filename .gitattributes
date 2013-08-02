@@ -3033,8 +3033,6 @@ Src/library/wel/tests/graphics/24bpp.bmp -text
 Src/library/wel/tests/graphics/32bpp.bmp -text
 Src/library/wizard/help/Clib/htmlhelp.lib -text
 Src/unstable/README.txt -text
-Src/unstable/library/base_extension/license.lic -text
-Src/unstable/library/base_extension/tests/license.lic -text
 Src/unstable/library/persistency/database/sqlite3/README -text
 Src/unstable/library/persistency/database/sqlite3/license.lic -text
 Src/unstable/library/text/encryption/message_digest/message_digest-safe.lic -text
