@@ -2195,6 +2195,9 @@ Src/contrib/library/text/parser/json/test/getest/ejson_test-win.cfg -text
 Src/contrib/library/text/parser/json/test/getest/ejson_test.cfg -text
 Src/contrib/library/text/parser/json/test/getest/ejson_test.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/test/getest/readme.txt -text
+Src/contrib/library/text/parser/microdata/README.md -text
+Src/contrib/library/text/parser/microdata/license.lic -text
+Src/contrib/library/text/parser/microdata/testing/schema_org_full_md.html -text
 Src/contrib/library/text/parser/uri_template/README.md -text
 Src/contrib/library/text/parser/uri_template/doc/REAMDE.txt -text
 Src/contrib/library/text/parser/uri_template/doc/rfc6570.txt -text
