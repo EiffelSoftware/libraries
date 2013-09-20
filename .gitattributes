@@ -3020,10 +3020,10 @@ Src/library/wel/tests/graphics/24bpp.bmp -text
 Src/library/wel/tests/graphics/32bpp.bmp -text
 Src/library/wizard/help/Clib/htmlhelp.lib -text
 Src/unstable/README.txt -text
-Src/unstable/library/persistency/abel/backend_couchdb/abel_couchdb_backend.ecf svneol=native#text/xml
-Src/unstable/library/persistency/abel/connector_mysql/mysql_wrapper.ecf svneol=native#text/xml
-Src/unstable/library/persistency/abel/connector_sqlite/sqlite_wrapper.ecf svneol=native#text/xml
-Src/unstable/library/persistency/abel/plugin_escher/abel_escher_plugin.ecf svneol=native#text/xml
+Src/unstable/library/persistency/abel/backend_couchdb/backend_couchdb.ecf svneol=native#text/xml
+Src/unstable/library/persistency/abel/connector_mysql/connector_mysql.ecf svneol=native#text/xml
+Src/unstable/library/persistency/abel/connector_sqlite/connector_sqlite.ecf svneol=native#text/xml
+Src/unstable/library/persistency/abel/plugin_escher/plugin_escher.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/sample/tutorial/tutorial_project.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/test/eweasel/bin/eiffel_execute -text
 Src/unstable/library/persistency/abel/test/eweasel/bin/eiffel_freeze -text
