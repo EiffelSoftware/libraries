@@ -3024,6 +3024,7 @@ Src/unstable/library/persistency/abel/backend_couchdb/abel_couchdb_backend.ecf s
 Src/unstable/library/persistency/abel/connector_mysql/mysql_wrapper.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/connector_sqlite/sqlite_wrapper.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/plugin_escher/abel_escher_plugin.ecf svneol=native#text/xml
+Src/unstable/library/persistency/abel/sample/tutorial/tutorial_project.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/test/eweasel/bin/eiffel_execute -text
 Src/unstable/library/persistency/abel/test/eweasel/bin/eiffel_freeze -text
 Src/unstable/library/persistency/abel/test/eweasel/bin/run_eweasel -text
