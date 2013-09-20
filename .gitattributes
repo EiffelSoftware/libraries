@@ -3023,6 +3023,18 @@ Src/unstable/README.txt -text
 Src/unstable/library/persistency/abel/backend_couchdb/backend_couchdb.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/connector_mysql/connector_mysql.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/connector_sqlite/connector_sqlite.ecf svneol=native#text/xml
+Src/unstable/library/persistency/abel/documentation/includes/backend.png -text svneol=unset#image/png
+Src/unstable/library/persistency/abel/documentation/includes/backend.xml -text
+Src/unstable/library/persistency/abel/documentation/includes/dataflow.png -text svneol=unset#image/png
+Src/unstable/library/persistency/abel/documentation/includes/dataflow.xml -text
+Src/unstable/library/persistency/abel/documentation/includes/frontend.png -text svneol=unset#image/png
+Src/unstable/library/persistency/abel/documentation/includes/frontend.xml -text
+Src/unstable/library/persistency/abel/documentation/technical_documentation/abel_documentation.pdf -text
+Src/unstable/library/persistency/abel/documentation/technical_documentation/abel_documentation.tex -text
+Src/unstable/library/persistency/abel/documentation/technical_documentation/lstlang0.sty -text
+Src/unstable/library/persistency/abel/documentation/tutorial/abel_tutorial.pdf -text svneol=unset#unset
+Src/unstable/library/persistency/abel/documentation/tutorial/abel_tutorial.tex -text
+Src/unstable/library/persistency/abel/documentation/tutorial/lstlang0.sty -text
 Src/unstable/library/persistency/abel/plugin_escher/plugin_escher.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/sample/tutorial_api/tutorial_api.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/test/eweasel/bin/eiffel_execute -text
