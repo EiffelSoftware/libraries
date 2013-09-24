@@ -3057,6 +3057,7 @@ Src/unstable/library/persistency/abel/test/eweasel/output/evol001/output/e_compi
 Src/unstable/library/persistency/abel/test/eweasel/output/evol001/output/serialize_output -text
 Src/unstable/library/persistency/abel/test/eweasel/tests/evol001/Ace -text
 Src/unstable/library/persistency/abel/test/eweasel/tests/list001/Ace -text
+Src/unstable/library/persistency/abel/test/readme.txt -text
 Src/unstable/library/persistency/database/sqlite3/README -text
 Src/unstable/library/persistency/database/sqlite3/license.lic -text
 Src/unstable/library/text/encryption/crypto/license.lic -text
