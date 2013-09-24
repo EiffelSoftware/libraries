@@ -1,55 +1,46 @@
 note
-	description: "Summary description for {IRON_API}."
-	author: ""
+	description: "[
+				URLs builder to access IRON api
+				
+				note: if the remote API changes, update this class.
+			]"
 	date: "$Date$"
 	revision: "$Revision$"
 
-deferred class
-	IRON_API
+class
+	IRON_URL_BUILDER
 
-inherit
-	SHARED_EXECUTION_ENVIRONMENT
+feature -- URL path
 
-feature {NONE} -- Initialization
-
-	make_with_layout (a_layout: like layout; a_urls: like urls)
+	path_package_list (a_repo: IRON_REPOSITORY): READABLE_STRING_8
 		do
-			urls := a_urls
-			layout := a_layout
-			initialize
+			Result := "/access/" + a_repo.version + "/package/"
 		end
 
-	initialize
+	path_create_package (a_repo: IRON_REPOSITORY): READABLE_STRING_8
 		do
+			Result := "/access/" + a_repo.version + "/package/"
 		end
 
-feature -- Access
-
-	layout: IRON_LAYOUT
-
-	urls: IRON_URL_BUILDER
-
-feature {NONE} -- Implementation
-
-	file_content (p: PATH): detachable STRING
-		local
-			f: RAW_FILE
+	path_update_package (a_repo: IRON_REPOSITORY; a_package: IRON_PACKAGE): READABLE_STRING_8
 		do
-			create f.make_with_path (p)
-			if f.exists and then f.is_access_readable then
-				f.open_read
-				create Result.make (1_024)
-				from
-				until
-					f.exhausted
-				loop
-					f.read_stream (1_024)
-					Result.append (f.last_string)
-				end
-				f.close
-			end
+			Result := "/access/" + a_repo.version + "/package/" + a_package.id
 		end
 
+	path_package_delete (a_repo: IRON_REPOSITORY; a_package: IRON_PACKAGE): READABLE_STRING_8
+		do
+			Result := path_update_package (a_repo, a_package)
+		end
+
+	path_upload_package_archive (a_repo: IRON_REPOSITORY; a_package: IRON_PACKAGE): READABLE_STRING_8
+		do
+			Result := path_update_package (a_repo, a_package) + "/archive"
+		end
+
+	path_add_package_index (a_repo: IRON_REPOSITORY; a_package: IRON_PACKAGE): READABLE_STRING_8
+		do
+			Result := path_update_package (a_repo, a_package) + "/map"
+		end
 
 note
 	copyright: "Copyright (c) 1984-2013, Eiffel Software"
