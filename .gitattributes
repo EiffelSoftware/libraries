@@ -1483,6 +1483,7 @@ Src/contrib/README.txt -text
 Src/contrib/examples/web/ewf/filter/license.lic -text
 Src/contrib/examples/web/ewf/filter/readme.md -text
 Src/contrib/examples/web/ewf/readme.txt -text
+Src/contrib/examples/web/ewf/restbucksCRUD/README-compilation.txt -text
 Src/contrib/examples/web/ewf/restbucksCRUD/client/README.txt -text
 Src/contrib/examples/web/ewf/restbucksCRUD/license.lic -text
 Src/contrib/examples/web/ewf/restbucksCRUD/readme.md -text
@@ -2074,6 +2075,8 @@ Src/contrib/library/math/eapml/README.txt -text
 Src/contrib/library/math/eapml/tests/TODO.txt -text
 Src/contrib/library/network/http_client/README.md -text
 Src/contrib/library/network/http_client/license.lic -text
+Src/contrib/library/network/protocol/content_negotiation/README.md -text
+Src/contrib/library/network/protocol/content_negotiation/license.lic -text
 Src/contrib/library/network/protocol/http/README.md -text
 Src/contrib/library/network/protocol/http/license.lic -text
 Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/demo1/img/gradient_light.jpg -text
@@ -2241,6 +2244,8 @@ Src/contrib/library/web/framework/ewf/wsf/license.lic -text
 Src/contrib/library/web/framework/ewf/wsf/router/README.md -text
 Src/contrib/library/web/framework/ewf/wsf/router/filter/README.md -text
 Src/contrib/library/web/framework/ewf/wsf/router_context/support/uri_template/helpers/wsf_uri_template_filter_context_handler.e- -text
+Src/contrib/library/web/framework/ewf/wsf/wsf_policy_driven-safe.lic -text
+Src/contrib/library/web/framework/ewf/wsf/wsf_policy_driven.lic -text
 Src/examples/Eiffel2Java/README -text
 Src/examples/Eiffel2Java/test.class -text
 Src/examples/cURL/debug/debug.rc -text
