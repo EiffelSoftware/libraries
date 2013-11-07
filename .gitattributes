@@ -2150,56 +2150,11 @@ Src/contrib/library/svn/svn.lic -text
 Src/contrib/library/text/encryption/eel/README.txt -text
 Src/contrib/library/text/encryption/eel/src/digests/sha_functions.e.orig -text
 Src/contrib/library/text/encryption/eel/src/ec/ec_domain_parameters.e.orig -text
-Src/contrib/library/text/parser/json/History.txt -text
-Src/contrib/library/text/parser/json/License.txt -text
-Src/contrib/library/text/parser/json/Readme.txt -text
 Src/contrib/library/text/parser/json/library/json-safe.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/library/json.ecf -text svneol=native#application/xml
-Src/contrib/library/text/parser/json/library/json.rc -text
 Src/contrib/library/text/parser/json/library/json_gobo_extension.ecf -text svneol=native#application/xml
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail1.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail10.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail11.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail12.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail13.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail14.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail15.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail16.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail17.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail18.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail19.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail2.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail20.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail21.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail22.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail23.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail24.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail25.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail26.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail27.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail28.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail29.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail3.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail30.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail31.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail32.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail33.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail4.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail5.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail6.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail7.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail8.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/fail9.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/json_menu_example.txt -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/pass1.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/pass2.json -text
-Src/contrib/library/text/parser/json/test/autotest/test_suite/pass3.json -text
 Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite-safe.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite.ecf -text svneol=native#application/xml
-Src/contrib/library/text/parser/json/test/getest/ejson_test-win.cfg -text
-Src/contrib/library/text/parser/json/test/getest/ejson_test.cfg -text
-Src/contrib/library/text/parser/json/test/getest/ejson_test.ecf -text svneol=native#application/xml
-Src/contrib/library/text/parser/json/test/getest/readme.txt -text
 Src/contrib/library/text/parser/microdata/README.md -text
 Src/contrib/library/text/parser/microdata/license.lic -text
 Src/contrib/library/text/parser/microdata/testing/schema_org_full_md.html -text
