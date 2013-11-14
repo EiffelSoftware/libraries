@@ -2644,8 +2644,6 @@ Src/framework/xml/utility/xml_utility.lic -text
 Src/framework/xml_utility/xml_utility.lic -text
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
 Src/library/api_wrapper/implementation/unix/Clib/dl-config -text
-Src/library/api_wrapper/license.lic -text
-Src/library/cURL/readme.txt -text
 Src/library/editor/bitmaps/copy_selection.png -text
 Src/library/editor/bitmaps/cut_selection.png -text
 Src/library/editor/bitmaps/icon_close_color.png -text
@@ -2654,9 +2652,6 @@ Src/library/editor/bitmaps/right_scroll_arrow.png -text
 Src/library/edk/include/edk.lib -text
 Src/library/edk/spec/msc/windows/lib/edk.lib -text
 Src/library/encoding/implementation/unix/Clib/iconv-config -text
-Src/library/gobo/override/generated/README.txt -text
-Src/library/gobo/override/generated/library/kernel/README.txt -text
-Src/library/graph/license.lic -text
 Src/library/i18n/README -text
 Src/library/i18n/TODO -text
 Src/library/i18n/doc/css/commonPrint.css -text
@@ -2883,7 +2878,6 @@ Src/library/i18n/tests/test_files/locale/results/windows/zh_TW -text
 Src/library/i18n/tests/test_files/locale/results/windows/zu_ZA -text
 Src/library/i18n/tests/test_files/mo/ar.mo -text
 Src/library/i18n/tests/test_files/mo/zh_CN.mo -text
-Src/library/i18n/tests/test_results/result_Win7 -text
 Src/library/i18n/tests/zh_CN.mo -text
 Src/library/libevent/Clib/libevent/ChangeLog -text
 Src/library/libevent/Clib/libevent/Doxyfile -text
@@ -2891,11 +2885,6 @@ Src/library/libevent/Clib/libevent/Makefile.am -text
 Src/library/libevent/Clib/libevent/Makefile.in -text
 Src/library/libevent/Clib/libevent/Makefile.nmake -text
 Src/library/libevent/Clib/libevent/README -text
-Src/library/libevent/Clib/libevent/WIN32-Prj/event_test/event_test.dsp -text
-Src/library/libevent/Clib/libevent/WIN32-Prj/libevent.dsp -text
-Src/library/libevent/Clib/libevent/WIN32-Prj/libevent.dsw -text
-Src/library/libevent/Clib/libevent/WIN32-Prj/signal_test/signal_test.dsp -text
-Src/library/libevent/Clib/libevent/WIN32-Prj/time_test/time_test.dsp -text
 Src/library/libevent/Clib/libevent/aclocal.m4 -text
 Src/library/libevent/Clib/libevent/config.guess -text
 Src/library/libevent/Clib/libevent/config.h.in -text
@@ -2922,10 +2911,7 @@ Src/library/libevent/Clib/libevent/test/Makefile.nmake -text
 Src/library/libevent/Clib/libevent/test/regress.rpc -text
 Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
 Src/library/obsolete/xml/parser/callbacks/README.TXT -text
-Src/library/obsolete/xml/parser/license.lic -text
 Src/library/obsolete/xml/tree/README.TXT -text
-Src/library/obsolete/xml/tree/license.lic -text
-Src/library/preferences/license.lic -text
 Src/library/ribbon/test/src/eiffel_ribbon_1.dll -text
 Src/library/ribbon/test/src/eiffelribbon1.res -text
 Src/library/ribbon/test/src/ribbon_1.bml -text
@@ -2933,14 +2919,8 @@ Src/library/ribbon/test/src/ribbon_project.er -text
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.docx -text
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.pdf -text svneol=unset#application/pdf
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.vsd -text
-Src/library/runtime/logging/doc/Readme.1st -text
-Src/library/store/dbms/rdbms/mysql/Readme -text
-Src/library/text/parser/xml/README.txt -text
 Src/library/text/parser/xml/parser/callbacks/README.TXT -text
-Src/library/text/parser/xml/parser/license.lic -text
 Src/library/text/parser/xml/tree/README.TXT -text
-Src/library/text/parser/xml/tree/license.lic -text
-Src/library/text/uri/license.lic -text
 Src/library/vision2/Clib/default_vision2_icon.ico -text
 Src/library/vision2/implementation/cocoa/Readme.txt -text
 Src/library/vision2/tests/graphics/01bpp.bmp -text
