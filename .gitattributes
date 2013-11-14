@@ -2205,17 +2205,12 @@ Src/contrib/library/web/framework/ewf/wsf/wsf_policy_driven-safe.lic -text
 Src/contrib/library/web/framework/ewf/wsf/wsf_policy_driven.lic -text
 Src/examples/Eiffel2Java/README -text
 Src/examples/Eiffel2Java/test.class -text
-Src/examples/cURL/debug/debug.rc -text
-Src/examples/cURL/get_in_memory/get_in_memory.rc -text
-Src/examples/cURL/http_post/http_post.rc -text
-Src/examples/cURL/simple/simple.rc -text
 Src/examples/cURL/upload_and_read_function/eiffel_tower.jpg -text
 Src/examples/cURL/upload_and_read_function/put.php -text
 Src/examples/com/compound/child.ico -text
 Src/examples/com/compound/compound.ico -text
 Src/examples/cpp/mystring/README -text
 Src/examples/cpp/mystring/test_cpp.ico svneol=native#unset
-Src/examples/docking/docking_control/docking_control.rc -text
 Src/examples/docking/docking_control/snapshot.PNG -text
 Src/examples/docking/simple/snapshot.PNG -text
 Src/examples/dotnet/winforms/applications/world_calc/math.dll -text
@@ -2226,7 +2221,6 @@ Src/examples/dotnet/winforms/control_reference/tree_view_ctl/diamond.bmp -text
 Src/examples/dotnet/winforms/control_reference/tree_view_ctl/openfold.bmp -text
 Src/examples/dotnet/winforms/gdi_plus/text/colorbars.jpg -text
 Src/examples/dotnet/winforms/gdi_plus/text/marble.jpg -text
-Src/examples/libevent/Readme.txt -text
 Src/examples/obsolete/base/desc-32/test.ico svneol=native#unset
 Src/examples/obsolete/base/desc-32/testdesc.dll -text
 Src/examples/obsolete/base/desc-32/testdesc.lib -text
@@ -2256,7 +2250,6 @@ Src/examples/obsolete/vision2/pixmap/magenta.png -text
 Src/examples/obsolete/vision2/pixmap/new.png -text
 Src/examples/obsolete/vision2/pixmap/open.png -text
 Src/examples/obsolete/vision2/pixmap/save.png -text
-Src/examples/preferences/default.conf -text
 Src/examples/preferences/display.png -text
 Src/examples/preferences/graphics.png -text
 Src/examples/ribbon/all_widgets_basic/res/AddTableL.bmp -text svneol=unset#unset
@@ -2270,7 +2263,6 @@ Src/examples/ribbon/all_widgets_basic/res/campane_32x32.png -text
 Src/examples/ribbon/all_widgets_basic/res/rabbit_32x32.png -text
 Src/examples/ribbon/all_widgets_basic/ribbon.bml -text svneol=unset#unset
 Src/examples/ribbon/all_widgets_basic/ribbon_project.er svneol=native#unset
-Src/examples/ribbon/all_widgets_complex/eiffelribbon.rc -text
 Src/examples/ribbon/all_widgets_complex/res/AddTableL.bmp -text
 Src/examples/ribbon/all_widgets_complex/res/AddTableS.bmp -text
 Src/examples/ribbon/all_widgets_complex/res/Button_Image.bmp -text
@@ -2284,12 +2276,7 @@ Src/examples/ribbon/all_widgets_complex/res/PrintRelationshipsL.bmp -text
 Src/examples/ribbon/all_widgets_complex/res/PrintRelationshipsS.bmp -text
 Src/examples/ribbon/all_widgets_complex/ribbon_1.bml -text
 Src/examples/ribbon/all_widgets_complex/ribbon_project.er -text
-Src/examples/store/extended_select/data.sql.mysql -text
-Src/examples/store/select/data.sql.mysql -text
 Src/examples/thread/fancy/fancy.ico svneol=native#unset
-Src/examples/thread/fancy/license.lic -text
-Src/examples/thread/producer_consumer/license.lic -text
-Src/examples/thread/race/license.lic -text
 Src/examples/vision2/edraw/nocolor.png -text
 Src/examples/vision2/edraw/toolbar/arc.png -text
 Src/examples/vision2/edraw/toolbar/dot.png -text
@@ -2352,7 +2339,6 @@ Src/examples/wel/comctrls/toolbar.bmp -text
 Src/examples/wel/commands/commands_demo.ico -text
 Src/examples/wel/controls/controls_demo.ico -text
 Src/examples/wel/ctlcolor/ctlcolor_demo.ico -text
-Src/examples/wel/cursors/README -text
 Src/examples/wel/cursors/cursors_demo.ico -text
 Src/examples/wel/cursors/custom.cur svneol=native#unset
 Src/examples/wel/diskspace/diskspace_demo.ico -text
