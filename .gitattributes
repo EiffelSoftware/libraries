@@ -1471,7 +1471,6 @@ Src/C_library/openssl/util/ssleay.num -text
 Src/C_library/openssl/util/tab_num.pl -text
 Src/C_library/zlib/contrib/blast/test.pk svneol=native#unset
 Src/C_library/zlib/contrib/puff/zeros.raw svneol=native#unset
-Src/contrib/README.txt -text
 Src/contrib/examples/web/ewf/filter/license.lic -text
 Src/contrib/examples/web/ewf/filter/readme.md -text
 Src/contrib/examples/web/ewf/readme.txt -text
