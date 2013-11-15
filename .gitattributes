@@ -2940,7 +2940,6 @@ Src/library/wel/tests/graphics/16bpp.bmp -text
 Src/library/wel/tests/graphics/24bpp.bmp -text
 Src/library/wel/tests/graphics/32bpp.bmp -text
 Src/library/wizard/help/Clib/htmlhelp.lib -text
-Src/unstable/README.txt -text
 Src/unstable/library/persistency/abel/backend_couchdb/backend_couchdb.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/connector_mysql/connector_mysql.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/connector_sqlite/connector_sqlite.ecf svneol=native#text/xml
@@ -2952,10 +2951,8 @@ Src/unstable/library/persistency/abel/documentation/includes/frontend.png -text 
 Src/unstable/library/persistency/abel/documentation/includes/frontend.xml -text
 Src/unstable/library/persistency/abel/documentation/technical_documentation/abel_documentation.pdf -text
 Src/unstable/library/persistency/abel/documentation/technical_documentation/abel_documentation.tex -text
-Src/unstable/library/persistency/abel/documentation/technical_documentation/lstlang0.sty -text
 Src/unstable/library/persistency/abel/documentation/tutorial/abel_tutorial.pdf -text svneol=unset#unset
 Src/unstable/library/persistency/abel/documentation/tutorial/abel_tutorial.tex -text
-Src/unstable/library/persistency/abel/documentation/tutorial/lstlang0.sty -text
 Src/unstable/library/persistency/abel/plugin_escher/plugin_escher.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/sample/tutorial_api/tutorial_api.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/test/eweasel/bin/eiffel_execute -text
@@ -2983,4 +2980,3 @@ Src/unstable/library/persistency/database/sqlite3/README -text
 Src/unstable/library/persistency/database/sqlite3/license.lic -text
 Src/unstable/library/text/encryption/crypto/license.lic -text
 Src/unstable/library/text/encryption/crypto/tests/license.lic -text
-Src/unstable/library/text/regexp/pcre/pcre.rc -text
