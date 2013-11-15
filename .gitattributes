@@ -8,7 +8,6 @@ Src/C_library/curl/aclocal.m4 -text
 Src/C_library/curl/buildconf -text
 Src/C_library/curl/compile -text
 Src/C_library/curl/config.guess -text
-Src/C_library/curl/config.log -text
 Src/C_library/curl/config.sub -text
 Src/C_library/curl/configure -text
 Src/C_library/curl/configure.ac -text
@@ -52,7 +51,6 @@ Src/C_library/curl/docs/libcurl/curl_easy_cleanup.pdf -text
 Src/C_library/curl/docs/libcurl/curl_easy_duphandle.3 -text
 Src/C_library/curl/docs/libcurl/curl_easy_duphandle.html -text
 Src/C_library/curl/docs/libcurl/curl_easy_duphandle.pdf -text
-Src/C_library/curl/docs/libcurl/curl_easy_escape.3 -text
 Src/C_library/curl/docs/libcurl/curl_easy_escape.html -text
 Src/C_library/curl/docs/libcurl/curl_easy_escape.pdf -text
 Src/C_library/curl/docs/libcurl/curl_easy_getinfo.3 -text
@@ -73,10 +71,8 @@ Src/C_library/curl/docs/libcurl/curl_easy_setopt.pdf -text
 Src/C_library/curl/docs/libcurl/curl_easy_strerror.3 -text
 Src/C_library/curl/docs/libcurl/curl_easy_strerror.html -text
 Src/C_library/curl/docs/libcurl/curl_easy_strerror.pdf -text
-Src/C_library/curl/docs/libcurl/curl_easy_unescape.3 -text
 Src/C_library/curl/docs/libcurl/curl_easy_unescape.html -text
 Src/C_library/curl/docs/libcurl/curl_easy_unescape.pdf -text
-Src/C_library/curl/docs/libcurl/curl_escape.3 -text
 Src/C_library/curl/docs/libcurl/curl_escape.html -text
 Src/C_library/curl/docs/libcurl/curl_escape.pdf -text svneol=unset#unset
 Src/C_library/curl/docs/libcurl/curl_formadd.3 -text
@@ -166,7 +162,6 @@ Src/C_library/curl/docs/libcurl/curl_slist_free_all.pdf -text
 Src/C_library/curl/docs/libcurl/curl_strequal.3 -text
 Src/C_library/curl/docs/libcurl/curl_strequal.html -text
 Src/C_library/curl/docs/libcurl/curl_strequal.pdf -text
-Src/C_library/curl/docs/libcurl/curl_unescape.3 -text
 Src/C_library/curl/docs/libcurl/curl_unescape.html -text
 Src/C_library/curl/docs/libcurl/curl_unescape.pdf -text
 Src/C_library/curl/docs/libcurl/curl_version.3 -text
@@ -209,8 +204,6 @@ Src/C_library/curl/lib/ca-bundle.crt -text
 Src/C_library/curl/lib/config-win32.h.bak -text
 Src/C_library/curl/lib/config.dos -text
 Src/C_library/curl/lib/config.h.in -text
-Src/C_library/curl/lib/curllib.dsp -text
-Src/C_library/curl/lib/curllib.dsw -text
 Src/C_library/curl/lib/curllib.vcproj -text
 Src/C_library/curl/lib/libcurl.framework.make -text
 Src/C_library/curl/lib/libcurl.imp -text
@@ -219,7 +212,6 @@ Src/C_library/curl/lib/libcurl.rc -text
 Src/C_library/curl/lib/makefile.amiga -text
 Src/C_library/curl/lib/makefile.dj -text
 Src/C_library/curl/lib/msvcproj.foot -text
-Src/C_library/curl/lib/msvcproj.head -text
 Src/C_library/curl/lib/release_ssl_dll.txt -text
 Src/C_library/curl/libcurl.pc.in -text
 Src/C_library/curl/maketgz -text
