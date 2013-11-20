@@ -2810,6 +2810,7 @@ Src/unstable/library/persistency/abel/documentation/includes/frontend.png -text 
 Src/unstable/library/persistency/abel/documentation/includes/frontend.xml -text
 Src/unstable/library/persistency/abel/documentation/technical_documentation/abel_documentation.pdf -text
 Src/unstable/library/persistency/abel/documentation/technical_documentation/abel_documentation.tex -text
+Src/unstable/library/persistency/abel/documentation/technical_documentation/references.bib -text
 Src/unstable/library/persistency/abel/documentation/tutorial/abel_tutorial.pdf -text svneol=unset#unset
 Src/unstable/library/persistency/abel/documentation/tutorial/abel_tutorial.tex -text
 Src/unstable/library/persistency/abel/plugin_escher/plugin_escher.ecf svneol=native#text/xml
