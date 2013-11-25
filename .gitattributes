@@ -2512,6 +2512,15 @@ Src/library/editor/bitmaps/right_scroll_arrow.png -text
 Src/library/edk/include/edk.lib -text
 Src/library/edk/spec/msc/windows/lib/edk.lib -text
 Src/library/encoding/implementation/unix/Clib/iconv-config -text
+Src/library/gobo/gobo_gelex-safe.ecf svneol=native#text/xml
+Src/library/gobo/gobo_geyacc-safe.ecf svneol=native#text/xml
+Src/library/gobo/gobo_math-safe.ecf svneol=native#text/xml
+Src/library/gobo/gobo_pattern-safe.ecf svneol=native#text/xml
+Src/library/gobo/gobo_regexp-safe.ecf svneol=native#text/xml
+Src/library/gobo/gobo_string-safe.ecf svneol=native#text/xml
+Src/library/gobo/gobo_structure-safe.ecf svneol=native#text/xml
+Src/library/gobo/gobo_time-safe.ecf svneol=native#text/xml
+Src/library/gobo/gobo_utility-safe.ecf svneol=native#text/xml
 Src/library/i18n/README -text
 Src/library/i18n/TODO -text
 Src/library/i18n/doc/css/commonPrint.css -text
