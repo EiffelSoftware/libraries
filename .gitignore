@@ -217,7 +217,6 @@ Src/library/vision2/spec/macosx-x86
 Src/library/vision2/spec/mingw
 Src/library/vision2/spec/msc
 Src/library/vision2/spec/unix
-Src/library/web_browser/EIFGENs
 Src/library/web_browser/spec/bsb
 Src/library/web_browser/spec/mingw
 Src/library/web_browser/spec/msc
