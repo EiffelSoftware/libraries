@@ -2823,9 +2823,9 @@ Src/unstable/library/persistency/abel/documentation/technical_documentation/abel
 Src/unstable/library/persistency/abel/documentation/technical_documentation/references.bib -text
 Src/unstable/library/persistency/abel/documentation/tutorial/abel_tutorial.pdf -text svneol=unset#unset
 Src/unstable/library/persistency/abel/documentation/tutorial/abel_tutorial.tex -text
+Src/unstable/library/persistency/abel/examples/tutorial_api/tutorial_api.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/performance_test/framework/framework.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/plugin_escher/plugin_escher.ecf svneol=native#text/xml
-Src/unstable/library/persistency/abel/sample/tutorial_api/tutorial_api.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/test/eweasel/bin/eiffel_execute -text
 Src/unstable/library/persistency/abel/test/eweasel/bin/eiffel_freeze -text
 Src/unstable/library/persistency/abel/test/eweasel/bin/run_eweasel -text
