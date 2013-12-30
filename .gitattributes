@@ -2788,6 +2788,7 @@ Src/library/ribbon/test/src/ribbon_project.er -text
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.docx -text
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.pdf -text svneol=unset#application/pdf
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.vsd -text
+Src/library/store/test/test_results/oracle_results -text
 Src/library/text/parser/xml/parser/callbacks/README.TXT -text
 Src/library/text/parser/xml/tree/README.TXT -text
 Src/library/vision2/Clib/default_vision2_icon.ico -text
