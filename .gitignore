@@ -209,7 +209,6 @@ Src/library/runtime/logging/spec
 Src/library/store/spec
 Src/library/testing/.git
 Src/library/testing/EIFGENs
-Src/library/testing_eweasel/compilation/EIFGENs
 Src/library/vision2/spec/bcb
 Src/library/vision2/spec/linux-x86-64
 Src/library/vision2/spec/macosx-x86
