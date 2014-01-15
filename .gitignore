@@ -46,7 +46,6 @@ Src/examples/scoop/quicksort/EIFGENs
 Src/examples/scoop/search-insert-delete/EIFGENs
 Src/examples/scoop/senate_bus/EIFGENs
 Src/examples/scoop/single_element_producer_consumer/EIFGENs
-Src/examples/store/convert/EIFGENs
 Src/examples/store/insert/EIFGENs
 Src/examples/store/nesting/EIFGENs
 Src/examples/store/oom2rm/EIFGENs
