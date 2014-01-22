@@ -2357,7 +2357,7 @@ Src/framework/cli_writer/cli_writer.lic -text
 Src/framework/com_light/tests/test.docx -text
 Src/framework/command_tunnel/command_tunnel.lic -text
 Src/framework/configuration/license.lic -text
-Src/framework/configuration/parser/implementation/lace/lace_compile/classname_finder.l -text
+Src/framework/configuration/parser/implementation/classname/classname_finder.l -text
 Src/framework/configuration/parser/implementation/lace/lace_compile/lace.l -text
 Src/framework/configuration/tools/ace_to_ecf/license.lic -text
 Src/framework/configuration/versioning/configuration-1-0-0.xsd -text
