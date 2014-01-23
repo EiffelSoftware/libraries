@@ -223,5 +223,6 @@ Src/library/wel/Clib/wel.lib
 Src/library/wel/spec/bcb
 Src/library/wel/spec/mingw
 Src/library/wel/spec/msc
+Src/unstable/library/compression/zlib/example/EIFGENs
 Src/unstable/library/persistency/database/sqlite3/spec/mingw
 Src/unstable/library/persistency/database/sqlite3/spec/msc
