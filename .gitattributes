@@ -2365,6 +2365,10 @@ Src/framework/configuration/versioning/configuration-1-2-0.xsd -text
 Src/framework/configuration/versioning/configuration-1-3-0.xsd -text
 Src/framework/dotnet_loader/dotnet_loader.lic -text
 Src/framework/eiffel_identifier/eiffel_identifier.lic -text
+Src/framework/eiffel_llvm/LICENCE.md -text
+Src/framework/eiffel_llvm/README.txt -text
+Src/framework/eiffel_llvm/eiffel_llvm.ecf svneol=native#text/xml
+Src/framework/eiffel_llvm/testing/eiffel_llvm_tests.ecf svneol=native#text/xml
 Src/framework/emitter_loader/emitter_loader.lic -text
 Src/framework/environment/environment.lic -text
 Src/framework/file_formats/ini.lic -text
