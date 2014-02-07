@@ -2827,6 +2827,8 @@ Src/unstable/library/compression/zlib/example/compress/index.html -text
 Src/unstable/library/compression/zlib/example/compress/ssleay.txt -text
 Src/unstable/library/compression/zlib/example/gzutility/index.html -text
 Src/unstable/library/compression/zlib/example/gzutility/project.rc -text
+Src/unstable/library/compression/zlib/spec/win64/lib/msc/zlibstat.lib -text
+Src/unstable/library/compression/zlib/spec/windows/lib/msc/zlibstat.lib -text
 Src/unstable/library/compression/zlib/testing/index.html -text
 Src/unstable/library/network/socket/netssl/README -text
 Src/unstable/library/network/socket/netssl/license.lic -text
