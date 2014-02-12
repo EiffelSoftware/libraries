@@ -2822,12 +2822,12 @@ Src/library/wel/tests/graphics/32bpp.bmp -text
 Src/library/wizard/help/Clib/htmlhelp.lib -text
 Src/unstable/library/compression/bzip2/Readme.txt -text
 Src/unstable/library/compression/zlib/Readme.txt -text
-Src/unstable/library/compression/zlib/example/basic_functions/ssleay.txt -text
-Src/unstable/library/compression/zlib/example/compress/compress.rc -text
+Src/unstable/library/compression/zlib/example/basic_functions/file_to_compress.txt -text
 Src/unstable/library/compression/zlib/example/compress/index.html -text
-Src/unstable/library/compression/zlib/example/compress/ssleay.txt -text
+Src/unstable/library/compression/zlib/example/compress/text_to_compress_2.txt -text
+Src/unstable/library/compression/zlib/example/compress/text_to_comrpess.txt -text
 Src/unstable/library/compression/zlib/example/gzutility/index.html -text
-Src/unstable/library/compression/zlib/example/gzutility/project.rc -text
+Src/unstable/library/compression/zlib/example/gzutility/text_to_compress.txt -text
 Src/unstable/library/compression/zlib/spec/win64/lib/msc/zlibstat.lib -text
 Src/unstable/library/compression/zlib/spec/windows/lib/msc/zlibstat.lib -text
 Src/unstable/library/compression/zlib/testing/index.html -text
