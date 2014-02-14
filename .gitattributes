@@ -2791,7 +2791,6 @@ Src/library/libevent/Clib/libevent/test/regress.rpc -text
 Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
 Src/library/obsolete/xml/parser/callbacks/README.TXT -text
 Src/library/obsolete/xml/tree/README.TXT -text
-Src/library/ribbon/test/src/eiffel_ribbon_1.dll -text
 Src/library/ribbon/test/src/eiffelribbon1.res -text
 Src/library/ribbon/test/src/ribbon_1.bml -text
 Src/library/ribbon/test/src/ribbon_project.er -text
