@@ -2506,7 +2506,6 @@ Src/framework/web/xebra/www/xebrahome/images/li.gif -text
 Src/framework/web/xebra/www/xebrahome/translation_conf.xml -text
 Src/framework/xml/gobo/license.lic -text
 Src/framework/xml/tests/license.lic -text
-Src/framework/xml/utility/xml_utility.lic -text
 Src/framework/xml_utility/xml_utility.lic -text
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
 Src/library/api_wrapper/implementation/unix/Clib/dl-config -text
