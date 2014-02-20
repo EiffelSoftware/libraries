@@ -162,7 +162,6 @@ Src/framework/web/xebra/www/helloworld/*.rc
 Src/framework/web/xebra/www/helloworld/EIFGENs
 Src/framework/web/xebra/www/servercontrol/*.log
 Src/framework/web/xebra/www/servercontrol/*.rc
-Src/framework/web/xebra/www/servercontrol/.generated
 Src/framework/web/xebra/www/servercontrol/EIFGENs
 Src/framework/web/xebra/www/statsvn
 Src/framework/web/xebra/www/support/EIFGENs
