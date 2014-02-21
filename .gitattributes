@@ -2110,6 +2110,8 @@ Src/examples/cURL/upload_and_read_function/eiffel_tower.jpg -text
 Src/examples/cURL/upload_and_read_function/put.php -text
 Src/examples/com/compound/child.ico -text
 Src/examples/com/compound/compound.ico -text
+Src/examples/com/wizard/string_manipulator/generated/Client/string_manipulator_idl.rc -text
+Src/examples/com/wizard/string_manipulator/generated/string_manipulator_idl.tlb -text
 Src/examples/cpp/mystring/README -text
 Src/examples/cpp/mystring/test_cpp.ico svneol=native#unset
 Src/examples/docking/docking_control/snapshot.PNG -text
