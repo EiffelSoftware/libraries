@@ -139,7 +139,6 @@ Src/framework/web/xebra/tools/installer/win/xebra_deployer/EIFGENs
 Src/framework/web/xebra/www/bin
 Src/framework/web/xebra/www/demoapplication/*.log
 Src/framework/web/xebra/www/demoapplication/*.rc
-Src/framework/web/xebra/www/demoapplication/EIFGENs
 Src/framework/web/xebra/www/examples/*.log
 Src/framework/web/xebra/www/examples/*.rc
 Src/framework/web/xebra/www/examples/EIFGENs
