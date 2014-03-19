@@ -1,52 +1,25 @@
 note
-	description: "Summary description for {IRON_API}."
-	author: ""
+	description: "Summary description for {IRON_PACKAGE_FILE_FACTORY}."
 	date: "$Date$"
 	revision: "$Revision$"
 
-deferred class
-	IRON_API
+class
+	IRON_PACKAGE_FILE_FACTORY
 
-inherit
-	SHARED_EXECUTION_ENVIRONMENT
+feature -- Factory
 
-feature {NONE} -- Initialization
-
-	make_with_layout (a_layout: like layout; a_urls: like urls)
-		do
-			urls := a_urls
-			layout := a_layout
-			initialize
-		end
-
-	initialize
-		do
-		end
-
-feature -- Access
-
-	layout: IRON_LAYOUT
-
-	urls: IRON_URL_BUILDER
-
-feature {NONE} -- Implementation
-
-	file_content (p: PATH): detachable STRING
+	new_package_file (fn: PATH): IRON_PACKAGE_FILE
 		local
-			f: RAW_FILE
+			pf: IRON_PACKAGE_INFO_FILE
 		do
-			create f.make_with_path (p)
-			if f.exists and then f.is_access_readable then
-				f.open_read
-				create Result.make (1_024)
-				from
-				until
-					f.exhausted
-				loop
-					f.read_stream (1_024)
-					Result.append (f.last_string)
+			create pf.make_from_path (fn)
+			Result := pf
+			if Result.has_error then
+				create {IRON_PACKAGE_INI_FILE} Result.make_from_path (fn)
+				if Result.has_error then
+						-- Better take the expected format with error, rather than old format with error.
+					Result := pf
 				end
-				f.close
 			end
 		end
 
@@ -81,5 +54,4 @@ note
 			Website http://www.eiffel.com
 			Customer support http://support.eiffel.com
 		]"
-
 end

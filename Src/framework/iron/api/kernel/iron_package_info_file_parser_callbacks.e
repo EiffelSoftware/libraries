@@ -1,53 +1,32 @@
 note
-	description: "Summary description for {IRON_API}."
+	description: "Summary description for {IRON_PACKAGE_INFO_FILE_PARSER_CALLBACKS}."
 	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
 deferred class
-	IRON_API
+	IRON_PACKAGE_INFO_FILE_PARSER_CALLBACKS
 
-inherit
-	SHARED_EXECUTION_ENVIRONMENT
+feature -- Callbacks
 
-feature {NONE} -- Initialization
-
-	make_with_layout (a_layout: like layout; a_urls: like urls)
-		do
-			urls := a_urls
-			layout := a_layout
-			initialize
-		end
-
-	initialize
+	on_error (a_message: READABLE_STRING_32)
 		do
 		end
 
-feature -- Access
-
-	layout: IRON_LAYOUT
-
-	urls: IRON_URL_BUILDER
-
-feature {NONE} -- Implementation
-
-	file_content (p: PATH): detachable STRING
-		local
-			f: RAW_FILE
+	on_comment (a_content: READABLE_STRING_32)
 		do
-			create f.make_with_path (p)
-			if f.exists and then f.is_access_readable then
-				f.open_read
-				create Result.make (1_024)
-				from
-				until
-					f.exhausted
-				loop
-					f.read_stream (1_024)
-					Result.append (f.last_string)
-				end
-				f.close
-			end
+		end
+
+	on_package (a_name: READABLE_STRING_32)
+		do
+		end
+
+	on_project (a_project_name: READABLE_STRING_32; a_path: READABLE_STRING_32)
+		do
+		end
+
+	on_note (a_note_name: READABLE_STRING_32; a_value: READABLE_STRING_32)
+		do
 		end
 
 note
@@ -81,5 +60,4 @@ note
 			Website http://www.eiffel.com
 			Customer support http://support.eiffel.com
 		]"
-
 end

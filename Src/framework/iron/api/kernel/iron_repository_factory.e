@@ -1,52 +1,29 @@
 note
-	description: "Summary description for {IRON_API}."
-	author: ""
+	description: "Summary description for {IRON_REPOSITORY_FACTORY}."
 	date: "$Date$"
 	revision: "$Revision$"
 
-deferred class
-	IRON_API
+class
+	IRON_REPOSITORY_FACTORY
 
-inherit
-	SHARED_EXECUTION_ENVIRONMENT
+feature -- Factory
 
-feature {NONE} -- Initialization
-
-	make_with_layout (a_layout: like layout; a_urls: like urls)
-		do
-			urls := a_urls
-			layout := a_layout
-			initialize
-		end
-
-	initialize
-		do
-		end
-
-feature -- Access
-
-	layout: IRON_LAYOUT
-
-	urls: IRON_URL_BUILDER
-
-feature {NONE} -- Implementation
-
-	file_content (p: PATH): detachable STRING
+	new_repository (a_location: READABLE_STRING_32): detachable IRON_REPOSITORY
+			-- New repository for location `a_location'.
+			-- This can be remote url repository or local repository.
 		local
-			f: RAW_FILE
+			iri: IRI
 		do
-			create f.make_with_path (p)
-			if f.exists and then f.is_access_readable then
-				f.open_read
-				create Result.make (1_024)
-				from
-				until
-					f.exhausted
-				loop
-					f.read_stream (1_024)
-					Result.append (f.last_string)
+			if a_location.starts_with_general ("http://") or a_location.starts_with_general ("https://") then
+				create iri.make_from_string (a_location)
+				create {IRON_WEB_REPOSITORY} Result.make_from_version_uri (iri.to_uri)
+			else
+				if a_location.starts_with_general ("file://") then
+					create iri.make_from_string (a_location)
+					create {IRON_WORKING_COPY_REPOSITORY} Result.make_from_uri (iri.to_uri)
+				else
+					create {IRON_WORKING_COPY_REPOSITORY} Result.make (a_location)
 				end
-				f.close
 			end
 		end
 
@@ -81,5 +58,4 @@ note
 			Website http://www.eiffel.com
 			Customer support http://support.eiffel.com
 		]"
-
 end
