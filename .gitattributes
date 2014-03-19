@@ -2554,6 +2554,7 @@ Src/library/api_wrapper/package.iron -text
 Src/library/argument_parser/package.iron -text
 Src/library/base/package.iron -text
 Src/library/base/test/license.lic -text
+Src/library/base/testing/license.lic -text
 Src/library/base_extension/package.iron -text
 Src/library/cURL/package.iron -text
 Src/library/cocoa/package.iron -text
