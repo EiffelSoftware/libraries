@@ -72,6 +72,11 @@ Src/framework/cli_writer/Clib/*.lib
 Src/framework/cli_writer/Clib/*.obj
 Src/framework/cli_writer/Clib/*.pdb
 Src/framework/cli_writer/spec
+Src/framework/code_analysis/EIFGENs
+Src/framework/code_analysis/tests/*.log
+Src/framework/code_analysis/tests/EIFGENs
+Src/framework/code_analysis/tests/log.txt
+Src/framework/code_analysis/tests/test_output.txt
 Src/framework/configuration/*.wb
 Src/framework/configuration/EIFGENs
 Src/framework/parser/parser/output.txt
