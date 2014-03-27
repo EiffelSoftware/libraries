@@ -1,4 +1,4 @@
-note
+﻿note
 	description: "Visitor to generate generic derivation of a type"
 	author: ""
 	date: "$Date$"
@@ -107,6 +107,12 @@ feature {TYPE_A}
 			last_type := a_type
 		end
 
+	process_local (a_type: LOCAL_TYPE_A)
+			-- <Precursor>
+		do
+			last_type := a_type
+		end
+
 	process_manifest_integer_a (a_type: MANIFEST_INTEGER_A)
 			-- Process `a_type'.
 		do
@@ -198,7 +204,7 @@ feature {TYPE_A}
 		end
 
 note
-	copyright: "Copyright (c) 1984-2013, Eiffel Software"
+	copyright: "Copyright (c) 1984-2014, Eiffel Software"
 	license: "GPL version 2 (see http://www.eiffel.com/licensing/gpl.txt)"
 	licensing_options: "http://www.eiffel.com/licensing"
 	copying: "[
