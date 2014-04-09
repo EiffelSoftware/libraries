@@ -2907,7 +2907,10 @@ Src/library/wel/tests/graphics/16bpp.bmp -text
 Src/library/wel/tests/graphics/24bpp.bmp -text
 Src/library/wel/tests/graphics/32bpp.bmp -text
 Src/library/wizard/help/Clib/htmlhelp.lib -text
+Src/unstable/library/base2/package.iron -text
+Src/unstable/library/base_extension/package.iron -text
 Src/unstable/library/compression/bzip2/Readme.txt -text
+Src/unstable/library/compression/bzip2/package.iron -text
 Src/unstable/library/compression/zlib/Readme.txt -text
 Src/unstable/library/compression/zlib/example/basic_functions/file_to_compress.txt -text
 Src/unstable/library/compression/zlib/example/compress/index.html -text
@@ -2915,13 +2918,16 @@ Src/unstable/library/compression/zlib/example/compress/text_to_compress_2.txt -t
 Src/unstable/library/compression/zlib/example/compress/text_to_comrpess.txt -text
 Src/unstable/library/compression/zlib/example/gzutility/index.html -text
 Src/unstable/library/compression/zlib/example/gzutility/text_to_compress.txt -text
+Src/unstable/library/compression/zlib/package.iron -text
 Src/unstable/library/compression/zlib/spec/win64/lib/msc/zlibstat.lib -text
 Src/unstable/library/compression/zlib/spec/windows/lib/msc/zlibstat.lib -text
 Src/unstable/library/compression/zlib/testing/index.html -text
 Src/unstable/library/network/socket/netssl/README -text
 Src/unstable/library/network/socket/netssl/license.lic -text
+Src/unstable/library/network/socket/netssl/package.iron -text
 Src/unstable/library/pattern/criteria/README.txt -text
 Src/unstable/library/pattern/criteria/license.lic -text
+Src/unstable/library/pattern/criteria/package.iron -text
 Src/unstable/library/pattern/criteria/testing/criteria_tests.rc -text
 Src/unstable/library/persistency/abel/backend_couchdb/backend_couchdb.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/connector_mysql/connector_mysql.ecf svneol=native#text/xml
@@ -2938,6 +2944,7 @@ Src/unstable/library/persistency/abel/documentation/technical_documentation/refe
 Src/unstable/library/persistency/abel/documentation/tutorial/abel_tutorial.pdf -text svneol=unset#unset
 Src/unstable/library/persistency/abel/documentation/tutorial/abel_tutorial.tex -text
 Src/unstable/library/persistency/abel/examples/tutorial_api/tutorial_api.ecf svneol=native#text/xml
+Src/unstable/library/persistency/abel/package.iron -text
 Src/unstable/library/persistency/abel/performance_test/framework/framework.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/plugin_escher/plugin_escher.ecf svneol=native#text/xml
 Src/unstable/library/persistency/abel/test/eweasel/bin/eiffel_execute -text
@@ -2961,8 +2968,12 @@ Src/unstable/library/persistency/abel/test/eweasel/output/evol001/output/seriali
 Src/unstable/library/persistency/abel/test/eweasel/tests/evol001/Ace -text
 Src/unstable/library/persistency/abel/test/eweasel/tests/list001/Ace -text
 Src/unstable/library/persistency/abel/test/readme.txt -text
+Src/unstable/library/persistency/database/mysqli/package.iron -text
 Src/unstable/library/persistency/database/sqlite3/README -text
 Src/unstable/library/persistency/database/sqlite3/license.lic -text
+Src/unstable/library/persistency/database/sqlite3/package.iron -text
 Src/unstable/library/test/test.iron -text
 Src/unstable/library/text/encryption/crypto/license.lic -text
+Src/unstable/library/text/encryption/crypto/package.iron -text
 Src/unstable/library/text/encryption/crypto/tests/license.lic -text
+Src/unstable/library/text/regexp/pcre/package.iron -text
