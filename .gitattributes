@@ -2020,6 +2020,7 @@ Src/contrib/library/gobo/misc/catalog.xsd -text svneol=unset#application/xml
 Src/contrib/library/gobo/misc/eiffel.eant svneol=native#text/xml
 Src/contrib/library/gobo/misc/ge2e.eant svneol=native#text/xml
 Src/contrib/library/gobo/misc/test.eant svneol=native#text/xml
+Src/contrib/library/gobo/package.iron -text
 Src/contrib/library/gobo/src/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/src/geant/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/src/geant/library.xace -text svneol=native#application/xml
