@@ -2574,6 +2574,7 @@ Src/library/editor/bitmaps/left_scroll_arrow.png -text
 Src/library/editor/bitmaps/right_scroll_arrow.png -text
 Src/library/editor/package.iron -text
 Src/library/edk/include/edk.lib -text
+Src/library/edk/package.iron -text
 Src/library/edk/spec/msc/windows/lib/edk.lib -text
 Src/library/encoding/implementation/unix/Clib/iconv-config -text
 Src/library/encoding/package.iron -text
@@ -2822,6 +2823,7 @@ Src/library/i18n/tests/test_files/locale/results/windows/zu_ZA -text
 Src/library/i18n/tests/test_files/mo/ar.mo -text
 Src/library/i18n/tests/test_files/mo/zh_CN.mo -text
 Src/library/i18n/tests/zh_CN.mo -text
+Src/library/iphone/package.iron -text
 Src/library/lex/package.iron -text
 Src/library/libevent/Clib/libevent/ChangeLog -text
 Src/library/libevent/Clib/libevent/Doxyfile -text
@@ -2853,6 +2855,7 @@ Src/library/libevent/Clib/libevent/test/Makefile.am -text
 Src/library/libevent/Clib/libevent/test/Makefile.in -text
 Src/library/libevent/Clib/libevent/test/Makefile.nmake -text
 Src/library/libevent/Clib/libevent/test/regress.rpc -text
+Src/library/libevent/package.iron -text
 Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
 Src/library/memory_analyzer/package.iron -text
 Src/library/net/package.iron -text
@@ -2907,6 +2910,7 @@ Src/library/wel/tests/graphics/16bpp.bmp -text
 Src/library/wel/tests/graphics/24bpp.bmp -text
 Src/library/wel/tests/graphics/32bpp.bmp -text
 Src/library/wizard/help/Clib/htmlhelp.lib -text
+Src/library/zeromq/package.iron -text
 Src/unstable/library/base2/package.iron -text
 Src/unstable/library/base_extension/package.iron -text
 Src/unstable/library/compression/bzip2/Readme.txt -text
