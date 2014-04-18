@@ -2122,7 +2122,6 @@ Src/contrib/library/web/framework/ewf/ewsgi/default.7z -text
 Src/contrib/library/web/framework/ewf/ewsgi/package.iron -text
 Src/contrib/library/web/framework/ewf/libfcgi/Clib/libfcgi/doc/fcgi-2.4.0-x64.patch -text
 Src/contrib/library/web/framework/ewf/libfcgi/Clib/libfcgi/libfcgi/libfcgi.mak -text
-Src/contrib/library/web/framework/ewf/libfcgi/package.iron -text
 Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/win64/msc/libfcgi.dll -text
 Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/win64/msc/libfcgi.lib -text
 Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/windows/msc/libfcgi.dll -text
@@ -2977,7 +2976,6 @@ Src/unstable/library/persistency/database/mysqli/package.iron -text
 Src/unstable/library/persistency/database/sqlite3/README -text
 Src/unstable/library/persistency/database/sqlite3/license.lic -text
 Src/unstable/library/persistency/database/sqlite3/package.iron -text
-Src/unstable/library/test/test.iron -text
 Src/unstable/library/text/encryption/crypto/license.lic -text
 Src/unstable/library/text/encryption/crypto/package.iron -text
 Src/unstable/library/text/encryption/crypto/tests/license.lic -text
