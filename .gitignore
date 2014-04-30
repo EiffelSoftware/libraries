@@ -27,8 +27,6 @@ Src/C_library/zlib/minigzip_d.exe
 Src/C_library/zlib/zdll.exp
 Src/C_library/zlib/zlib1.dll
 Src/C_library/zlib/zlib1.res
-Src/Delivery
-Src/Documentation
 Src/contrib/library/graphic/toolkit/wex/library/wex/spec/bcb
 Src/contrib/library/graphic/toolkit/wex/library/wex/spec/mingw
 Src/contrib/library/graphic/toolkit/wex/library/wex/spec/msc
@@ -160,7 +158,6 @@ Src/framework/web/xebra/www/xebrahome/EIFGENs
 Src/framework/web/xebra/www/xmlrpc_demo/*.log
 Src/framework/web/xebra/www/xmlrpc_demo/EIFGENs
 Src/framework/xml/gobo/removed
-Src/free_add_ons
 Src/library/cURL/spec/linux-x86
 Src/library/cURL/spec/linux-x86-64
 Src/library/cURL/spec/mingw
