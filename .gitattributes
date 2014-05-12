@@ -2350,6 +2350,14 @@ Src/examples/wel/xcell/spades9.bmp -text
 Src/examples/wel/xcell/start.bmp -text
 Src/examples/wel/xcell/xcell.bmp -text
 Src/examples/wel/xcell/xcell_demo.ico -text
+Src/examples/zeromq/hello_world/client/client.ecf svneol=native#text/xml
+Src/examples/zeromq/hello_world/server/server.ecf svneol=native#text/xml
+Src/examples/zeromq/parallel_task_ventilator/task_sink/task_sink.ecf svneol=native#text/xml
+Src/examples/zeromq/parallel_task_ventilator/task_ventilator/task_ventilator.ecf svneol=native#text/xml
+Src/examples/zeromq/parallel_task_ventilator/task_worker/task_worker.ecf svneol=native#text/xml
+Src/examples/zeromq/version/version.ecf svneol=native#text/xml
+Src/examples/zeromq/weather/client/client.ecf svneol=native#text/xml
+Src/examples/zeromq/weather/server/server.ecf svneol=native#text/xml
 Src/framework/auto_test/auto_test.lic -text
 Src/framework/base/application/command_line_builder/command_line_builder.lic -text
 Src/framework/base/application/error_manager/error_manager.lic -text
