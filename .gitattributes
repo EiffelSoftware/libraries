@@ -2910,3 +2910,6 @@ Src/unstable/library/persistency/database/sqlite3/README -text
 Src/unstable/library/persistency/database/sqlite3/license.lic -text
 Src/unstable/library/text/encryption/crypto/license.lic -text
 Src/unstable/library/text/encryption/crypto/tests/license.lic -text
+Src/unstable/library/text/text_filter/testing/testing-safe.ecf svneol=native#text/xml
+Src/unstable/library/text/text_filter/text_filter-safe.ecf svneol=native#text/xml
+Src/unstable/library/text/text_filter/text_filter.ecf svneol=native#text/xml
