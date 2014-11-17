@@ -2092,6 +2092,7 @@ Src/contrib/library/runtime/process/eclop/doc/eclop.pdf -text
 Src/contrib/library/svn/svn.lic -text
 Src/contrib/library/text/encryption/eel/src/digests/sha_functions.e.orig -text
 Src/contrib/library/text/encryption/eel/src/ec/ec_domain_parameters.e.orig -text
+Src/contrib/library/text/parser/json/examples/basic/basic.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/library/json-safe.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/library/json.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/library/json_gobo_extension.ecf -text svneol=native#application/xml
