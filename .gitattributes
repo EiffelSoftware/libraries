@@ -2947,3 +2947,4 @@ Src/unstable/library/web/cms/library/persistence/implementation/sqlite/scripts/c
 Src/unstable/library/web/cms/library/persistence/implementation/sqlite/scripts/tables.sql -text
 Src/unstable/library/web/cms/library/persistence/implementation/sqlite/tests/cms_lite.db -text
 Src/unstable/library/web/cms/library/persistence/implementation/sqlite/tests/tests-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/library/src/kernel/content/cms_block.e.bak -text
