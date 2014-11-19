@@ -205,3 +205,4 @@ Src/library/wel/spec/msc
 Src/unstable/library/compression/zlib/example/EIFGENs
 Src/unstable/library/persistency/database/sqlite3/spec/mingw
 Src/unstable/library/persistency/database/sqlite3/spec/msc
+Src/unstable/library/web/cms/library/src/service/*.bak
