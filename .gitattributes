@@ -2950,8 +2950,7 @@ Src/unstable/library/web/cms/library/persistence/implementation/mysql/scripts/tr
 Src/unstable/library/web/cms/library/persistence/implementation/mysql/tests/tests.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/persistence/implementation/sqlite/persistence_sqlite-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/persistence/implementation/sqlite/persistence_sqlite.ecf svneol=native#text/xml
-Src/unstable/library/web/cms/library/persistence/implementation/sqlite/scripts/create_database.sql -text
-Src/unstable/library/web/cms/library/persistence/implementation/sqlite/scripts/tables.sql -text
+Src/unstable/library/web/cms/library/persistence/implementation/sqlite/scripts/schema.sql -text
 Src/unstable/library/web/cms/library/persistence/implementation/sqlite/tests/cms_lite.db -text
 Src/unstable/library/web/cms/library/persistence/implementation/sqlite/tests/tests-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/src/kernel/content/cms_block.e.bak -text
