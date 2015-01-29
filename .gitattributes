@@ -2945,6 +2945,7 @@ Src/unstable/library/web/cms/library/model/license.lic -text
 Src/unstable/library/web/cms/library/persistence/implementation/mysql/persistence_mysql-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/persistence/implementation/mysql/persistence_mysql.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/persistence/implementation/mysql/scripts/create_database.sql -text
+Src/unstable/library/web/cms/library/persistence/implementation/mysql/scripts/schema.sql -text
 Src/unstable/library/web/cms/library/persistence/implementation/mysql/scripts/tables.sql -text
 Src/unstable/library/web/cms/library/persistence/implementation/mysql/scripts/triggers.sql -text
 Src/unstable/library/web/cms/library/persistence/implementation/mysql/tests/tests.ecf svneol=native#text/xml
