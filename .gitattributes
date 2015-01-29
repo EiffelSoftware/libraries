@@ -2922,7 +2922,6 @@ Src/unstable/library/web/cms/examples/demo/demo-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/demo.ini -text
 Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/config/application_configuration.json -text
-Src/unstable/library/web/cms/examples/demo/site/config/cms.ini -text
 Src/unstable/library/web/cms/examples/demo/site/www/static/css/bootstrap.css -text
 Src/unstable/library/web/cms/examples/demo/site/www/static/css/dashboard.css -text
 Src/unstable/library/web/cms/examples/demo/site/www/static/images/ajax-loader.gif -text
@@ -2951,7 +2950,6 @@ Src/unstable/library/web/cms/library/persistence/implementation/mysql/scripts/tr
 Src/unstable/library/web/cms/library/persistence/implementation/mysql/tests/tests.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/persistence/implementation/sqlite/persistence_sqlite-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/persistence/implementation/sqlite/persistence_sqlite.ecf svneol=native#text/xml
-Src/unstable/library/web/cms/library/persistence/implementation/sqlite/scripts/schema.sql -text
 Src/unstable/library/web/cms/library/persistence/implementation/sqlite/tests/cms_lite.db -text
 Src/unstable/library/web/cms/library/persistence/implementation/sqlite/tests/tests-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/src/kernel/content/cms_block.e.bak -text
