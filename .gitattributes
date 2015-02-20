@@ -2099,6 +2099,7 @@ Src/contrib/library/text/parser/json/library/json.ecf -text svneol=native#applic
 Src/contrib/library/text/parser/json/library/json_gobo_extension.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite-safe.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite.ecf -text svneol=native#application/xml
+Src/contrib/library/text/parser/wikitext/tests/tests-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/communication/mediatype/collection+json/doc/collectionjson.png -text
 Src/contrib/library/web/framework/ewf/ewsgi/default.7z -text
 Src/contrib/library/web/framework/ewf/libfcgi/Clib/libfcgi/doc/fcgi-2.4.0-x64.patch -text
