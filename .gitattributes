@@ -2112,7 +2112,7 @@ Src/contrib/tools/ewf/estudio_wizard/ewf_ise_wizard-safe.ecf svneol=native#text/
 Src/contrib/tools/ewf/estudio_wizard/lib/wizard/estudio_console_wizard-safe.ecf svneol=native#text/xml
 Src/contrib/tools/ewf/estudio_wizard/lib/wizard/estudio_gui_wizard-safe.ecf svneol=native#text/xml
 Src/contrib/tools/ewf/estudio_wizard/rootdir/ewf.dsc -text
-Src/contrib/tools/ewf/estudio_wizard/rootdir/resources/${APP_NAME}-safe.ecf svneol=native#text/xml
+Src/contrib/tools/ewf/estudio_wizard/rootdir/resources/${APP_NAME}.ecf svneol=native#text/xml
 Src/contrib/tools/ewf/estudio_wizard/rootdir/resources/ewf.ini -text
 Src/contrib/tools/ewf/estudio_wizard/rootdir/resources/www/index.html svneol=native#text/xml
 Src/examples/Eiffel2Java/README -text
