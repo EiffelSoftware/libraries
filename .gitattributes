@@ -2108,13 +2108,6 @@ Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/win64/msc/libfcgi.dll -te
 Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/win64/msc/libfcgi.lib -text
 Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/windows/msc/libfcgi.dll -text
 Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/windows/msc/libfcgi.lib -text
-Src/contrib/tools/ewf/estudio_wizard/ewf_ise_wizard-safe.ecf svneol=native#text/xml
-Src/contrib/tools/ewf/estudio_wizard/lib/wizard/estudio_console_wizard-safe.ecf svneol=native#text/xml
-Src/contrib/tools/ewf/estudio_wizard/lib/wizard/estudio_gui_wizard-safe.ecf svneol=native#text/xml
-Src/contrib/tools/ewf/estudio_wizard/rootdir/ewf.dsc -text
-Src/contrib/tools/ewf/estudio_wizard/rootdir/resources/${APP_NAME}.ecf svneol=native#text/xml
-Src/contrib/tools/ewf/estudio_wizard/rootdir/resources/ewf.ini -text
-Src/contrib/tools/ewf/estudio_wizard/rootdir/resources/www/index.html svneol=native#text/xml
 Src/examples/Eiffel2Java/README -text
 Src/examples/Eiffel2Java/test.class -text
 Src/examples/cURL/upload_and_read_function/eiffel_tower.jpg -text
