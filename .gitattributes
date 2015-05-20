@@ -2930,6 +2930,7 @@ Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module-safe.ecf
 Src/unstable/library/web/cms/examples/demo/site/config/application_configuration.json -text
 Src/unstable/library/web/cms/examples/demo/site/scripts/core.sql -text
 Src/unstable/library/web/cms/examples/demo/site/scripts/node.sql -text
+Src/unstable/library/web/cms/examples/demo/site/scripts/user.sql -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/css/node.css -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/css/style.css -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/js/jquery-1.10.2.min.map -text
