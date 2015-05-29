@@ -2393,6 +2393,7 @@ Src/framework/eiffel_llvm/LICENCE.md -text
 Src/framework/eiffel_llvm/README.txt -text
 Src/framework/eiffel_llvm/library/eiffel_llvm.ecf svneol=native#text/xml
 Src/framework/eiffel_llvm/library/testing/eiffel_llvm_tests.ecf svneol=native#text/xml
+Src/framework/eiffel_llvm/tutorial/kaleidoscope/chapter_1/kaleidoscope.ecf svneol=native#text/xml
 Src/framework/emitter_loader/emitter_loader.lic -text
 Src/framework/environment/environment.lic -text
 Src/framework/file_formats/ini.lic -text
