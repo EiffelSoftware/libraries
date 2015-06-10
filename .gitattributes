@@ -2980,6 +2980,7 @@ Src/unstable/library/web/cms/examples/demo/site/scripts/node.sql -text
 Src/unstable/library/web/cms/examples/demo/site/scripts/user.sql -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/css/node.css -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/css/style.css -text
+Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/favicon.ico -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/js/jquery-1.10.2.min.map -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/scss/node.scss -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/scss/style.scss -text
