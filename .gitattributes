@@ -2110,6 +2110,15 @@ Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite-safe.ec
 Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/wikitext/tests/tests-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/communication/mediatype/collection+json/doc/collectionjson.png -text
+Src/contrib/library/web/communication/oauth/cypress/consumer/apis/apis.ecf svneol=native#text/xml
+Src/contrib/library/web/communication/oauth/cypress/consumer/apis/license.lic -text
+Src/contrib/library/web/communication/oauth/cypress/consumer/cypress_consumer-safe.ecf svneol=native#text/xml
+Src/contrib/library/web/communication/oauth/cypress/consumer/examples/examples.ecf svneol=native#text/xml
+Src/contrib/library/web/communication/oauth/cypress/consumer/examples/license.lic -text
+Src/contrib/library/web/communication/oauth/cypress/consumer/license.lic -text
+Src/contrib/library/web/communication/oauth/cypress/consumer/tests/consumer-tests.rc -text
+Src/contrib/library/web/communication/oauth/cypress/consumer/tests/license.lic -text
+Src/contrib/library/web/communication/oauth/cypress/consumer/tests/tests-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/license.lic -text
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/src/httpd/httpd-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/src/httpd/httpd.ecf svneol=native#text/xml
