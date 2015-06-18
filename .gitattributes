@@ -2965,6 +2965,9 @@ Src/unstable/library/persistency/abel/test/eweasel/tests/list001/Ace -text
 Src/unstable/library/persistency/abel/test/readme.txt -text
 Src/unstable/library/persistency/database/sqlite3/README -text
 Src/unstable/library/persistency/database/sqlite3/license.lic -text
+Src/unstable/library/scoop_patterns/examples/all_examples.ecf svneol=native#text/xml
+Src/unstable/library/scoop_patterns/library/scoop_patterns.ecf svneol=native#text/xml
+Src/unstable/library/scoop_patterns/tests/cp_tests.ecf svneol=native#text/xml
 Src/unstable/library/text/encryption/crypto/license.lic -text
 Src/unstable/library/text/encryption/crypto/tests/license.lic -text
 Src/unstable/library/text/text_filter/testing/testing-safe.ecf svneol=native#text/xml
