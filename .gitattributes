@@ -1488,6 +1488,15 @@ Src/contrib/examples/web/ewf/tutorial/step_2/hello/alternatives/message/hello_wi
 Src/contrib/examples/web/ewf/upload_image/htdocs/ewf.jpg -text
 Src/contrib/examples/web/ewf/upload_image/htdocs/favicon.ico -text
 Src/contrib/examples/web/ewf/upload_image/htdocs/files/do_not_remove -text
+Src/contrib/library/authentication/oauth/cypress/consumer-safe.ecf svneol=native#text/xml
+Src/contrib/library/authentication/oauth/cypress/consumer/apis/apis.ecf svneol=native#text/xml
+Src/contrib/library/authentication/oauth/cypress/consumer/apis/license.lic -text
+Src/contrib/library/authentication/oauth/cypress/consumer/examples/examples.ecf svneol=native#text/xml
+Src/contrib/library/authentication/oauth/cypress/consumer/examples/license.lic -text
+Src/contrib/library/authentication/oauth/cypress/consumer/license.lic -text
+Src/contrib/library/authentication/oauth/cypress/consumer/tests/consumer-tests.rc -text
+Src/contrib/library/authentication/oauth/cypress/consumer/tests/license.lic -text
+Src/contrib/library/authentication/oauth/cypress/consumer/tests/tests-safe.ecf svneol=native#text/xml
 Src/contrib/library/gobo/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/doc/argument/alternate.xml svneol=native#text/xml
 Src/contrib/library/gobo/doc/argument/build.eant svneol=native#text/xml
