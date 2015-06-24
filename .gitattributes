@@ -3025,6 +3025,7 @@ Src/unstable/library/web/cms/library/configuration/config.ecf svneol=native#text
 Src/unstable/library/web/cms/library/configuration/license.lic -text
 Src/unstable/library/web/cms/library/configuration/tests/config_tests-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/configuration/tests/config_tests.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/library/email/email-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/layout/layout-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/layout/layout.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/license.lic -text
