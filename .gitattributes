@@ -2248,6 +2248,7 @@ Src/examples/ribbon/all_widgets_complex/ribbon_1.bml -text
 Src/examples/ribbon/all_widgets_complex/ribbon_project.er -text
 Src/examples/runtime/logging/rollingfilelog/rollingfilelog_example-safe.ecf svneol=native#text/xml
 Src/examples/runtime/logging/rollingfilelog/rollingfilelog_example.ecf svneol=native#text/xml
+Src/examples/scoop/email_client/project.ecf svneol=native#text/xml
 Src/examples/thread/fancy/fancy.ico svneol=native#unset
 Src/examples/vision2/edraw/nocolor.png -text
 Src/examples/vision2/edraw/toolbar/arc.png -text
