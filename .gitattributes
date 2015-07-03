@@ -3049,7 +3049,6 @@ Src/unstable/library/web/cms/modules/auth/site/mail_templates/account_new_passwo
 Src/unstable/library/web/cms/modules/auth/site/mail_templates/account_re_activation.html svneol=native#text/xml
 Src/unstable/library/web/cms/modules/auth/site/mail_templates/account_welcome.html svneol=native#text/xml
 Src/unstable/library/web/cms/modules/basic_auth/basic_auth-safe.ecf svneol=native#text/xml
-Src/unstable/library/web/cms/modules/basic_auth/basic_auth.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/blog/cms_blog_module-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/blog/site/files/css/blog.css -text
 Src/unstable/library/web/cms/modules/blog/site/files/scss/blog.scss -text
