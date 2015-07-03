@@ -2991,7 +2991,6 @@ Src/unstable/library/web/cms/cms-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/cms.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/demo-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/demo.ini -text
-Src/unstable/library/web/cms/examples/demo/modules/blog/cms_blog_module-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/config/demo.json -text
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/auth.json -text
