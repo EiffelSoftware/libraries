@@ -2993,6 +2993,8 @@ Src/unstable/library/web/cms/examples/demo/demo-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/demo.ini -text
 Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/config/demo.json -text
+Src/unstable/library/web/cms/examples/demo/site/modules/admin/files/css/admin.css -text
+Src/unstable/library/web/cms/examples/demo/site/modules/admin/files/scss/admin.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/auth.json -text
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/account_activation.html svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/account_new_password.html svneol=native#text/xml
@@ -3041,6 +3043,9 @@ Src/unstable/library/web/cms/library/persistence/store_mysql/store_mysql-safe.ec
 Src/unstable/library/web/cms/library/persistence/store_mysql/tests/tests.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/persistence/store_odbc/store_odbc-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/persistence/store_odbc/tests/tests-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/admin/admin-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/admin/site/files/css/admin.css -text
+Src/unstable/library/web/cms/modules/admin/site/files/scss/admin.scss -text
 Src/unstable/library/web/cms/modules/auth/auth-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/auth/site/auth.json -text
 Src/unstable/library/web/cms/modules/auth/site/mail_templates/account_activation.html svneol=native#text/xml
