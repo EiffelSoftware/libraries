@@ -3069,3 +3069,4 @@ Src/unstable/library/web/cms/modules/openid/site/scripts/openid_consumers.sql -t
 Src/unstable/library/web/cms/modules/openid/site/scripts/openid_consumers_initialize.sql -text
 Src/unstable/library/web/cms/modules/openid/site/scripts/openid_items.sql -text
 Src/unstable/library/web/cms/modules/recent_changes/recent_changes-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/recent_changes/recent_changes.ecf svneol=native#text/xml
