@@ -3021,6 +3021,7 @@ Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/acco
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/account_welcome.html svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/modules/blog/files/css/blog.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/blog/files/scss/blog.scss -text
+Src/unstable/library/web/cms/examples/demo/site/modules/feed_aggregator/config/feeds.json -text
 Src/unstable/library/web/cms/examples/demo/site/modules/feed_aggregator/files/css/feed_aggregator.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/feed_aggregator/files/scss/feed_aggregator.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/node/files/css/node.css -text
@@ -3078,6 +3079,7 @@ Src/unstable/library/web/cms/modules/blog/cms_blog_module-safe.ecf svneol=native
 Src/unstable/library/web/cms/modules/blog/site/files/css/blog.css -text
 Src/unstable/library/web/cms/modules/blog/site/files/scss/blog.scss -text
 Src/unstable/library/web/cms/modules/feed_aggregator/feed_aggregator-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/feed_aggregator/site/config/feeds.json.example -text
 Src/unstable/library/web/cms/modules/feed_aggregator/site/files/css/feed_aggregator.css -text
 Src/unstable/library/web/cms/modules/feed_aggregator/site/files/scss/feed_aggregator.scss -text
 Src/unstable/library/web/cms/modules/node/node-safe.ecf svneol=native#text/xml
