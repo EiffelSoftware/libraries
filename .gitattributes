@@ -2058,6 +2058,11 @@ Src/contrib/library/graphic/toolkit/wex/examples/wex/Framework_example/app.ico s
 Src/contrib/library/graphic/toolkit/wex/examples/wex/MCI_Splash/APP.ICO svneol=native#unset
 Src/contrib/library/network/authentication/http_authorization/http_authorization-safe.ecf svneol=native#text/xml
 Src/contrib/library/network/authentication/http_authorization/http_authorization.ecf svneol=native#text/xml
+Src/contrib/library/network/http_client/libcurl_http_client-safe.ecf svneol=native#text/xml
+Src/contrib/library/network/http_client/libcurl_http_client.ecf svneol=native#text/xml
+Src/contrib/library/network/http_client/net_http_client-safe.ecf svneol=native#text/xml
+Src/contrib/library/network/http_client/net_http_client.ecf svneol=native#text/xml
+Src/contrib/library/network/http_client/tests/logo.jpg -text
 Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/demo1/img/gradient_light.jpg -text
 Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/demo2/img/background.jpg -text
 Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/demo2/img/button_bg.jpg -text
