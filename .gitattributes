@@ -3066,6 +3066,7 @@ Src/unstable/library/web/cms/library/model/license.lic -text
 Src/unstable/library/web/cms/library/persistence/mysql/scripts/core.sql -text
 Src/unstable/library/web/cms/library/persistence/mysql/scripts/node.sql -text
 Src/unstable/library/web/cms/library/persistence/mysql/scripts/user.sql -text
+Src/unstable/library/web/cms/library/persistence/sqlite3/sqlite3-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/persistence/store_mysql/store_mysql-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/persistence/store_mysql/tests/tests.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/persistence/store_odbc/store_odbc-safe.ecf svneol=native#text/xml
@@ -3101,3 +3102,6 @@ Src/unstable/library/web/cms/modules/openid/site/scripts/openid_consumers_initia
 Src/unstable/library/web/cms/modules/openid/site/scripts/openid_items.sql -text
 Src/unstable/library/web/cms/modules/recent_changes/recent_changes-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/recent_changes/recent_changes.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/tools/roc/license.lic -text
+Src/unstable/library/web/cms/tools/roc/roc.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/tools/roc/roc.rc -text
