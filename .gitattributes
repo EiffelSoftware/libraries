@@ -3102,6 +3102,7 @@ Src/unstable/library/web/cms/modules/feed_aggregator/feed_aggregator-safe.ecf sv
 Src/unstable/library/web/cms/modules/feed_aggregator/site/config/feeds.json.example -text
 Src/unstable/library/web/cms/modules/feed_aggregator/site/files/css/feed_aggregator.css -text
 Src/unstable/library/web/cms/modules/feed_aggregator/site/files/scss/feed_aggregator.scss -text
+Src/unstable/library/web/cms/modules/google_search/google_search-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/google_search/google_search.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/google_search/site/config/google_search.json -text
 Src/unstable/library/web/cms/modules/node/node-safe.ecf svneol=native#text/xml
