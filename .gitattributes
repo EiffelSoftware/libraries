@@ -3039,6 +3039,10 @@ Src/unstable/library/web/cms/examples/demo/site/modules/oauth20/scripts/oauth2_c
 Src/unstable/library/web/cms/examples/demo/site/modules/openid/scripts/openid_consumers.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/openid/scripts/openid_consumers_initialize.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/openid/scripts/openid_items.sql -text
+Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/files/css/taxonomy.css -text
+Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/files/scss/taxonomy.scss -text
+Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/scripts/install.sql -text
+Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/scripts/uninstall.sql -text
 Src/unstable/library/web/cms/examples/demo/site/scripts/core.sql -text
 Src/unstable/library/web/cms/examples/demo/site/scripts/user.sql -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/css/blog.css -text
@@ -3120,6 +3124,12 @@ Src/unstable/library/web/cms/modules/openid/site/scripts/openid_consumers_initia
 Src/unstable/library/web/cms/modules/openid/site/scripts/openid_items.sql -text
 Src/unstable/library/web/cms/modules/recent_changes/recent_changes-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/recent_changes/recent_changes.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/taxonomy/site/files/css/taxonomy.css -text
+Src/unstable/library/web/cms/modules/taxonomy/site/files/scss/taxonomy.scss -text
+Src/unstable/library/web/cms/modules/taxonomy/site/scripts/install.sql -text
+Src/unstable/library/web/cms/modules/taxonomy/site/scripts/uninstall.sql -text
+Src/unstable/library/web/cms/modules/taxonomy/taxonomy-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/taxonomy/taxonomy.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/tools/roc/license.lic -text
 Src/unstable/library/web/cms/tools/roc/roc.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/tools/roc/roc.rc -text
