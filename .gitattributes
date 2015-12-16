@@ -3039,6 +3039,7 @@ Src/unstable/library/web/cms/examples/demo/site/modules/oauth20/scripts/oauth2_c
 Src/unstable/library/web/cms/examples/demo/site/modules/openid/scripts/openid_consumers.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/openid/scripts/openid_consumers_initialize.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/openid/scripts/openid_items.sql -text
+Src/unstable/library/web/cms/examples/demo/site/modules/session_auth/scripts/session_auth_table.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/files/css/taxonomy.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/files/scss/taxonomy.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/scripts/install.sql -text
