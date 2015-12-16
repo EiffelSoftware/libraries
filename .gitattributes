@@ -3124,6 +3124,7 @@ Src/unstable/library/web/cms/modules/openid/site/scripts/openid_consumers_initia
 Src/unstable/library/web/cms/modules/openid/site/scripts/openid_items.sql -text
 Src/unstable/library/web/cms/modules/recent_changes/recent_changes-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/recent_changes/recent_changes.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/session_auth/cms_session_auth-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/taxonomy/site/files/css/taxonomy.css -text
 Src/unstable/library/web/cms/modules/taxonomy/site/files/scss/taxonomy.scss -text
 Src/unstable/library/web/cms/modules/taxonomy/site/scripts/install.sql -text
