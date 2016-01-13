@@ -2921,6 +2921,7 @@ Src/library/runtime/logging/doc/Arch_Design_and_Impl.docx -text
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.pdf -text svneol=unset#application/pdf
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.vsd -text
 Src/library/store/all_store.ecf svneol=native#text/xml
+Src/library/store/dbms/rdbms/mysql/Clib/build.eant svneol=native#text/xml
 Src/library/store/test/test_results/oracle_results -text
 Src/library/text/parser/xml/parser/callbacks/README.TXT -text
 Src/library/text/parser/xml/tree/README.TXT -text
