@@ -3035,6 +3035,9 @@ Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/acco
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/admin_account_evaluation.html svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/modules/blog/files/css/blog.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/blog/files/scss/blog.scss -text
+Src/unstable/library/web/cms/examples/demo/site/modules/contact/config/contact.json -text
+Src/unstable/library/web/cms/examples/demo/site/modules/contact/files/css/contact.css -text
+Src/unstable/library/web/cms/examples/demo/site/modules/contact/files/scss/contact.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/feed_aggregator/config/feeds.json -text
 Src/unstable/library/web/cms/examples/demo/site/modules/feed_aggregator/files/css/feed_aggregator.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/feed_aggregator/files/scss/feed_aggregator.scss -text
@@ -3114,6 +3117,10 @@ Src/unstable/library/web/cms/modules/basic_auth/basic_auth-safe.ecf svneol=nativ
 Src/unstable/library/web/cms/modules/blog/cms_blog_module-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/blog/site/files/css/blog.css -text
 Src/unstable/library/web/cms/modules/blog/site/files/scss/blog.scss -text
+Src/unstable/library/web/cms/modules/contact/contact-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/contact/site/config/contact.json -text
+Src/unstable/library/web/cms/modules/contact/site/files/css/contact.css -text
+Src/unstable/library/web/cms/modules/contact/site/files/scss/contact.scss -text
 Src/unstable/library/web/cms/modules/feed_aggregator/feed_aggregator-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/feed_aggregator/site/config/feeds.json.example -text
 Src/unstable/library/web/cms/modules/feed_aggregator/site/files/css/feed_aggregator.css -text
@@ -3124,6 +3131,7 @@ Src/unstable/library/web/cms/modules/google_search/site/config/google_search.jso
 Src/unstable/library/web/cms/modules/node/node-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/node/node.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/node/site/files/css/node.css -text
+Src/unstable/library/web/cms/modules/node/site/files/scss/node.css -text
 Src/unstable/library/web/cms/modules/node/site/files/scss/node.scss -text
 Src/unstable/library/web/cms/modules/node/site/scripts/node.sql -text
 Src/unstable/library/web/cms/modules/oauth20/oauth20-safe.ecf svneol=native#text/xml
@@ -3135,6 +3143,7 @@ Src/unstable/library/web/cms/modules/openid/site/scripts/openid_consumers_initia
 Src/unstable/library/web/cms/modules/openid/site/scripts/openid_items.sql -text
 Src/unstable/library/web/cms/modules/recent_changes/recent_changes-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/recent_changes/recent_changes.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/seo/seo-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/session_auth/cms_session_auth-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/taxonomy/site/files/css/taxonomy.css -text
 Src/unstable/library/web/cms/modules/taxonomy/site/files/scss/taxonomy.scss -text
