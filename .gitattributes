@@ -3099,6 +3099,7 @@ Src/unstable/library/web/cms/library/recaptcha/license.lic -text
 Src/unstable/library/web/cms/library/recaptcha/recaptcha-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/recaptcha/recaptcha.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/library/recaptcha/test/test.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/license.lic -text
 Src/unstable/library/web/cms/modules/admin/admin-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/admin/site/files/css/admin.css -text
 Src/unstable/library/web/cms/modules/admin/site/files/scss/admin.scss -text
