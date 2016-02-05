@@ -75,6 +75,10 @@ Src/framework/code_analysis/tests/*.log
 Src/framework/code_analysis/tests/EIFGENs
 Src/framework/code_analysis/tests/log.txt
 Src/framework/code_analysis/tests/test_output.txt
+Src/framework/code_analysis/void_safe_tests/*.log
+Src/framework/code_analysis/void_safe_tests/EIFGENs
+Src/framework/code_analysis/void_safe_tests/log.txt
+Src/framework/code_analysis/void_safe_tests/test_output.txt
 Src/framework/parser/parser/output.txt
 Src/framework/settable_types/EIFGENs
 Src/framework/web/xebra/c_projects/.project
