@@ -667,6 +667,8 @@ Src/C_library/curl/tests/testcurl.html -text
 Src/C_library/curl/tests/testcurl.pdf -text
 Src/C_library/curl/tests/testcurl.pl -text
 Src/C_library/curl/tests/valgrind.pm -text
+Src/C_library/libpng/clibs_libpng-safe.ecf svneol=native#text/xml
+Src/C_library/libpng/clibs_libpng.ecf svneol=native#text/xml
 Src/C_library/libpng/contrib/visupng/VisualPng.ico svneol=native#unset
 Src/C_library/libpng/pngbar.jpg svneol=native#unset
 Src/C_library/libpng/projects/beos/x86-shared.proj svneol=native#unset
@@ -1469,6 +1471,8 @@ Src/C_library/openssl/util/sp-diff.pl -text
 Src/C_library/openssl/util/src-dep.pl -text
 Src/C_library/openssl/util/ssleay.num -text
 Src/C_library/openssl/util/tab_num.pl -text
+Src/C_library/zlib/clibs_zlib-safe.ecf svneol=native#text/xml
+Src/C_library/zlib/clibs_zlib.ecf svneol=native#text/xml
 Src/C_library/zlib/contrib/blast/test.pk svneol=native#unset
 Src/C_library/zlib/contrib/puff/zeros.raw svneol=native#unset
 Src/contrib/examples/web/ewf/debug/debug.ecf svneol=native#text/xml
