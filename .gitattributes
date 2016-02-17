@@ -3028,6 +3028,7 @@ Src/unstable/library/web/cms/examples/demo/demo.ini -text
 Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/config/blocks.ini -text
 Src/unstable/library/web/cms/examples/demo/site/config/demo.json -text
+Src/unstable/library/web/cms/examples/demo/site/files/uploads/2012-05-15-12.47.14.jpg -text
 Src/unstable/library/web/cms/examples/demo/site/modules/admin/files/css/admin.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/admin/files/scss/admin.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/auth.json -text
@@ -3050,6 +3051,13 @@ Src/unstable/library/web/cms/examples/demo/site/modules/contact/files/scss/conta
 Src/unstable/library/web/cms/examples/demo/site/modules/feed_aggregator/config/feeds.json.example -text
 Src/unstable/library/web/cms/examples/demo/site/modules/feed_aggregator/files/css/feed_aggregator.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/feed_aggregator/files/scss/feed_aggregator.scss -text
+Src/unstable/library/web/cms/examples/demo/site/modules/files/files/css/files.css -text
+Src/unstable/library/web/cms/examples/demo/site/modules/files/files/img/file-logo.png -text
+Src/unstable/library/web/cms/examples/demo/site/modules/files/files/js/dropzone.css -text
+Src/unstable/library/web/cms/examples/demo/site/modules/files/files/js/src/basic.scss -text
+Src/unstable/library/web/cms/examples/demo/site/modules/files/files/js/src/dropzone.coffee -text
+Src/unstable/library/web/cms/examples/demo/site/modules/files/files/js/src/dropzone.scss -text
+Src/unstable/library/web/cms/examples/demo/site/modules/files/files/scss/files.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/google_search/config/google_search.json -text
 Src/unstable/library/web/cms/examples/demo/site/modules/node/files/css/node.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/node/files/scss/node.scss -text
@@ -3136,6 +3144,15 @@ Src/unstable/library/web/cms/modules/feed_aggregator/feed_aggregator-safe.ecf sv
 Src/unstable/library/web/cms/modules/feed_aggregator/site/config/feeds.json.example -text
 Src/unstable/library/web/cms/modules/feed_aggregator/site/files/css/feed_aggregator.css -text
 Src/unstable/library/web/cms/modules/feed_aggregator/site/files/scss/feed_aggregator.scss -text
+Src/unstable/library/web/cms/modules/files/files-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/files/files.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/files/site/files/css/files.css -text
+Src/unstable/library/web/cms/modules/files/site/files/img/file-logo.png -text
+Src/unstable/library/web/cms/modules/files/site/files/js/dropzone.css -text
+Src/unstable/library/web/cms/modules/files/site/files/js/src/basic.scss -text
+Src/unstable/library/web/cms/modules/files/site/files/js/src/dropzone.coffee -text
+Src/unstable/library/web/cms/modules/files/site/files/js/src/dropzone.scss -text
+Src/unstable/library/web/cms/modules/files/site/files/scss/files.scss -text
 Src/unstable/library/web/cms/modules/google_search/google_search-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/google_search/google_search.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/google_search/site/config/google_search.json -text
