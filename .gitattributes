@@ -3048,6 +3048,7 @@ Src/unstable/library/web/cms/examples/demo/site/modules/blog/scripts/install.sql
 Src/unstable/library/web/cms/examples/demo/site/modules/contact/config/contact.json -text
 Src/unstable/library/web/cms/examples/demo/site/modules/contact/files/css/contact.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/contact/files/scss/contact.scss -text
+Src/unstable/library/web/cms/examples/demo/site/modules/custom_block/config/custom_block.json -text
 Src/unstable/library/web/cms/examples/demo/site/modules/feed_aggregator/config/feeds.json.example -text
 Src/unstable/library/web/cms/examples/demo/site/modules/feed_aggregator/files/css/feed_aggregator.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/feed_aggregator/files/scss/feed_aggregator.scss -text
@@ -3140,6 +3141,10 @@ Src/unstable/library/web/cms/modules/contact/contact-safe.ecf svneol=native#text
 Src/unstable/library/web/cms/modules/contact/site/config/contact.json -text
 Src/unstable/library/web/cms/modules/contact/site/files/css/contact.css -text
 Src/unstable/library/web/cms/modules/contact/site/files/scss/contact.scss -text
+Src/unstable/library/web/cms/modules/custom_block/custom_block-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/custom_block/custom_block.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/custom_block/site/config/custom_block.json.example -text
+Src/unstable/library/web/cms/modules/custom_block/site/templates/block_test.tpl.example -text
 Src/unstable/library/web/cms/modules/feed_aggregator/feed_aggregator-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/feed_aggregator/site/config/feeds.json.example -text
 Src/unstable/library/web/cms/modules/feed_aggregator/site/files/css/feed_aggregator.css -text
