@@ -2125,6 +2125,15 @@ Src/contrib/library/text/parser/json/library/json_gobo_extension.ecf -text svneo
 Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite-safe.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/wikitext/tests/tests-safe.ecf svneol=native#text/xml
+Src/contrib/library/utility/archive/etar/LICENSE -text
+Src/contrib/library/utility/archive/etar/doc/archive.png -text
+Src/contrib/library/utility/archive/etar/examples/minipax/license.lic -text
+Src/contrib/library/utility/archive/etar/examples/minipax/minipax.ecf svneol=native#text/xml
+Src/contrib/library/utility/archive/etar/examples/tar_ls/license.lic -text
+Src/contrib/library/utility/archive/etar/examples/tar_ls/tar_ls.ecf svneol=native#text/xml
+Src/contrib/library/utility/archive/etar/license.lic -text
+Src/contrib/library/utility/archive/etar/tar-safe.ecf svneol=native#text/xml
+Src/contrib/library/utility/archive/etar/tests/tests-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/consumer-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/consumer/apis/apis.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/consumer/apis/license.lic -text
