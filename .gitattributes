@@ -2648,6 +2648,14 @@ Src/framework/xml/gobo/license.lic -text
 Src/framework/xml/tests/license.lic -text
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
 Src/library/api_wrapper/implementation/unix/Clib/dl-config -text
+Src/library/base/elks/structures/cursors/array_iteration_cursor.e svneol=native#text/plain
+Src/library/base/elks/structures/cursors/arrayed_list_iteration_cursor.e svneol=native#text/plain
+Src/library/base/elks/structures/cursors/general_special_iteration_cursor.e svneol=native#text/plain
+Src/library/base/elks/structures/cursors/readable_indexable_iteration_cursor.e svneol=native#text/plain
+Src/library/base/elks/structures/cursors/special_iteration_cursor.e svneol=native#text/plain
+Src/library/base/elks/structures/cursors/string_32_iteration_cursor.e svneol=native#text/plain
+Src/library/base/elks/structures/cursors/string_8_iteration_cursor.e svneol=native#text/plain
+Src/library/base/elks/structures/cursors/typed_indexable_iteration_cursor.e svneol=native#text/plain
 Src/library/base/test/license.lic -text
 Src/library/base/testing/license.lic -text
 Src/library/editor/bitmaps/copy_selection.png -text
