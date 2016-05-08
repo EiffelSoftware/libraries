@@ -1776,7 +1776,6 @@ Src/contrib/library/gobo/library/argument/library.ecf svneol=native#text/xml
 Src/contrib/library/gobo/library/argument/library.xace -text svneol=native#application/xml
 Src/contrib/library/gobo/library/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/library/free_elks/build.eant svneol=native#text/xml
-Src/contrib/library/gobo/library/free_elks/library.ecf svneol=native#text/xml
 Src/contrib/library/gobo/library/free_elks/library.xace -text svneol=native#application/xml
 Src/contrib/library/gobo/library/free_elks/src/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/library/kernel.xace -text svneol=native#application/xml
