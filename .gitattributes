@@ -3131,6 +3131,7 @@ Src/library/wel/tests/graphics/32bpp.bmp -text
 Src/library/wizard/help/Clib/htmlhelp.lib -text
 Src/unstable/library/base2/todo -text
 Src/unstable/library/compression/bzip2/Readme.txt -text
+Src/unstable/library/compression/bzip2/bzip2-safe.ecf svneol=native#text/xml
 Src/unstable/library/compression/zlib/Readme.txt -text
 Src/unstable/library/compression/zlib/example/basic_functions/file_to_compress.txt -text
 Src/unstable/library/compression/zlib/example/compress/index.html -text
