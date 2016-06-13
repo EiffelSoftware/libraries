@@ -2326,6 +2326,8 @@ Src/contrib/library/web/framework/ewf/libfcgi/Clib/libfcgi/doc/fcgi-2.4.0-x64.pa
 Src/contrib/library/web/framework/ewf/libfcgi/Clib/libfcgi/libfcgi/libfcgi.mak -text
 Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/win64/msc/libfcgi.dll -text
 Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/win64/msc/libfcgi.lib -text
+Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/win64/msc_vc140/libfcgi.dll -text
+Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/win64/msc_vc140/libfcgi.lib -text
 Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/windows/msc/libfcgi.dll -text
 Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/windows/msc/libfcgi.lib -text
 Src/contrib/library/web/framework/ewf/obsolete/v0/ewsgi/connectors/libfcgi/libfcgi-safe.ecf svneol=native#text/xml
