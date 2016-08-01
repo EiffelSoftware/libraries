@@ -2279,9 +2279,46 @@ Src/contrib/library/text/parser/feed/feed-safe.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/feed/feed.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/feed/tests/tests-safe.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/examples/basic/basic.ecf svneol=native#text/xml
+Src/contrib/library/text/parser/json/examples/serialization/serialization-safe.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/library/json-safe.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/library/json.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/library/json_gobo_extension.ecf -text svneol=native#application/xml
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail1.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail10.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail11.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail12.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail13.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail14.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail15.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail16.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail17.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail18.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail19.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail2.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail20.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail21.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail22.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail23.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail24.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail25.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail26.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail27.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail28.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail29.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail3.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail30.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail31.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail32.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail33.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail4.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail5.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail6.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail7.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail8.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail9.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/pass1.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/pass2.json -text
+Src/contrib/library/text/parser/json/test/autotest/test_suite/data/pass3.json -text
 Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite-safe.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/wikitext/tests/tests-safe.ecf svneol=native#text/xml
