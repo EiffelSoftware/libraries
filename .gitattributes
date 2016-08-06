@@ -1493,6 +1493,8 @@ Src/contrib/examples/web/ewf/tutorial/step_2/hello/alternatives/message/hello_wi
 Src/contrib/examples/web/ewf/upload_image/htdocs/ewf.jpg -text
 Src/contrib/examples/web/ewf/upload_image/htdocs/favicon.ico -text
 Src/contrib/examples/web/ewf/upload_image/htdocs/files/do_not_remove -text
+Src/contrib/examples/web/ewf/websocket/websocket_app.ecf svneol=native#text/xml
+Src/contrib/examples/web/ewf/websocket/ws.ini -text
 Src/contrib/library/gobo/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/doc/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/doc/download.html svneol=native#text/xml
@@ -2361,8 +2363,6 @@ Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/lib/httpd/http
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/lib/httpd/httpd-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/lib/httpd/httpd.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/license.lic -text
-Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/src/httpd/httpd-safe.ecf svneol=native#text/xml
-Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/src/httpd/httpd.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/standalone-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/standalone.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/test_standalone-safe.ecf svneol=native#text/xml
@@ -2406,6 +2406,8 @@ Src/contrib/library/web/framework/ewf/obsolete/v0/wsf_html/wsf_html-safe.ecf svn
 Src/contrib/library/web/framework/ewf/obsolete/v0/wsf_html/wsf_html.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/connector/standalone-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/connector/standalone.ecf svneol=native#text/xml
+Src/contrib/library/web/framework/ewf/wsf/connector/standalone_websocket-safe.ecf svneol=native#text/xml
+Src/contrib/library/web/framework/ewf/wsf/connector/standalone_websocket.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/default/standalone-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/default/standalone.ecf svneol=native#text/xml
 Src/examples/Eiffel2Java/README -text
