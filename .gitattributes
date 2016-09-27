@@ -1485,10 +1485,16 @@ Src/contrib/examples/web/ewf/obsolete/v0/restbucksCRUD/client/client-safe.ecf sv
 Src/contrib/examples/web/ewf/obsolete/v0/restbucksCRUD/client/client.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/obsolete/v0/restbucksCRUD/license.lic -text
 Src/contrib/examples/web/ewf/obsolete/v0/restbucksCRUD/restbucks-safe.ecf svneol=native#text/xml
+Src/contrib/examples/web/ewf/proxy/proxy.ecf svneol=native#text/xml
+Src/contrib/examples/web/ewf/proxy/server.ini -text
 Src/contrib/examples/web/ewf/restbucksCRUD/readme.txt -text
 Src/contrib/examples/web/ewf/simple/simple.ini -text
 Src/contrib/examples/web/ewf/simple_file/404.html svneol=native#text/xml
 Src/contrib/examples/web/ewf/simple_file/ewf.png -text
+Src/contrib/examples/web/ewf/simple_ssl/simple.crt -text
+Src/contrib/examples/web/ewf/simple_ssl/simple.ini -text
+Src/contrib/examples/web/ewf/simple_ssl/simple.key -text
+Src/contrib/examples/web/ewf/simple_ssl/simple_ssl.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/tutorial/step_2/hello/alternatives/message/hello_with_execute.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/upload_image/htdocs/ewf.jpg -text
 Src/contrib/examples/web/ewf/upload_image/htdocs/favicon.ico -text
@@ -2410,6 +2416,8 @@ Src/contrib/library/web/framework/ewf/wsf/connector/standalone_websocket-safe.ec
 Src/contrib/library/web/framework/ewf/wsf/connector/standalone_websocket.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/default/standalone-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/default/standalone.ecf svneol=native#text/xml
+Src/contrib/library/web/framework/ewf/wsf_proxy/wsf_proxy-safe.ecf svneol=native#text/xml
+Src/contrib/library/web/framework/ewf/wsf_proxy/wsf_proxy.ecf svneol=native#text/xml
 Src/examples/Eiffel2Java/README -text
 Src/examples/Eiffel2Java/test.class -text
 Src/examples/cURL/upload_and_read_function/eiffel_tower.jpg -text
