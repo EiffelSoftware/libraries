@@ -3157,6 +3157,9 @@ Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
 Src/library/obsolete/xml/parser/callbacks/README.TXT -text
 Src/library/obsolete/xml/tree/README.TXT -text
 Src/library/patterns/patterns-safe.ecf svneol=native#text/xml
+Src/library/process/base/base_process-safe.ecf svneol=native#text/xml
+Src/library/process/base/base_process.ecf svneol=native#text/xml
+Src/library/process/base/license.lic -text
 Src/library/ribbon/test/src/eiffelribbon1.res -text
 Src/library/ribbon/test/src/ribbon_1.bml -text
 Src/library/ribbon/test/src/ribbon_project.er -text
