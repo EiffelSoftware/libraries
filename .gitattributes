@@ -2232,6 +2232,8 @@ Src/contrib/library/network/http_client/libcurl_http_client.ecf svneol=native#te
 Src/contrib/library/network/http_client/net_http_client-safe.ecf svneol=native#text/xml
 Src/contrib/library/network/http_client/net_http_client.ecf svneol=native#text/xml
 Src/contrib/library/network/http_client/tests/logo.jpg -text
+Src/contrib/library/network/http_network/http_network-safe.ecf svneol=native#text/xml
+Src/contrib/library/network/http_network/http_network.ecf svneol=native#text/xml
 Src/contrib/library/network/protocol/imap/client/examples/library_examples.ecf svneol=native#text/xml
 Src/contrib/library/network/protocol/imap/client/src/imap_client_lib.ecf svneol=native#text/xml
 Src/contrib/library/network/protocol/imap/client/src/license.lic -text
@@ -2275,6 +2277,19 @@ Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/example/
 Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/example/psd/index.psd -text
 Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/html/images/btn_1.jpg -text
 Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/html/images/pulpit.jpg -text
+Src/contrib/library/network/websocket/client/example/ws_client/ws_client-safe.ecf svneol=native#text/xml
+Src/contrib/library/network/websocket/client/web_socket_client-safe.ecf svneol=native#text/xml
+Src/contrib/library/network/websocket/client/web_socket_client.ecf svneol=native#text/xml
+Src/contrib/library/network/websocket/client/www/index.html svneol=native#text/xml
+Src/contrib/library/network/websocket/protocol/web_socket_protocol-safe.ecf svneol=native#text/xml
+Src/contrib/library/network/websocket/protocol/web_socket_protocol.ecf svneol=native#text/xml
+Src/contrib/library/network/websocket/server/example/echo_websocket_server/ca.crt -text
+Src/contrib/library/network/websocket/server/example/echo_websocket_server/ca.key -text
+Src/contrib/library/network/websocket/server/example/echo_websocket_server/echo_websocket_server-safe.ecf svneol=native#text/xml
+Src/contrib/library/network/websocket/server/example/echo_websocket_server/webroot/websocketclient.html svneol=native#text/xml
+Src/contrib/library/network/websocket/server/example/echo_websocket_server/webroot/wesocketmedia.html svneol=native#text/xml
+Src/contrib/library/network/websocket/server/websocket_server-safe.ecf svneol=native#text/xml
+Src/contrib/library/network/websocket/server/websocket_server.ecf svneol=native#text/xml
 Src/contrib/library/print/ael_printf/AEL_Printf.pdf -text svneol=unset#unset
 Src/contrib/library/print/ael_printf/Amalasoft[!!-~]Printf.docx -text
 Src/contrib/library/runtime/process/eclop/doc/eclop.pdf -text
@@ -2364,15 +2379,13 @@ Src/contrib/library/web/communication/mediatype/hal/test/min_hal.json -text
 Src/contrib/library/web/communication/mediatype/hal/test/min_hal_document.json -text
 Src/contrib/library/web/communication/mediatype/hal/test/min_hal_wrong_document.json -text
 Src/contrib/library/web/communication/mediatype/hal/test/test_suite.ecf svneol=native#text/xml
-Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/lib/httpd/http_network-safe.ecf svneol=native#text/xml
-Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/lib/httpd/http_network.ecf svneol=native#text/xml
-Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/lib/httpd/httpd-safe.ecf svneol=native#text/xml
-Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/lib/httpd/httpd.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/license.lic -text
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/standalone-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/standalone.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/test_standalone-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/default.7z -text
+Src/contrib/library/web/framework/ewf/httpd/httpd-safe.ecf svneol=native#text/xml
+Src/contrib/library/web/framework/ewf/httpd/httpd.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/libfcgi/Clib/libfcgi/doc/fcgi-2.4.0-x64.patch -text
 Src/contrib/library/web/framework/ewf/libfcgi/Clib/libfcgi/libfcgi/libfcgi.mak -text
 Src/contrib/library/web/framework/ewf/libfcgi/spec/lib/win64/msc/libfcgi.dll -text
