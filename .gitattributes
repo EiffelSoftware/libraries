@@ -1476,6 +1476,7 @@ Src/C_library/zlib/clibs_zlib.ecf svneol=native#text/xml
 Src/C_library/zlib/contrib/blast/test.pk svneol=native#unset
 Src/C_library/zlib/contrib/puff/zeros.raw svneol=native#unset
 Src/contrib/examples/web/ewf/debug/debug.ecf svneol=native#text/xml
+Src/contrib/examples/web/ewf/debug/debug.ini -text
 Src/contrib/examples/web/ewf/desktop_app/README.md -text
 Src/contrib/examples/web/ewf/desktop_app/files/index.html -text
 Src/contrib/examples/web/ewf/desktop_app/home.html -text
@@ -1491,14 +1492,16 @@ Src/contrib/examples/web/ewf/restbucksCRUD/readme.txt -text
 Src/contrib/examples/web/ewf/simple/simple.ini -text
 Src/contrib/examples/web/ewf/simple_file/404.html svneol=native#text/xml
 Src/contrib/examples/web/ewf/simple_file/ewf.png -text
-Src/contrib/examples/web/ewf/simple_ssl/simple.crt -text
+Src/contrib/examples/web/ewf/simple_ssl/ca.crt -text
+Src/contrib/examples/web/ewf/simple_ssl/ca.key -text
 Src/contrib/examples/web/ewf/simple_ssl/simple.ini -text
-Src/contrib/examples/web/ewf/simple_ssl/simple.key -text
 Src/contrib/examples/web/ewf/simple_ssl/simple_ssl.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/tutorial/step_2/hello/alternatives/message/hello_with_execute.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/upload_image/htdocs/ewf.jpg -text
 Src/contrib/examples/web/ewf/upload_image/htdocs/favicon.ico -text
 Src/contrib/examples/web/ewf/upload_image/htdocs/files/do_not_remove -text
+Src/contrib/examples/web/ewf/websocket/ca.crt -text
+Src/contrib/examples/web/ewf/websocket/ca.key -text
 Src/contrib/examples/web/ewf/websocket/websocket_app.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/websocket/ws.ini -text
 Src/contrib/library/gobo/build.eant svneol=native#text/xml
