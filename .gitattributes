@@ -1492,6 +1492,7 @@ Src/contrib/examples/web/ewf/restbucksCRUD/readme.txt -text
 Src/contrib/examples/web/ewf/simple/simple.ini -text
 Src/contrib/examples/web/ewf/simple_file/404.html svneol=native#text/xml
 Src/contrib/examples/web/ewf/simple_file/ewf.png -text
+Src/contrib/examples/web/ewf/simple_file/service.ini -text
 Src/contrib/examples/web/ewf/simple_ssl/simple_ssl.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/tutorial/step_2/hello/alternatives/message/hello_with_execute.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/upload_image/htdocs/ewf.jpg -text
