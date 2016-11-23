@@ -1480,6 +1480,7 @@ Src/contrib/examples/web/ewf/debug/debug.ini -text
 Src/contrib/examples/web/ewf/desktop_app/README.md -text
 Src/contrib/examples/web/ewf/desktop_app/files/index.html -text
 Src/contrib/examples/web/ewf/desktop_app/home.html -text
+Src/contrib/examples/web/ewf/filter/filter.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/obsolete/v0/filter/filter-safe.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/obsolete/v0/filter/filter.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/obsolete/v0/filter/license.lic -text
@@ -1491,6 +1492,7 @@ Src/contrib/examples/web/ewf/obsolete/v0/restbucksCRUD/restbucks.ecf svneol=nati
 Src/contrib/examples/web/ewf/proxy/proxy.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/proxy/server.ini -text
 Src/contrib/examples/web/ewf/restbucksCRUD/readme.txt -text
+Src/contrib/examples/web/ewf/restbucksCRUD/restbucks.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/simple/simple.ini -text
 Src/contrib/examples/web/ewf/simple_file/404.html svneol=native#text/xml
 Src/contrib/examples/web/ewf/simple_file/ewf.png -text
@@ -2286,6 +2288,7 @@ Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/example/
 Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/html/images/btn_1.jpg -text
 Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/html/images/pulpit.jpg -text
 Src/contrib/library/network/websocket/client/example/ws_client/ws_client-safe.ecf svneol=native#text/xml
+Src/contrib/library/network/websocket/client/example/ws_client/ws_client.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/client/web_socket_client-safe.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/client/web_socket_client.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/client/www/index.html svneol=native#text/xml
@@ -2294,8 +2297,10 @@ Src/contrib/library/network/websocket/protocol/web_socket_protocol.ecf svneol=na
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/ca.crt -text
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/ca.key -text
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/echo_websocket_server-safe.ecf svneol=native#text/xml
+Src/contrib/library/network/websocket/server/example/echo_websocket_server/echo_websocket_server.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/webroot/websocketclient.html svneol=native#text/xml
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/webroot/wesocketmedia.html svneol=native#text/xml
+Src/contrib/library/network/websocket/server/test/test_server.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/server/websocket_server-safe.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/server/websocket_server.ecf svneol=native#text/xml
 Src/contrib/library/print/ael_printf/AEL_Printf.pdf -text svneol=unset#unset
@@ -2309,6 +2314,7 @@ Src/contrib/library/text/encryption/eel/src/ec/ec_domain_parameters.e.orig -text
 Src/contrib/library/text/parser/feed/feed-safe.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/feed/feed.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/feed/tests/tests-safe.ecf svneol=native#text/xml
+Src/contrib/library/text/parser/feed/tests/tests.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/examples/basic/basic.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/examples/serialization/serialization-safe.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/examples/serialization/serialization.ecf svneol=native#text/xml
@@ -2454,6 +2460,7 @@ Src/contrib/library/web/framework/ewf/wsf/connector/standalone_websocket.ecf svn
 Src/contrib/library/web/framework/ewf/wsf/default/openshift.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/default/standalone-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/default/standalone.ecf svneol=native#text/xml
+Src/contrib/library/web/framework/ewf/wsf/tests/echo/echo.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf_proxy/wsf_proxy-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf_proxy/wsf_proxy.ecf svneol=native#text/xml
 Src/examples/Eiffel2Java/README -text
