@@ -2733,6 +2733,7 @@ Src/framework/code_analysis/tests/template/template.e_ -text
 Src/framework/code_analysis/void_safe_tests/void_safe_tests.ecf svneol=native#text/xml
 Src/framework/code_analysis/void_safe_tests/void_safe_tests.rc -text
 Src/framework/com_light/tests/test.docx -text
+Src/framework/com_light/tests/test.ecf svneol=native#text/xml
 Src/framework/command_tunnel/command_tunnel.lic -text
 Src/framework/configuration/configuration_provider-safe.ecf svneol=native#text/xml
 Src/framework/configuration/configuration_provider.ecf svneol=native#text/xml
