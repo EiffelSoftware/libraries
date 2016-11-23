@@ -1481,11 +1481,13 @@ Src/contrib/examples/web/ewf/desktop_app/README.md -text
 Src/contrib/examples/web/ewf/desktop_app/files/index.html -text
 Src/contrib/examples/web/ewf/desktop_app/home.html -text
 Src/contrib/examples/web/ewf/obsolete/v0/filter/filter-safe.ecf svneol=native#text/xml
+Src/contrib/examples/web/ewf/obsolete/v0/filter/filter.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/obsolete/v0/filter/license.lic -text
 Src/contrib/examples/web/ewf/obsolete/v0/restbucksCRUD/client/client-safe.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/obsolete/v0/restbucksCRUD/client/client.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/obsolete/v0/restbucksCRUD/license.lic -text
 Src/contrib/examples/web/ewf/obsolete/v0/restbucksCRUD/restbucks-safe.ecf svneol=native#text/xml
+Src/contrib/examples/web/ewf/obsolete/v0/restbucksCRUD/restbucks.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/proxy/proxy.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/proxy/server.ini -text
 Src/contrib/examples/web/ewf/restbucksCRUD/readme.txt -text
@@ -1498,10 +1500,14 @@ Src/contrib/examples/web/ewf/tutorial/step_2/hello/alternatives/message/hello_wi
 Src/contrib/examples/web/ewf/upload_image/htdocs/ewf.jpg -text
 Src/contrib/examples/web/ewf/upload_image/htdocs/favicon.ico -text
 Src/contrib/examples/web/ewf/upload_image/htdocs/files/do_not_remove -text
+Src/contrib/examples/web/ewf/upload_image/upload_image.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/websocket/ca.crt -text
 Src/contrib/examples/web/ewf/websocket/ca.key -text
 Src/contrib/examples/web/ewf/websocket/websocket_app.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/websocket/ws.ini -text
+Src/contrib/examples/web/ewf_precomp/wsf-mt.ecf svneol=native#text/xml
+Src/contrib/examples/web/ewf_precomp/wsf-scoop.ecf svneol=native#text/xml
+Src/contrib/examples/web/ewf_precomp/wsf.ecf svneol=native#text/xml
 Src/contrib/library/gobo/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/doc/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/doc/download.html svneol=native#text/xml
@@ -2233,6 +2239,7 @@ Src/contrib/library/network/http_client/libcurl_http_client.ecf svneol=native#te
 Src/contrib/library/network/http_client/net_http_client-safe.ecf svneol=native#text/xml
 Src/contrib/library/network/http_client/net_http_client.ecf svneol=native#text/xml
 Src/contrib/library/network/http_client/tests/logo.jpg -text
+Src/contrib/library/network/http_client/tests/test.ecf svneol=native#text/xml
 Src/contrib/library/network/http_network/http_network-safe.ecf svneol=native#text/xml
 Src/contrib/library/network/http_network/http_network.ecf svneol=native#text/xml
 Src/contrib/library/network/protocol/imap/client/examples/library_examples.ecf svneol=native#text/xml
@@ -2304,6 +2311,7 @@ Src/contrib/library/text/parser/feed/feed.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/feed/tests/tests-safe.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/examples/basic/basic.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/examples/serialization/serialization-safe.ecf svneol=native#text/xml
+Src/contrib/library/text/parser/json/examples/serialization/serialization.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/library/json-safe.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/library/json.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/library/json_gobo_extension.ecf -text svneol=native#application/xml
@@ -2345,7 +2353,10 @@ Src/contrib/library/text/parser/json/test/autotest/test_suite/data/pass2.json -t
 Src/contrib/library/text/parser/json/test/autotest/test_suite/data/pass3.json -text
 Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite-safe.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite.ecf -text svneol=native#application/xml
+Src/contrib/library/text/parser/microdata/testing/testing.ecf svneol=native#text/xml
+Src/contrib/library/text/parser/uri_template/tests/tests.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/wikitext/tests/tests-safe.ecf svneol=native#text/xml
+Src/contrib/library/text/parser/wikitext/tests/tests.ecf svneol=native#text/xml
 Src/contrib/library/utility/archive/etar/LICENSE -text
 Src/contrib/library/utility/archive/etar/doc/archive.png -text
 Src/contrib/library/utility/archive/etar/examples/minipax/license.lic -text
@@ -2354,8 +2365,13 @@ Src/contrib/library/utility/archive/etar/examples/tar_ls/license.lic -text
 Src/contrib/library/utility/archive/etar/examples/tar_ls/tar_ls.ecf svneol=native#text/xml
 Src/contrib/library/utility/archive/etar/license.lic -text
 Src/contrib/library/utility/archive/etar/tar-safe.ecf svneol=native#text/xml
+Src/contrib/library/utility/archive/etar/tar.ecf svneol=native#text/xml
 Src/contrib/library/utility/archive/etar/tests/tests-safe.ecf svneol=native#text/xml
+Src/contrib/library/utility/archive/etar/tests/tests.ecf svneol=native#text/xml
+Src/contrib/library/utility/general/error/tests/tests.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/http_authorization/testing/testing.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/consumer-safe.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/oauth/cypress/consumer.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/consumer/apis/apis.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/consumer/apis/license.lic -text
 Src/contrib/library/web/authentication/oauth/cypress/consumer/examples/examples.ecf svneol=native#text/xml
@@ -2364,6 +2380,9 @@ Src/contrib/library/web/authentication/oauth/cypress/consumer/license.lic -text
 Src/contrib/library/web/authentication/oauth/cypress/consumer/tests/consumer-tests.rc -text
 Src/contrib/library/web/authentication/oauth/cypress/consumer/tests/license.lic -text
 Src/contrib/library/web/authentication/oauth/cypress/consumer/tests/tests-safe.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/oauth/cypress/consumer/tests/tests.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/openid/consumer/demo/demo.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/openid/consumer/tests/tests.ecf svneol=native#text/xml
 Src/contrib/library/web/communication/mediatype/collection+json/doc/collectionjson.png -text
 Src/contrib/library/web/communication/mediatype/hal/README -text
 Src/contrib/library/web/communication/mediatype/hal/doc/HAL_diagram.png -text
@@ -2384,6 +2403,7 @@ Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/license.lic -t
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/standalone-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/standalone.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/test_standalone-safe.ecf svneol=native#text/xml
+Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/test_standalone.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/default.7z -text
 Src/contrib/library/web/framework/ewf/httpd/httpd-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/httpd/httpd.ecf svneol=native#text/xml
@@ -2424,10 +2444,14 @@ Src/contrib/library/web/framework/ewf/obsolete/v0/wsf/wsf_session-safe.ecf svneo
 Src/contrib/library/web/framework/ewf/obsolete/v0/wsf/wsf_session.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/obsolete/v0/wsf_html/wsf_html-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/obsolete/v0/wsf_html/wsf_html.ecf svneol=native#text/xml
+Src/contrib/library/web/framework/ewf/text/encoder/tests/tests.ecf svneol=native#text/xml
+Src/contrib/library/web/framework/ewf/wsf/connector/all.ecf svneol=native#text/xml
+Src/contrib/library/web/framework/ewf/wsf/connector/openshift.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/connector/standalone-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/connector/standalone.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/connector/standalone_websocket-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/connector/standalone_websocket.ecf svneol=native#text/xml
+Src/contrib/library/web/framework/ewf/wsf/default/openshift.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/default/standalone-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/default/standalone.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf_proxy/wsf_proxy-safe.ecf svneol=native#text/xml
