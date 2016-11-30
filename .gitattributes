@@ -3322,8 +3322,10 @@ Src/unstable/library/web/cms/cms-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/cms.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/doc/img_diagram.png -text
 Src/unstable/library/web/cms/examples/demo/demo-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/examples/demo/demo.crt -text
 Src/unstable/library/web/cms/examples/demo/demo.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/demo.ini -text
+Src/unstable/library/web/cms/examples/demo/demo.key -text
 Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/roc.cfg -text
