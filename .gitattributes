@@ -3326,6 +3326,7 @@ Src/unstable/library/web/cms/examples/demo/demo.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/demo.ini -text
 Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/examples/demo/roc.cfg -text
 Src/unstable/library/web/cms/examples/demo/site/config/blocks.ini -text
 Src/unstable/library/web/cms/examples/demo/site/config/demo.json -text
 Src/unstable/library/web/cms/examples/demo/site/files/uploads/2012-05-15-12.47.14.jpg -text
@@ -3501,5 +3502,6 @@ Src/unstable/library/web/cms/modules/taxonomy/site/scripts/uninstall.sql -text
 Src/unstable/library/web/cms/modules/taxonomy/taxonomy-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/taxonomy/taxonomy.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/tools/roc/license.lic -text
+Src/unstable/library/web/cms/tools/roc/roc.cfg-example -text
 Src/unstable/library/web/cms/tools/roc/roc.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/tools/roc/roc.rc -text
