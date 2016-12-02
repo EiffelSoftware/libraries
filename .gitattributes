@@ -2300,7 +2300,6 @@ Src/contrib/library/network/websocket/server/example/echo_websocket_server/echo_
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/echo_websocket_server.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/webroot/websocketclient.html svneol=native#text/xml
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/webroot/wesocketmedia.html svneol=native#text/xml
-Src/contrib/library/network/websocket/server/test/test_server.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/server/websocket_server-safe.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/server/websocket_server.ecf svneol=native#text/xml
 Src/contrib/library/print/ael_printf/AEL_Printf.pdf -text svneol=unset#unset
