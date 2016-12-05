@@ -2287,7 +2287,6 @@ Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/example/
 Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/example/psd/index.psd -text
 Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/html/images/btn_1.jpg -text
 Src/contrib/library/network/server/nino/example/SimpleWebServer/webroot/html/images/pulpit.jpg -text
-Src/contrib/library/network/websocket/client/example/ws_client/ws_client-safe.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/client/example/ws_client/ws_client.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/client/web_socket_client-safe.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/client/web_socket_client.ecf svneol=native#text/xml
