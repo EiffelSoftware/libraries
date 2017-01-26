@@ -1493,6 +1493,7 @@ Src/contrib/examples/web/ewf/proxy/proxy.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/proxy/server.ini -text
 Src/contrib/examples/web/ewf/restbucksCRUD/readme.txt -text
 Src/contrib/examples/web/ewf/restbucksCRUD/restbucks.ecf svneol=native#text/xml
+Src/contrib/examples/web/ewf/restbucksCRUD/server.ini -text
 Src/contrib/examples/web/ewf/simple/simple.ini -text
 Src/contrib/examples/web/ewf/simple_file/404.html svneol=native#text/xml
 Src/contrib/examples/web/ewf/simple_file/ewf.png -text
