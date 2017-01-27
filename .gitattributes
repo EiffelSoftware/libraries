@@ -3347,6 +3347,8 @@ Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/admi
 Src/unstable/library/web/cms/examples/demo/site/modules/blog/files/css/blog.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/blog/files/scss/blog.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/blog/scripts/install.sql -text
+Src/unstable/library/web/cms/examples/demo/site/modules/comments/files/scss/comments.scss -text
+Src/unstable/library/web/cms/examples/demo/site/modules/comments/scripts/install.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/contact/config/contact.json -text
 Src/unstable/library/web/cms/examples/demo/site/modules/contact/files/css/contact.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/contact/files/scss/contact.scss -text
@@ -3365,6 +3367,7 @@ Src/unstable/library/web/cms/examples/demo/site/modules/google_search/config/goo
 Src/unstable/library/web/cms/examples/demo/site/modules/node/files/css/node.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/node/files/scss/node.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/node/scripts/node.sql -text
+Src/unstable/library/web/cms/examples/demo/site/modules/node/scripts/page.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/oauth20/scripts/oauth2_consumers.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/oauth20/scripts/oauth2_consumers_initialize.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/openid/scripts/openid_consumers.sql -text
@@ -3375,6 +3378,7 @@ Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/files/css/taxon
 Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/files/scss/taxonomy.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/scripts/install.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/scripts/uninstall.sql -text
+Src/unstable/library/web/cms/examples/demo/site/modules/wikitext/files/scss/wikitext.scss -text
 Src/unstable/library/web/cms/examples/demo/site/scripts/core.sql -text
 Src/unstable/library/web/cms/examples/demo/site/scripts/user.sql -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/css/style.css -text
@@ -3449,6 +3453,10 @@ Src/unstable/library/web/cms/modules/blog/cms_blog_module.ecf svneol=native#text
 Src/unstable/library/web/cms/modules/blog/site/files/css/blog.css -text
 Src/unstable/library/web/cms/modules/blog/site/files/scss/blog.scss -text
 Src/unstable/library/web/cms/modules/blog/site/scripts/install.sql -text
+Src/unstable/library/web/cms/modules/comments/comments-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/comments/comments.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/comments/site/files/scss/comments.scss -text
+Src/unstable/library/web/cms/modules/comments/site/scripts/install.sql -text
 Src/unstable/library/web/cms/modules/contact/contact-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/contact/contact.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/contact/site/config/contact.json -text
@@ -3480,6 +3488,7 @@ Src/unstable/library/web/cms/modules/node/node.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/node/site/files/css/node.css -text
 Src/unstable/library/web/cms/modules/node/site/files/scss/node.scss -text
 Src/unstable/library/web/cms/modules/node/site/scripts/node.sql -text
+Src/unstable/library/web/cms/modules/node/site/scripts/page.sql -text
 Src/unstable/library/web/cms/modules/oauth20/oauth20-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/oauth20/oauth20.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/oauth20/site/scripts/oauth2_consumers.sql -text
@@ -3502,6 +3511,9 @@ Src/unstable/library/web/cms/modules/taxonomy/site/scripts/install.sql -text
 Src/unstable/library/web/cms/modules/taxonomy/site/scripts/uninstall.sql -text
 Src/unstable/library/web/cms/modules/taxonomy/taxonomy-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/taxonomy/taxonomy.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/wikitext/site/files/scss/wikitext.scss -text
+Src/unstable/library/web/cms/modules/wikitext/wikitext-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/wikitext/wikitext.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/tools/roc/license.lic -text
 Src/unstable/library/web/cms/tools/roc/roc.cfg-example -text
 Src/unstable/library/web/cms/tools/roc/roc.ecf svneol=native#text/xml
