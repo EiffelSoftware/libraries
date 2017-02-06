@@ -3331,7 +3331,6 @@ Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module.ecf svne
 Src/unstable/library/web/cms/examples/demo/roc.cfg -text
 Src/unstable/library/web/cms/examples/demo/site/config/blocks.ini -text
 Src/unstable/library/web/cms/examples/demo/site/config/demo.json -text
-Src/unstable/library/web/cms/examples/demo/site/files/uploads/2012-05-15-12.47.14.jpg -text
 Src/unstable/library/web/cms/examples/demo/site/modules/admin/files/css/admin.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/admin/files/scss/admin.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/auth.json -text
