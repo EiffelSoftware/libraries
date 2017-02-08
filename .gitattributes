@@ -3333,7 +3333,6 @@ Src/unstable/library/web/cms/examples/demo/site/config/blocks.ini -text
 Src/unstable/library/web/cms/examples/demo/site/config/demo.json -text
 Src/unstable/library/web/cms/examples/demo/site/modules/admin/files/css/admin.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/admin/files/scss/admin.scss -text
-Src/unstable/library/web/cms/examples/demo/site/modules/auth/auth.json -text
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/config/auth.json -text
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/files/css/auth.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/files/scss/auth.scss -text
@@ -3346,7 +3345,6 @@ Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/acco
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/admin_account_evaluation.html svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/modules/blog/files/css/blog.css -text
 Src/unstable/library/web/cms/examples/demo/site/modules/blog/files/scss/blog.scss -text
-Src/unstable/library/web/cms/examples/demo/site/modules/blog/scripts/install.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/comments/files/scss/comments.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/comments/scripts/install.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/contact/config/contact.json -text
@@ -3382,8 +3380,6 @@ Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/files/scss/taxo
 Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/scripts/install.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/taxonomy/scripts/uninstall.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/wikitext/files/scss/wikitext.scss -text
-Src/unstable/library/web/cms/examples/demo/site/scripts/core.sql -text
-Src/unstable/library/web/cms/examples/demo/site/scripts/user.sql -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/css/style.css -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/favicon.ico -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/scss/style.scss -text
@@ -3466,6 +3462,7 @@ Src/unstable/library/web/cms/modules/contact/site/config/contact.json -text
 Src/unstable/library/web/cms/modules/contact/site/files/css/contact.css -text
 Src/unstable/library/web/cms/modules/contact/site/files/scss/contact.scss -text
 Src/unstable/library/web/cms/modules/core/site/scripts/core.sql -text
+Src/unstable/library/web/cms/modules/core/site/scripts/updates/core-1.0.0.1.sql -text
 Src/unstable/library/web/cms/modules/custom_block/custom_block-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/custom_block/custom_block.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/custom_block/site/config/custom_block.json.example -text
