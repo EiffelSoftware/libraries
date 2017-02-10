@@ -3434,7 +3434,6 @@ Src/unstable/library/web/cms/modules/admin/site/files/css/admin.css -text
 Src/unstable/library/web/cms/modules/admin/site/files/scss/admin.scss -text
 Src/unstable/library/web/cms/modules/auth/auth-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/auth/auth.ecf svneol=native#text/xml
-Src/unstable/library/web/cms/modules/auth/site/auth.json -text
 Src/unstable/library/web/cms/modules/auth/site/config/auth.json -text
 Src/unstable/library/web/cms/modules/auth/site/files/css/auth.css -text
 Src/unstable/library/web/cms/modules/auth/site/files/scss/auth.scss -text
@@ -3451,7 +3450,6 @@ Src/unstable/library/web/cms/modules/blog/cms_blog_module-safe.ecf svneol=native
 Src/unstable/library/web/cms/modules/blog/cms_blog_module.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/blog/site/files/css/blog.css -text
 Src/unstable/library/web/cms/modules/blog/site/files/scss/blog.scss -text
-Src/unstable/library/web/cms/modules/blog/site/scripts/install.sql -text
 Src/unstable/library/web/cms/modules/comments/comments-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/comments/comments.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/comments/site/files/scss/comments.scss -text
@@ -3494,8 +3492,6 @@ Src/unstable/library/web/cms/modules/oauth20/oauth20-safe.ecf svneol=native#text
 Src/unstable/library/web/cms/modules/oauth20/oauth20.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/oauth20/site/scripts/data.sql -text
 Src/unstable/library/web/cms/modules/oauth20/site/scripts/install.sql -text
-Src/unstable/library/web/cms/modules/oauth20/site/scripts/oauth2_consumers.sql -text
-Src/unstable/library/web/cms/modules/oauth20/site/scripts/oauth2_consumers_initialize.sql -text
 Src/unstable/library/web/cms/modules/openid/openid-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/openid/openid.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/openid/site/scripts/openid_consumers.sql -text
@@ -3508,6 +3504,8 @@ Src/unstable/library/web/cms/modules/seo/seo.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/session_auth/cms_session_auth-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/session_auth/cms_session_auth.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/session_auth/site/scripts/install.sql -text
+Src/unstable/library/web/cms/modules/sitemap/sitemap-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/sitemap/sitemap.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/taxonomy/site/files/css/taxonomy.css -text
 Src/unstable/library/web/cms/modules/taxonomy/site/files/scss/taxonomy.scss -text
 Src/unstable/library/web/cms/modules/taxonomy/site/scripts/install.sql -text
