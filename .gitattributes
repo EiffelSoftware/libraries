@@ -3399,6 +3399,9 @@ Src/unstable/library/web/cms/modules/files/files.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/files/site/files/img/file-logo.png -text
 Src/unstable/library/web/cms/modules/google_search/google_search-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/google_search/google_search.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/messaging/messaging-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/messaging/messaging.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/messaging/site/files/scss/messaging.scss -text
 Src/unstable/library/web/cms/modules/node/node-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/node/node.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/oauth20/oauth20-safe.ecf svneol=native#text/xml
@@ -3411,6 +3414,7 @@ Src/unstable/library/web/cms/modules/seo/seo-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/seo/seo.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/session_auth/cms_session_auth-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/session_auth/cms_session_auth.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/sitemap/site/files/sitemap.xsl -text
 Src/unstable/library/web/cms/modules/sitemap/sitemap-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/sitemap/sitemap.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/taxonomy/taxonomy-safe.ecf svneol=native#text/xml
