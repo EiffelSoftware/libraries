@@ -3333,6 +3333,7 @@ Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/acco
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/account_welcome.html svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/admin_account_evaluation.html svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/modules/files/files/img/file-logo.png -text
+Src/unstable/library/web/cms/examples/demo/site/modules/messaging/files/scss/messaging.scss -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/favicon.ico -text
 Src/unstable/library/web/cms/launcher/any-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/launcher/any.ecf svneol=native#text/xml
