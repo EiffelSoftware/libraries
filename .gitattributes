@@ -3332,8 +3332,11 @@ Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/acco
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/account_rejected.html svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/account_welcome.html svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/admin_account_evaluation.html svneol=native#text/xml
+Src/unstable/library/web/cms/examples/demo/site/modules/core/scripts/updates/core-1.0.0.1.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/files/files/img/file-logo.png -text
 Src/unstable/library/web/cms/examples/demo/site/modules/messaging/files/scss/messaging.scss -text
+Src/unstable/library/web/cms/examples/demo/site/modules/node/scripts/updates/node-1.0.0.1.sql -text
+Src/unstable/library/web/cms/examples/demo/site/modules/sitemap/files/sitemap.xsl -text
 Src/unstable/library/web/cms/examples/demo/site/themes/bootstrap/assets/favicon.ico -text
 Src/unstable/library/web/cms/launcher/any-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/launcher/any.ecf svneol=native#text/xml
@@ -3405,6 +3408,7 @@ Src/unstable/library/web/cms/modules/messaging/messaging.ecf svneol=native#text/
 Src/unstable/library/web/cms/modules/messaging/site/files/scss/messaging.scss -text
 Src/unstable/library/web/cms/modules/node/node-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/node/node.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/node/site/scripts/updates/node-1.0.0.1.sql -text
 Src/unstable/library/web/cms/modules/oauth20/oauth20-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/oauth20/oauth20.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/openid/openid-safe.ecf svneol=native#text/xml
