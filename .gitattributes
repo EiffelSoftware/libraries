@@ -1718,9 +1718,7 @@ Src/C_library/zlib/contrib/dotzlib/DotZLib/Inflater.cs -text
 Src/C_library/zlib/contrib/dotzlib/DotZLib/UnitTests.cs -text
 Src/C_library/zlib/contrib/gcc_gvmat64/gvmat64.S -text
 Src/C_library/zlib/contrib/masmx64/gvmat64.asm -text
-Src/C_library/zlib/contrib/masmx64/gvmat64.lst -text
 Src/C_library/zlib/contrib/masmx64/inffasx64.asm -text
-Src/C_library/zlib/contrib/masmx64/inffasx64.lst -text
 Src/C_library/zlib/contrib/masmx86/match686.asm -text
 Src/C_library/zlib/contrib/minizip/configure.ac -text
 Src/C_library/zlib/contrib/minizip/miniunzip.1 -text
@@ -1742,29 +1740,33 @@ Src/C_library/zlib/contrib/vstudio/vc10/zlibvc.def -text
 Src/C_library/zlib/contrib/vstudio/vc10/zlibvc.sln -text
 Src/C_library/zlib/contrib/vstudio/vc10/zlibvc.vcxproj -text
 Src/C_library/zlib/contrib/vstudio/vc10/zlibvc.vcxproj.filters -text
-Src/C_library/zlib/contrib/vstudio/vc11/.vs/zlibvc/v14/.suo -text
 Src/C_library/zlib/contrib/vstudio/vc11/miniunz.vcxproj -text
 Src/C_library/zlib/contrib/vstudio/vc11/minizip.vcxproj -text
 Src/C_library/zlib/contrib/vstudio/vc11/testzlib.vcxproj -text
 Src/C_library/zlib/contrib/vstudio/vc11/testzlibdll.vcxproj -text
-Src/C_library/zlib/contrib/vstudio/vc11/x64/ZlibStatRelease/Tmp/cl.command.1.tlog -text
-Src/C_library/zlib/contrib/vstudio/vc11/x64/ZlibStatRelease/Tmp/cl.read.1.tlog -text svneol=unset#application/octet-stream
-Src/C_library/zlib/contrib/vstudio/vc11/x64/ZlibStatRelease/Tmp/cl.write.1.tlog -text svneol=unset#application/octet-stream
-Src/C_library/zlib/contrib/vstudio/vc11/x64/ZlibStatRelease/Tmp/zlibstat.lastbuildstate -text
-Src/C_library/zlib/contrib/vstudio/vc11/x64/ZlibStatRelease/Tmp/zlibstat.log -text
-Src/C_library/zlib/contrib/vstudio/vc11/x64/ZlibStatRelease/Tmp/zlibstat.unsuccessfulbuild -text
-Src/C_library/zlib/contrib/vstudio/vc11/x86/ZlibStatRelease/Tmp/cl.command.1.tlog -text
-Src/C_library/zlib/contrib/vstudio/vc11/x86/ZlibStatRelease/Tmp/cl.read.1.tlog -text svneol=unset#application/octet-stream
-Src/C_library/zlib/contrib/vstudio/vc11/x86/ZlibStatRelease/Tmp/cl.write.1.tlog -text svneol=unset#application/octet-stream
-Src/C_library/zlib/contrib/vstudio/vc11/x86/ZlibStatRelease/Tmp/zlibstat.lastbuildstate -text
-Src/C_library/zlib/contrib/vstudio/vc11/x86/ZlibStatRelease/Tmp/zlibstat.log -text
-Src/C_library/zlib/contrib/vstudio/vc11/x86/ZlibStatRelease/Tmp/zlibstat.unsuccessfulbuild -text
 Src/C_library/zlib/contrib/vstudio/vc11/zlib.rc -text
 Src/C_library/zlib/contrib/vstudio/vc11/zlibstat.vcxproj -text
-Src/C_library/zlib/contrib/vstudio/vc11/zlibvc.VC.db -text
 Src/C_library/zlib/contrib/vstudio/vc11/zlibvc.def -text
 Src/C_library/zlib/contrib/vstudio/vc11/zlibvc.sln -text
 Src/C_library/zlib/contrib/vstudio/vc11/zlibvc.vcxproj -text
+Src/C_library/zlib/contrib/vstudio/vc12/miniunz.vcxproj -text
+Src/C_library/zlib/contrib/vstudio/vc12/minizip.vcxproj -text
+Src/C_library/zlib/contrib/vstudio/vc12/testzlib.vcxproj -text
+Src/C_library/zlib/contrib/vstudio/vc12/testzlibdll.vcxproj -text
+Src/C_library/zlib/contrib/vstudio/vc12/zlib.rc -text
+Src/C_library/zlib/contrib/vstudio/vc12/zlibstat.vcxproj -text
+Src/C_library/zlib/contrib/vstudio/vc12/zlibvc.def -text
+Src/C_library/zlib/contrib/vstudio/vc12/zlibvc.sln -text
+Src/C_library/zlib/contrib/vstudio/vc12/zlibvc.vcxproj -text
+Src/C_library/zlib/contrib/vstudio/vc14/miniunz.vcxproj -text
+Src/C_library/zlib/contrib/vstudio/vc14/minizip.vcxproj -text
+Src/C_library/zlib/contrib/vstudio/vc14/testzlib.vcxproj -text
+Src/C_library/zlib/contrib/vstudio/vc14/testzlibdll.vcxproj -text
+Src/C_library/zlib/contrib/vstudio/vc14/zlib.rc -text
+Src/C_library/zlib/contrib/vstudio/vc14/zlibstat.vcxproj -text
+Src/C_library/zlib/contrib/vstudio/vc14/zlibvc.def -text
+Src/C_library/zlib/contrib/vstudio/vc14/zlibvc.sln -text
+Src/C_library/zlib/contrib/vstudio/vc14/zlibvc.vcxproj -text
 Src/C_library/zlib/contrib/vstudio/vc9/miniunz.vcproj -text
 Src/C_library/zlib/contrib/vstudio/vc9/minizip.vcproj -text
 Src/C_library/zlib/contrib/vstudio/vc9/testzlib.vcproj -text
@@ -1777,8 +1779,19 @@ Src/C_library/zlib/contrib/vstudio/vc9/zlibvc.vcproj -text
 Src/C_library/zlib/examples/README.examples -text
 Src/C_library/zlib/examples/zlib_how.html svneol=native#text/xml
 Src/C_library/zlib/nintendods/README -text
+Src/C_library/zlib/os400/README400 -text
+Src/C_library/zlib/os400/bndsrc -text
+Src/C_library/zlib/os400/zlib.inc -text
+Src/C_library/zlib/treebuild.xml svneol=native#text/xml
 Src/C_library/zlib/watcom/watcom_f.mak -text
 Src/C_library/zlib/watcom/watcom_l.mak -text
+Src/C_library/zlib/zconf.h.cmakein -text
+Src/C_library/zlib/zconf.h.in -text
+Src/C_library/zlib/zlib.3.pdf -text
+Src/C_library/zlib/zlib.map -text
+Src/C_library/zlib/zlib.pc.cmakein -text
+Src/C_library/zlib/zlib.pc.in -text
+Src/C_library/zlib/zlib2ansi -text
 Src/contrib/examples/web/ewf/_update_needed/filter/filter.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/debug/debug.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/debug/debug.ini -text
