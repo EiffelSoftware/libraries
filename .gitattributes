@@ -1785,12 +1785,8 @@ Src/C_library/zlib/os400/zlib.inc -text
 Src/C_library/zlib/treebuild.xml svneol=native#text/xml
 Src/C_library/zlib/watcom/watcom_f.mak -text
 Src/C_library/zlib/watcom/watcom_l.mak -text
-Src/C_library/zlib/zconf.h.cmakein -text
-Src/C_library/zlib/zconf.h.in -text
 Src/C_library/zlib/zlib.3.pdf -text
 Src/C_library/zlib/zlib.map -text
-Src/C_library/zlib/zlib.pc.cmakein -text
-Src/C_library/zlib/zlib.pc.in -text
 Src/C_library/zlib/zlib2ansi -text
 Src/contrib/examples/web/ewf/_update_needed/filter/filter.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/debug/debug.ecf svneol=native#text/xml
