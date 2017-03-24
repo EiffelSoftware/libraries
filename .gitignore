@@ -212,4 +212,7 @@ Src/library/wel/spec/msc_vc140
 Src/unstable/library/compression/zlib/example/EIFGENs
 Src/unstable/library/persistency/database/sqlite3/spec/mingw
 Src/unstable/library/persistency/database/sqlite3/spec/msc
+Src/unstable/library/web/cms/examples/demo/site/export
+Src/unstable/library/web/cms/examples/demo/site/files
+Src/unstable/library/web/cms/examples/demo/site/import
 Src/unstable/library/web/cms/src/service/*.bak
