@@ -3636,6 +3636,8 @@ Src/unstable/library/text/text_filter/text_filter-safe.ecf svneol=native#text/xm
 Src/unstable/library/text/text_filter/text_filter.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/cms-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/cms.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/dev_modules/masquerade_auth/masquerade_auth-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/dev_modules/masquerade_auth/masquerade_auth.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/doc/img_diagram.png -text
 Src/unstable/library/web/cms/examples/demo/demo.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module-safe.ecf svneol=native#text/xml
@@ -3649,6 +3651,7 @@ Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/acco
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/admin_account_evaluation.html svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/modules/core/scripts/updates/core-1.0.0.1.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/files/files/img/file-logo.png -text
+Src/unstable/library/web/cms/examples/demo/site/modules/google_search_20/config/google_search_20.json-dist -text
 Src/unstable/library/web/cms/examples/demo/site/modules/messaging/files/scss/messaging.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/node/scripts/updates/node-1.0.0.1.sql -text
 Src/unstable/library/web/cms/examples/demo/site/modules/sitemap/files/sitemap.xsl -text
@@ -3720,6 +3723,9 @@ Src/unstable/library/web/cms/modules/files/files.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/files/site/files/img/file-logo.png -text
 Src/unstable/library/web/cms/modules/google_search/google_search-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/google_search/google_search.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/google_search_20/google_search_20-safe.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/google_search_20/google_search_20.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/google_search_20/site/config/google_search_20.json-dist -text
 Src/unstable/library/web/cms/modules/messaging/messaging-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/messaging/messaging.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/messaging/site/files/scss/messaging.scss -text
