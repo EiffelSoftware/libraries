@@ -3642,6 +3642,9 @@ Src/unstable/library/web/cms/doc/img_diagram.png -text
 Src/unstable/library/web/cms/examples/demo/demo.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/modules/demo/cms_demo_module.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/examples/demo/server.crt -text
+Src/unstable/library/web/cms/examples/demo/server.ini -text
+Src/unstable/library/web/cms/examples/demo/server.key -text
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/account_activation.html svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/account_activation_confirmation.html svneol=native#text/xml
 Src/unstable/library/web/cms/examples/demo/site/modules/auth/mail_templates/account_new_password.html svneol=native#text/xml
