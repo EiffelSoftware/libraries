@@ -2777,7 +2777,6 @@ Src/contrib/library/network/websocket/protocol/web_socket_protocol-safe.ecf svne
 Src/contrib/library/network/websocket/protocol/web_socket_protocol.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/ca.crt -text
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/ca.key -text
-Src/contrib/library/network/websocket/server/example/echo_websocket_server/echo_websocket_server-safe.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/echo_websocket_server.ecf svneol=native#text/xml
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/webroot/websocketclient.html svneol=native#text/xml
 Src/contrib/library/network/websocket/server/example/echo_websocket_server/webroot/wesocketmedia.html svneol=native#text/xml
@@ -2793,7 +2792,6 @@ Src/contrib/library/text/encryption/eel/src/digests/sha_functions.e.orig -text
 Src/contrib/library/text/encryption/eel/src/ec/ec_domain_parameters.e.orig -text
 Src/contrib/library/text/parser/feed/feed-safe.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/feed/feed.ecf svneol=native#text/xml
-Src/contrib/library/text/parser/feed/tests/tests-safe.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/feed/tests/tests.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/examples/basic/basic.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/examples/serialization/serialization-safe.ecf svneol=native#text/xml
@@ -2888,7 +2886,6 @@ Src/contrib/library/web/communication/mediatype/hal/test/test_suite.ecf svneol=n
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/license.lic -text
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/standalone-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/standalone.ecf svneol=native#text/xml
-Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/test_standalone-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/connectors/standalone/test_standalone.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/ewsgi/default.7z -text
 Src/contrib/library/web/framework/ewf/httpd/httpd-safe.ecf svneol=native#text/xml
