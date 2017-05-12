@@ -2785,6 +2785,8 @@ Src/contrib/library/network/websocket/server/websocket_server.ecf svneol=native#
 Src/contrib/library/print/ael_printf/AEL_Printf.pdf -text svneol=unset#unset
 Src/contrib/library/print/ael_printf/Amalasoft[!!-~]Printf.docx -text
 Src/contrib/library/runtime/process/eclop/doc/eclop.pdf -text
+Src/contrib/library/runtime/process/eclop/examples/simple_example_1/build/example1.ecf svneol=native#text/xml
+Src/contrib/library/runtime/process/eclop/examples/simple_example_2/build/example2.ecf svneol=native#text/xml
 Src/contrib/library/security/openid/consumer/openid-safe.ecf svneol=native#text/xml
 Src/contrib/library/security/openid/consumer/openid.ecf svneol=native#text/xml
 Src/contrib/library/svn/svn.lic -text
