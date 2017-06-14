@@ -3742,6 +3742,7 @@ Src/unstable/library/network/socket/netssl/examples/example.crt -text
 Src/unstable/library/network/socket/netssl/examples/example.key -text
 Src/unstable/library/network/socket/netssl/examples/quick/ssl_client.ecf svneol=native#text/xml
 Src/unstable/library/network/socket/netssl/license.lic -text
+Src/unstable/library/network/socket/netssl/net_ssl_dynamic.ecf svneol=native#text/xml
 Src/unstable/library/pattern/criteria/README.md -text
 Src/unstable/library/pattern/criteria/examples/simple-safe.ecf svneol=native#text/xml
 Src/unstable/library/pattern/criteria/examples/simple.ecf svneol=native#text/xml
