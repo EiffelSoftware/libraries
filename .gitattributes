@@ -18,6 +18,8 @@ Src/C_library/curl/RELEASE-NOTES -text
 Src/C_library/curl/acinclude.m4 -text
 Src/C_library/curl/aclocal.m4 -text
 Src/C_library/curl/buildconf -text
+Src/C_library/curl/clibs_libcurl-safe.ecf svneol=native#text/xml
+Src/C_library/curl/clibs_libcurl.ecf svneol=native#text/xml
 Src/C_library/curl/compile -text
 Src/C_library/curl/config.guess -text
 Src/C_library/curl/config.sub -text
