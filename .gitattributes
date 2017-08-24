@@ -11,6 +11,7 @@ Src/C_library/curl/CMake/Macros.cmake -text
 Src/C_library/curl/CMake/OtherTests.cmake -text
 Src/C_library/curl/CMake/Platforms/WindowsCache.cmake -text
 Src/C_library/curl/CMake/Utilities.cmake -text
+Src/C_library/curl/CMake/cmake_uninstall.cmake.in -text
 Src/C_library/curl/COPYING -text
 Src/C_library/curl/MacOSX-Framework -text
 Src/C_library/curl/README -text
@@ -199,6 +200,7 @@ Src/C_library/curl/docs/cmdline-opts/remote-header-name.d -text
 Src/C_library/curl/docs/cmdline-opts/remote-name-all.d -text
 Src/C_library/curl/docs/cmdline-opts/remote-name.d -text
 Src/C_library/curl/docs/cmdline-opts/remote-time.d -text
+Src/C_library/curl/docs/cmdline-opts/request-target.d -text
 Src/C_library/curl/docs/cmdline-opts/request.d -text
 Src/C_library/curl/docs/cmdline-opts/resolve.d -text
 Src/C_library/curl/docs/cmdline-opts/retry-connrefused.d -text
@@ -211,8 +213,10 @@ Src/C_library/curl/docs/cmdline-opts/show-error.d -text
 Src/C_library/curl/docs/cmdline-opts/silent.d -text
 Src/C_library/curl/docs/cmdline-opts/socks4.d -text
 Src/C_library/curl/docs/cmdline-opts/socks4a.d -text
+Src/C_library/curl/docs/cmdline-opts/socks5-basic.d -text
 Src/C_library/curl/docs/cmdline-opts/socks5-gssapi-nec.d -text
 Src/C_library/curl/docs/cmdline-opts/socks5-gssapi-service.d -text
+Src/C_library/curl/docs/cmdline-opts/socks5-gssapi.d -text
 Src/C_library/curl/docs/cmdline-opts/socks5-hostname.d -text
 Src/C_library/curl/docs/cmdline-opts/socks5.d -text
 Src/C_library/curl/docs/cmdline-opts/speed-limit.d -text
@@ -303,6 +307,7 @@ Src/C_library/curl/docs/libcurl/curl_share_strerror.3 -text
 Src/C_library/curl/docs/libcurl/curl_slist_append.3 -text
 Src/C_library/curl/docs/libcurl/curl_slist_free_all.3 -text
 Src/C_library/curl/docs/libcurl/curl_strequal.3 -text
+Src/C_library/curl/docs/libcurl/curl_strnequal.3 -text
 Src/C_library/curl/docs/libcurl/curl_version.3 -text
 Src/C_library/curl/docs/libcurl/curl_version_info.3 -text
 Src/C_library/curl/docs/libcurl/index.html -text
@@ -322,7 +327,9 @@ Src/C_library/curl/docs/libcurl/opts/CURLINFO_CERTINFO.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_CONDITION_UNMET.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_CONNECT_TIME.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_DOWNLOAD.3 -text
+Src/C_library/curl/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_DOWNLOAD_T.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_UPLOAD.3 -text
+Src/C_library/curl/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_UPLOAD_T.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_CONTENT_TYPE.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_COOKIELIST.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_EFFECTIVE_URL.3 -text
@@ -356,9 +363,13 @@ Src/C_library/curl/docs/libcurl/opts/CURLINFO_RTSP_SERVER_CSEQ.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_RTSP_SESSION_ID.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_SCHEME.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_SIZE_DOWNLOAD.3 -text
+Src/C_library/curl/docs/libcurl/opts/CURLINFO_SIZE_DOWNLOAD_T.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_SIZE_UPLOAD.3 -text
+Src/C_library/curl/docs/libcurl/opts/CURLINFO_SIZE_UPLOAD_T.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_SPEED_DOWNLOAD.3 -text
+Src/C_library/curl/docs/libcurl/opts/CURLINFO_SPEED_DOWNLOAD_T.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_SPEED_UPLOAD.3 -text
+Src/C_library/curl/docs/libcurl/opts/CURLINFO_SPEED_UPLOAD_T.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_SSL_ENGINES.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_SSL_VERIFYRESULT.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLINFO_STARTTRANSFER_TIME.3 -text
@@ -546,6 +557,7 @@ Src/C_library/curl/docs/libcurl/opts/CURLOPT_READDATA.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLOPT_READFUNCTION.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLOPT_REDIR_PROTOCOLS.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLOPT_REFERER.3 -text
+Src/C_library/curl/docs/libcurl/opts/CURLOPT_REQUEST_TARGET.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLOPT_RESOLVE.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLOPT_RESUME_FROM.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLOPT_RESUME_FROM_LARGE.3 -text
@@ -562,6 +574,7 @@ Src/C_library/curl/docs/libcurl/opts/CURLOPT_SERVICE_NAME.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLOPT_SHARE.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLOPT_SOCKOPTDATA.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLOPT_SOCKOPTFUNCTION.3 -text
+Src/C_library/curl/docs/libcurl/opts/CURLOPT_SOCKS5_AUTH.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLOPT_SOCKS5_GSSAPI_NEC.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLOPT_SOCKS5_GSSAPI_SERVICE.3 -text
 Src/C_library/curl/docs/libcurl/opts/CURLOPT_SSH_AUTH_TYPES.3 -text
@@ -992,6 +1005,8 @@ Src/C_library/curl/tests/data/test1143 -text
 Src/C_library/curl/tests/data/test1144 -text
 Src/C_library/curl/tests/data/test1145 -text
 Src/C_library/curl/tests/data/test1146 -text
+Src/C_library/curl/tests/data/test1147 -text
+Src/C_library/curl/tests/data/test1148 -text
 Src/C_library/curl/tests/data/test115 -text
 Src/C_library/curl/tests/data/test116 -text
 Src/C_library/curl/tests/data/test117 -text
@@ -1079,7 +1094,10 @@ Src/C_library/curl/tests/data/test1285 -text
 Src/C_library/curl/tests/data/test1286 -text
 Src/C_library/curl/tests/data/test1287 -text
 Src/C_library/curl/tests/data/test1288 -text
+Src/C_library/curl/tests/data/test1289 -text
 Src/C_library/curl/tests/data/test129 -text
+Src/C_library/curl/tests/data/test1298 -text
+Src/C_library/curl/tests/data/test1299 -text
 Src/C_library/curl/tests/data/test13 -text
 Src/C_library/curl/tests/data/test130 -text
 Src/C_library/curl/tests/data/test1300 -text
@@ -1107,6 +1125,7 @@ Src/C_library/curl/tests/data/test132 -text
 Src/C_library/curl/tests/data/test1320 -text
 Src/C_library/curl/tests/data/test1321 -text
 Src/C_library/curl/tests/data/test1322 -text
+Src/C_library/curl/tests/data/test1323 -text
 Src/C_library/curl/tests/data/test1325 -text
 Src/C_library/curl/tests/data/test1326 -text
 Src/C_library/curl/tests/data/test1327 -text
@@ -1188,6 +1207,7 @@ Src/C_library/curl/tests/data/test1395 -text
 Src/C_library/curl/tests/data/test1396 -text
 Src/C_library/curl/tests/data/test1397 -text
 Src/C_library/curl/tests/data/test1398 -text
+Src/C_library/curl/tests/data/test1399 -text
 Src/C_library/curl/tests/data/test14 -text
 Src/C_library/curl/tests/data/test140 -text
 Src/C_library/curl/tests/data/test1400 -text
@@ -1217,6 +1237,9 @@ Src/C_library/curl/tests/data/test1421 -text
 Src/C_library/curl/tests/data/test1422 -text
 Src/C_library/curl/tests/data/test1423 -text
 Src/C_library/curl/tests/data/test1424 -text
+Src/C_library/curl/tests/data/test1425 -text
+Src/C_library/curl/tests/data/test1426 -text
+Src/C_library/curl/tests/data/test1427 -text
 Src/C_library/curl/tests/data/test1428 -text
 Src/C_library/curl/tests/data/test1429 -text
 Src/C_library/curl/tests/data/test143 -text
@@ -1238,7 +1261,12 @@ Src/C_library/curl/tests/data/test1443 -text
 Src/C_library/curl/tests/data/test1444 -text
 Src/C_library/curl/tests/data/test1445 -text
 Src/C_library/curl/tests/data/test1446 -text
+Src/C_library/curl/tests/data/test1447 -text
+Src/C_library/curl/tests/data/test1448 -text
 Src/C_library/curl/tests/data/test145 -text
+Src/C_library/curl/tests/data/test1450 -text
+Src/C_library/curl/tests/data/test1451 -text
+Src/C_library/curl/tests/data/test1452 -text
 Src/C_library/curl/tests/data/test146 -text
 Src/C_library/curl/tests/data/test147 -text
 Src/C_library/curl/tests/data/test148 -text
@@ -1286,6 +1314,8 @@ Src/C_library/curl/tests/data/test154 -text
 Src/C_library/curl/tests/data/test1540 -text
 Src/C_library/curl/tests/data/test1541 -text
 Src/C_library/curl/tests/data/test155 -text
+Src/C_library/curl/tests/data/test1550 -text
+Src/C_library/curl/tests/data/test1551 -text
 Src/C_library/curl/tests/data/test156 -text
 Src/C_library/curl/tests/data/test157 -text
 Src/C_library/curl/tests/data/test158 -text
@@ -1923,9 +1953,11 @@ Src/C_library/curl/tests/directories.pm -text
 Src/C_library/curl/tests/extern-scan.pl -text
 Src/C_library/curl/tests/ftp.pm -text
 Src/C_library/curl/tests/ftpserver.pl -text
+Src/C_library/curl/tests/fuzz/README -text
 Src/C_library/curl/tests/getpart.pm -text
 Src/C_library/curl/tests/http2-server.pl -text
 Src/C_library/curl/tests/httpserver.pl -text
+Src/C_library/curl/tests/libtest/mk-lib1521.pl -text
 Src/C_library/curl/tests/libtest/notexists.pl -text
 Src/C_library/curl/tests/libtest/test1013.pl -text
 Src/C_library/curl/tests/libtest/test1022.pl -text
