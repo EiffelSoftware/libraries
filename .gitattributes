@@ -1992,6 +1992,7 @@ Src/C_library/curl/winbuild/vc140.idb -text
 Src/C_library/libpng/arm/filter_neon.S -text
 Src/C_library/libpng/clibs_libpng-safe.ecf svneol=native#text/xml
 Src/C_library/libpng/clibs_libpng.ecf svneol=native#text/xml
+Src/C_library/libpng/configure -text
 Src/C_library/libpng/configure.ac -text
 Src/C_library/libpng/contrib/arm-neon/README -text
 Src/C_library/libpng/contrib/conftest/README -text
@@ -2187,6 +2188,7 @@ Src/C_library/libpng/scripts/pnglibconf.mak -text
 Src/C_library/libpng/scripts/pngwin.rc -text
 Src/C_library/libpng/scripts/symbols.def -text
 Src/C_library/libpng/scripts/test.cmake.in -text
+Src/C_library/libpng/spec/msc_vc140/win64/lib/libpng.lib -text
 Src/C_library/libpng/tests/badadler.png -text svneol=unset#image/png
 Src/C_library/libpng/tests/badcrc.png -text svneol=unset#image/png
 Src/C_library/libpng/tests/pngimage-full -text
