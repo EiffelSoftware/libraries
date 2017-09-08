@@ -2188,7 +2188,6 @@ Src/C_library/libpng/scripts/pnglibconf.mak -text
 Src/C_library/libpng/scripts/pngwin.rc -text
 Src/C_library/libpng/scripts/symbols.def -text
 Src/C_library/libpng/scripts/test.cmake.in -text
-Src/C_library/libpng/spec/msc_vc140/win64/lib/libpng.lib -text
 Src/C_library/libpng/tests/badadler.png -text svneol=unset#image/png
 Src/C_library/libpng/tests/badcrc.png -text svneol=unset#image/png
 Src/C_library/libpng/tests/pngimage-full -text
