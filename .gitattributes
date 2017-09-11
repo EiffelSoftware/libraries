@@ -5252,4 +5252,10 @@ Src/unstable/library/web/cms/modules/taxonomy/taxonomy-safe.ecf svneol=native#te
 Src/unstable/library/web/cms/modules/taxonomy/taxonomy.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/wikitext/wikitext-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/wikitext/wikitext.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/themes/admin/assets/favicon.ico -text
+Src/unstable/library/web/cms/themes/admin/assets/scss/style.scss -text
+Src/unstable/library/web/cms/themes/admin/theme.info -text
+Src/unstable/library/web/cms/themes/min/assets/favicon.ico -text
+Src/unstable/library/web/cms/themes/min/assets/scss/style.scss -text
+Src/unstable/library/web/cms/themes/min/theme.info -text
 Src/unstable/library/web/cms/tools/roc/roc.ecf svneol=native#text/xml
