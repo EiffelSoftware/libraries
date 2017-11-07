@@ -3178,6 +3178,13 @@ Src/contrib/examples/web/ewf/rest/restbucks_CRUD/support/simple_db/simple_db.ecf
 Src/contrib/examples/web/ewf/rest/restbucks_CRUD/support/simple_db/tests/exception_trace.log -text
 Src/contrib/examples/web/ewf/rest/restbucks_CRUD/support/simple_db/tests/test_simple_db.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/simple/simple.ini -text
+Src/contrib/examples/web/ewf/simple_compression/service.ini -text
+Src/contrib/examples/web/ewf/simple_compression/service_compression.ecf svneol=native#text/xml
+Src/contrib/examples/web/ewf/simple_compression/www/big_file.html svneol=native#text/xml
+Src/contrib/examples/web/ewf/simple_compression/www/big_file2.html svneol=native#text/xml
+Src/contrib/examples/web/ewf/simple_compression/www/eiffel.jpg -text
+Src/contrib/examples/web/ewf/simple_compression/www/ewf.png -text
+Src/contrib/examples/web/ewf/simple_compression/www/index.html svneol=native#text/xml
 Src/contrib/examples/web/ewf/simple_file/404.html svneol=native#text/xml
 Src/contrib/examples/web/ewf/simple_file/ewf.png -text
 Src/contrib/examples/web/ewf/simple_file/service.ini -text
