@@ -4317,6 +4317,7 @@ Src/contrib/library/web/framework/ewf/wsf/default/standalone.ecf svneol=native#t
 Src/contrib/library/web/framework/ewf/wsf/tests/echo/echo.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/wsf_compression-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf/wsf_compression.ecf svneol=native#text/xml
+Src/contrib/library/web/framework/ewf/wsf/wsf_security.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf_proxy/wsf_proxy-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/framework/ewf/wsf_proxy/wsf_proxy.ecf svneol=native#text/xml
 Src/examples/Eiffel2Java/README -text
