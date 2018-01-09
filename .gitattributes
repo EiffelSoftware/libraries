@@ -2024,9 +2024,12 @@ Src/contrib/library/web/communication/mediatype/hal/library/hal.ecf svneol=nativ
 Src/contrib/library/web/communication/mediatype/hal/test/curie_example.json -text
 Src/contrib/library/web/communication/mediatype/hal/test/empty.json -text
 Src/contrib/library/web/communication/mediatype/hal/test/empty_json.json -text
+Src/contrib/library/web/communication/mediatype/hal/test/exampleWithNestedObjects.json -text
+Src/contrib/library/web/communication/mediatype/hal/test/exampleWithSubResource.json -text
 Src/contrib/library/web/communication/mediatype/hal/test/example_template.json -text
 Src/contrib/library/web/communication/mediatype/hal/test/fruit_hal.json -text
 Src/contrib/library/web/communication/mediatype/hal/test/hal_example.json -text
+Src/contrib/library/web/communication/mediatype/hal/test/hal_example_type.json -text
 Src/contrib/library/web/communication/mediatype/hal/test/hal_multi_links.json -text
 Src/contrib/library/web/communication/mediatype/hal/test/min_hal.json -text
 Src/contrib/library/web/communication/mediatype/hal/test/min_hal_document.json -text
