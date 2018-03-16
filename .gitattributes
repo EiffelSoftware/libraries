@@ -2836,6 +2836,8 @@ Src/library/libevent/Clib/libevent/test/Makefile.in -text
 Src/library/libevent/Clib/libevent/test/Makefile.nmake -text
 Src/library/libevent/Clib/libevent/test/regress.rpc -text
 Src/library/memory_analyzer/memory_analyzer_icon_matrix.png -text
+Src/library/net/Clib/Makefile.SH eol=lf
+Src/library/net/Clib/net-config eol=lf
 Src/library/obsolete/xml/parser/callbacks/README.TXT -text
 Src/library/obsolete/xml/tree/README.TXT -text
 Src/library/patterns/event/examples/src/events_example.ecf svneol=native#text/xml
