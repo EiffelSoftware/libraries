@@ -2946,8 +2946,11 @@ Src/unstable/library/web/cms/modules/admin/admin-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/admin/admin.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/auth/auth-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/auth/auth.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/auth/site/files/css/admin_auth.css -text
+Src/unstable/library/web/cms/modules/auth/site/files/scss/admin_auth.scss -text
 Src/unstable/library/web/cms/modules/auth/site/mail_templates/account_activation.html svneol=native#text/xml
 Src/unstable/library/web/cms/modules/auth/site/mail_templates/account_activation_confirmation.html svneol=native#text/xml
+Src/unstable/library/web/cms/modules/auth/site/mail_templates/account_email_verification.html svneol=native#text/xml
 Src/unstable/library/web/cms/modules/auth/site/mail_templates/account_new_password.html svneol=native#text/xml
 Src/unstable/library/web/cms/modules/auth/site/mail_templates/account_re_activation.html svneol=native#text/xml
 Src/unstable/library/web/cms/modules/auth/site/mail_templates/account_rejected.html svneol=native#text/xml
