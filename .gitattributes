@@ -2979,6 +2979,8 @@ Src/unstable/library/web/cms/modules/google_search/google_search.ecf svneol=nati
 Src/unstable/library/web/cms/modules/google_search_20/google_search_20-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/google_search_20/google_search_20.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/google_search_20/site/config/google_search_20.json-dist -text
+Src/unstable/library/web/cms/modules/google_search_20/site/files/css/gcse.css -text
+Src/unstable/library/web/cms/modules/google_search_20/site/files/scss/gcse.scss -text
 Src/unstable/library/web/cms/modules/messaging/messaging-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/messaging/messaging.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/messaging/site/files/scss/messaging.scss -text
