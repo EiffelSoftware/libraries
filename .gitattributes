@@ -2974,8 +2974,6 @@ Src/unstable/library/web/cms/modules/feed_aggregator/feed_aggregator.ecf svneol=
 Src/unstable/library/web/cms/modules/files/files-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/files/files.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/files/site/files/img/file-logo.png -text
-Src/unstable/library/web/cms/modules/google_search/google_search-safe.ecf svneol=native#text/xml
-Src/unstable/library/web/cms/modules/google_search/google_search.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/google_search_20/google_search_20-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/google_search_20/google_search_20.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/google_search_20/site/config/google_search_20.json-dist -text
