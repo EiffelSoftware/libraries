@@ -1938,6 +1938,8 @@ Src/contrib/library/web/authentication/oauth/cypress/apis/twitter/twitter_tutori
 Src/contrib/library/web/authentication/oauth/cypress/apis/twitter/twitter_tutorial/read/read.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/apis/twitter/twitter_tutorial/read_timeline/read_timeline.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/apis/twitter/twitter_tutorial/send/send.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/oauth/cypress/consumer-safe.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/oauth/cypress/consumer.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/consumer/consumer-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/consumer/consumer.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/consumer/cypress_consumer-safe.ecf svneol=native#text/xml
