@@ -2980,6 +2980,8 @@ Src/unstable/library/web/cms/examples/demo/site/modules/files/files/img/file-log
 Src/unstable/library/web/cms/examples/demo/site/modules/google_search_20/config/google_search_20.json-dist -text
 Src/unstable/library/web/cms/examples/demo/site/modules/messaging/files/scss/messaging.scss -text
 Src/unstable/library/web/cms/examples/demo/site/modules/node/scripts/updates/node-1.0.0.1.sql -text
+Src/unstable/library/web/cms/examples/demo/site/modules/oauth20/data/facebook.ini -text
+Src/unstable/library/web/cms/examples/demo/site/modules/oauth20/data/google.ini -text
 Src/unstable/library/web/cms/examples/demo/site/modules/sitemap/files/sitemap.xsl -text
 Src/unstable/library/web/cms/examples/demo/site/themes/admin/assets/favicon.ico -text
 Src/unstable/library/web/cms/examples/demo/site/themes/admin/assets/scss/style.scss -text
@@ -3069,6 +3071,8 @@ Src/unstable/library/web/cms/modules/node/node.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/node/site/scripts/updates/node-1.0.0.1.sql -text
 Src/unstable/library/web/cms/modules/oauth20/oauth20-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/oauth20/oauth20.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/oauth20/site/data/facebook.ini -text
+Src/unstable/library/web/cms/modules/oauth20/site/data/google.ini -text
 Src/unstable/library/web/cms/modules/openid/openid-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/openid/openid.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/recent_changes/recent_changes-safe.ecf svneol=native#text/xml
