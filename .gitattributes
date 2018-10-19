@@ -3054,6 +3054,7 @@ Src/unstable/library/web/cms/modules/custom_block/custom_block-safe.ecf svneol=n
 Src/unstable/library/web/cms/modules/custom_block/custom_block.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/embedded_video/embedded_video-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/embedded_video/embedded_video.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/embedded_video/testing/testing.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/feed_aggregator/feed_aggregator-safe.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/feed_aggregator/feed_aggregator.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/files/files-safe.ecf svneol=native#text/xml
