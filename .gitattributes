@@ -2339,6 +2339,7 @@ Src/framework/configuration/parser/implementation/classname/classname_finder.l -
 Src/framework/configuration/versioning/configuration-1-0-0.xsd -text
 Src/framework/configuration/versioning/configuration-1-2-0.xsd -text
 Src/framework/configuration/versioning/configuration-1-3-0.xsd -text
+Src/framework/configuration/versioning/schemas.xml svneol=native#text/xml
 Src/framework/dotnet_loader/dotnet_loader.lic -text
 Src/framework/eiffel_identifier/eiffel_identifier.lic -text
 Src/framework/eiffel_llvm/LICENCE.md -text
