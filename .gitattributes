@@ -1923,6 +1923,8 @@ Src/contrib/library/web/authentication/http_authorization/testing/testing.ecf sv
 Src/contrib/library/web/authentication/jwt/jwt-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/jwt/jwt.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/jwt/testing/testing.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/jwt_openssl_ext/jwt_openssl_dynamic.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/jwt_openssl_ext/jwt_openssl_static.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/apis/facebook/api/facebook_api.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/apis/facebook/api/test/ewf.jpg -text
 Src/contrib/library/web/authentication/oauth/cypress/apis/facebook/api/test/test.ecf svneol=native#text/xml
@@ -1980,6 +1982,7 @@ Src/contrib/library/web/authentication/oauth/cypress/login_with/google/login_wit
 Src/contrib/library/web/authentication/oauth/cypress/login_with/google/login_with_google.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/login_with/imgur/login_with_imgur-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/login_with/imgur/login_with_imgur.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/oauth/cypress/login_with/jwt_token_flow/login_with_jwt.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/login_with/license.lic -text
 Src/contrib/library/web/authentication/oauth/cypress/login_with/linkedin/login_with_linkedin-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/login_with/linkedin/login_with_linkedin.ecf svneol=native#text/xml
