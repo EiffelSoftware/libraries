@@ -1946,6 +1946,7 @@ Src/contrib/library/web/authentication/oauth/cypress/consumer/license.lic -text
 Src/contrib/library/web/authentication/oauth/cypress/consumer/tests/license.lic -text
 Src/contrib/library/web/authentication/oauth/cypress/consumer/tests/tests-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/consumer/tests/tests.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/oauth/cypress/license.lic -text
 Src/contrib/library/web/authentication/oauth/cypress/login_with/asana/login_with_asana-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/login_with/asana/login_with_asana.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/login_with/aweber/login_with_aweber-safe.ecf svneol=native#text/xml
