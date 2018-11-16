@@ -1930,6 +1930,8 @@ Src/contrib/library/web/authentication/oauth/cypress/apis/facebook/api/test/ewf.
 Src/contrib/library/web/authentication/oauth/cypress/apis/facebook/api/test/test.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/apis/facebook/api/test/video.mp4 -text
 Src/contrib/library/web/authentication/oauth/cypress/apis/twitter/twitter_api/src/objects/entities/twitter_video_variants.e svneol=native#unset
+Src/contrib/library/web/authentication/oauth/cypress/apis/twitter/twitter_api/test/test.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/oauth/cypress/apis/twitter/twitter_api/twitter_api.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/apis/twitter/twitter_tutorial/auth/auth.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/apis/twitter/twitter_tutorial/parse/parse.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/apis/twitter/twitter_tutorial/read/read.ecf svneol=native#text/xml
