@@ -857,6 +857,11 @@ Src/contrib/examples/web/ewf/debug/debug.ini -text
 Src/contrib/examples/web/ewf/desktop_app/README.md -text
 Src/contrib/examples/web/ewf/desktop_app/files/index.html -text
 Src/contrib/examples/web/ewf/desktop_app/home.html -text
+Src/contrib/examples/web/ewf/docker/Dockerfile -text
+Src/contrib/examples/web/ewf/docker/files/build_service_fcgi -text
+Src/contrib/examples/web/ewf/docker/files/html/.htaccess -text
+Src/contrib/examples/web/ewf/docker/files/html/index.html svneol=native#text/xml
+Src/contrib/examples/web/ewf/docker/files/httpd.conf -text
 Src/contrib/examples/web/ewf/form/form.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/form/server.ini -text
 Src/contrib/examples/web/ewf/proxy/proxy.ecf svneol=native#text/xml
