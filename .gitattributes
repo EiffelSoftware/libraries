@@ -353,7 +353,6 @@ Src/C_library/libpng/libpng.pc.in -text
 Src/C_library/libpng/pngbar.jpg -text svneol=unset#image/jpg
 Src/C_library/libpng/pngbar.png -text svneol=unset#image/png
 Src/C_library/libpng/pngnow.png -text svneol=unset#image/png
-Src/C_library/libpng/pngtest.png -text svneol=unset#image/png
 Src/C_library/libpng/pngusr.dfa -text
 Src/C_library/libpng/projects/owatcom/libpng.tgt -text
 Src/C_library/libpng/projects/owatcom/libpng.wpj -text
