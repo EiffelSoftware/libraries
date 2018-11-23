@@ -2884,7 +2884,7 @@ Src/unstable/library/network/socket/netssl/examples/non_blocking/client_server/c
 Src/unstable/library/network/socket/netssl/examples/non_blocking/client_server/client/echo_client.ecf svneol=native#text/xml
 Src/unstable/library/network/socket/netssl/examples/non_blocking/client_server/client/echo_client_static.ecf svneol=native#text/xml
 Src/unstable/library/network/socket/netssl/examples/non_blocking/client_server/server/echo_server.ecf svneol=native#text/xml
-Src/unstable/library/network/socket/netssl/examples/non_blocking/client_server/server/echo_server_dynamic.ecf svneol=native#text/xml
+Src/unstable/library/network/socket/netssl/examples/non_blocking/client_server/server/echo_server_static.ecf svneol=native#text/xml
 Src/unstable/library/network/socket/netssl/examples/quick/ssl_client.ecf svneol=native#text/xml
 Src/unstable/library/network/socket/netssl/examples/quick/ssl_client_static.ecf svneol=native#text/xml
 Src/unstable/library/network/socket/netssl/license.lic -text
