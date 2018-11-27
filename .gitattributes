@@ -414,7 +414,6 @@ Src/C_library/openssl/VMS/translatesyms.pl -text
 Src/C_library/openssl/appveyor.yml -text
 Src/C_library/openssl/build.info -text
 Src/C_library/openssl/clibs_openssl.ecf svneol=native#text/xml
-Src/C_library/openssl/clibs_openssl_dynamic.ecf svneol=native#text/xml
 Src/C_library/openssl/config -text
 Src/C_library/openssl/config.com -text
 Src/C_library/openssl/crypto/aes/asm/aes-586.pl -text
@@ -719,6 +718,14 @@ Src/C_library/openssl/ms/uplink-common.pl -text
 Src/C_library/openssl/ms/uplink-ia64.pl -text
 Src/C_library/openssl/ms/uplink-x86.pl -text
 Src/C_library/openssl/ms/uplink-x86_64.pl -text
+Src/C_library/openssl/spec/win64/bin/libcrypto-1_1-x64.dll -text
+Src/C_library/openssl/spec/win64/bin/libcrypto.lib -text
+Src/C_library/openssl/spec/win64/bin/libssl-1_1-x64.dll -text
+Src/C_library/openssl/spec/win64/bin/libssl.lib -text
+Src/C_library/openssl/spec/windows/bin/libcrypto-1_1.dll -text
+Src/C_library/openssl/spec/windows/bin/libcrypto.lib -text
+Src/C_library/openssl/spec/windows/bin/libssl-1_1.dll -text
+Src/C_library/openssl/spec/windows/bin/libssl.lib -text
 Src/C_library/openssl/ssl/build.info -text
 Src/C_library/openssl/ssl/record/README -text
 Src/C_library/openssl/ssl/statem/README -text
