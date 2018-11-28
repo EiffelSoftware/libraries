@@ -1955,6 +1955,7 @@ Src/contrib/library/web/authentication/http_authorization/testing/testing.ecf sv
 Src/contrib/library/web/authentication/jwt/jwt-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/jwt/jwt.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/jwt/testing/testing.ecf svneol=native#text/xml
+Src/contrib/library/web/authentication/jwt_openssl_ext/jwt_openssl.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/jwt_openssl_ext/jwt_openssl_dynamic.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/jwt_openssl_ext/jwt_openssl_static.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/apis/facebook/api/facebook_api.ecf svneol=native#text/xml
@@ -2896,6 +2897,7 @@ Src/unstable/library/compression/zlib/testing/index.html -text
 Src/unstable/library/network/openssl/license.lic -text
 Src/unstable/library/network/openssl/openssl.ecf svneol=native#text/xml
 Src/unstable/library/network/openssl/openssl_dynamic.ecf svneol=native#text/xml
+Src/unstable/library/network/openssl/openssl_static.ecf svneol=native#text/xml
 Src/unstable/library/network/socket/netssl/README -text
 Src/unstable/library/network/socket/netssl/doc/part1.pdf -text
 Src/unstable/library/network/socket/netssl/doc/part2.pdf -text
@@ -2917,6 +2919,7 @@ Src/unstable/library/network/socket/netssl/examples/quick/ssl_client.ecf svneol=
 Src/unstable/library/network/socket/netssl/examples/quick/ssl_client_static.ecf svneol=native#text/xml
 Src/unstable/library/network/socket/netssl/license.lic -text
 Src/unstable/library/network/socket/netssl/net_ssl_dynamic.ecf svneol=native#text/xml
+Src/unstable/library/network/socket/netssl/net_ssl_static.ecf svneol=native#text/xml
 Src/unstable/library/pattern/criteria/README.md -text
 Src/unstable/library/pattern/criteria/examples/simple-safe.ecf svneol=native#text/xml
 Src/unstable/library/pattern/criteria/examples/simple.ecf svneol=native#text/xml
