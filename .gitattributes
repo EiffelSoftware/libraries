@@ -5230,7 +5230,9 @@ Src/library/edk/spec/msc/windows/lib/edk.lib -text
 Src/library/encoding/implementation/unix/Clib/iconv-config -text
 Src/library/gobo/gobo_gelex-safe.ecf svneol=native#text/xml
 Src/library/gobo/gobo_geyacc-safe.ecf svneol=native#text/xml
+Src/library/gobo/gobo_lexical_skl.ecf svneol=native#text/xml
 Src/library/gobo/gobo_math-safe.ecf svneol=native#text/xml
+Src/library/gobo/gobo_parse_skl.ecf svneol=native#text/xml
 Src/library/gobo/gobo_pattern-safe.ecf svneol=native#text/xml
 Src/library/gobo/gobo_regexp-safe.ecf svneol=native#text/xml
 Src/library/gobo/gobo_string-safe.ecf svneol=native#text/xml
