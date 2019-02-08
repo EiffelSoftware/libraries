@@ -924,6 +924,7 @@ Src/contrib/examples/web/ewf/websocket/ws.ini -text
 Src/contrib/examples/web/ewf_precomp/wsf-mt.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf_precomp/wsf-scoop.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf_precomp/wsf.ecf svneol=native#text/xml
+Src/contrib/library/gobo/.compile_all.ini -text
 Src/contrib/library/gobo/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/library/argument/build.eant svneol=native#text/xml
 Src/contrib/library/gobo/library/argument/doc/alternate.html svneol=native#text/xml
