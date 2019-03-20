@@ -4764,6 +4764,7 @@ Src/contrib/library/web/framework/ewf/wsf_proxy/wsf_proxy.ecf svneol=native#text
 Src/examples/Eiffel2Java/README -text
 Src/examples/Eiffel2Java/test.class -text
 Src/examples/cURL/smtp_mail/smtp_mail.ecf svneol=native#text/xml
+Src/examples/cURL/smtp_mime/smtp_mime.ecf svneol=native#text/xml
 Src/examples/cURL/upload_and_read_function/eiffel_tower.jpg -text
 Src/examples/cURL/upload_and_read_function/put.php -text
 Src/examples/com/compound/child.ico -text
