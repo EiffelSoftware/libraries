@@ -362,8 +362,6 @@ Src/C_library/libpng/projects/owatcom/pngtest.tgt -text
 Src/C_library/libpng/projects/owatcom/pngvalid.tgt -text
 Src/C_library/libpng/projects/vstudio/libpng/libpng.vcxproj -text
 Src/C_library/libpng/projects/vstudio/pnglibconf/pnglibconf.vcxproj -text
-Src/C_library/libpng/projects/vstudio/pngstest/pngstest.vcxproj -text
-Src/C_library/libpng/projects/vstudio/pngtest/pngtest.vcxproj -text
 Src/C_library/libpng/projects/vstudio/pngunknown/pngunknown.vcxproj -text
 Src/C_library/libpng/projects/vstudio/pngvalid/pngvalid.vcxproj -text
 Src/C_library/libpng/projects/vstudio/vstudio.sln -text
