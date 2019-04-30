@@ -5076,6 +5076,9 @@ Src/framework/tagging/tagging.lic -text
 Src/framework/terminal/license.lic -text
 Src/framework/testing/testing.lic -text
 Src/framework/threading/threading.lic -text
+Src/framework/update_manager/testing/eiffel_download_config.json -text
+Src/framework/update_manager/testing/test.ecf svneol=native#text/xml
+Src/framework/update_manager/update_manager.ecf svneol=native#text/xml
 Src/framework/uri_launcher/uri_launcher.lic -text
 Src/framework/web/xebra/c_projects/apache_mod_xebra/mod_xebra.so -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler/XCookieBakery.cs -text
