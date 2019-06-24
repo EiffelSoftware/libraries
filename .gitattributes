@@ -5516,6 +5516,7 @@ Src/library/obsolete/xml/parser/callbacks/README.TXT -text
 Src/library/obsolete/xml/tree/README.TXT -text
 Src/library/patterns/event/examples/src/events_example.ecf svneol=native#text/xml
 Src/library/patterns/patterns-safe.ecf svneol=native#text/xml
+Src/library/preferences/preferences.ecf svneol=native#text/xml
 Src/library/process/base/base_process-safe.ecf svneol=native#text/xml
 Src/library/process/base/base_process.ecf svneol=native#text/xml
 Src/library/process/base/license.lic -text
