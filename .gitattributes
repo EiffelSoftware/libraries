@@ -3334,6 +3334,9 @@ Src/contrib/library/web/framework/ewf/wsf_proxy/wsf_proxy-safe.ecf svneol=native
 Src/contrib/library/web/framework/ewf/wsf_proxy/wsf_proxy.ecf svneol=native#text/xml
 Src/examples/Eiffel2Java/README -text
 Src/examples/Eiffel2Java/test.class -text
+Src/examples/cURL/simple_ssl/client.p12 -text
+Src/examples/cURL/simple_ssl/client.pem -text
+Src/examples/cURL/simple_ssl/simple_ssl.ecf svneol=native#text/xml
 Src/examples/cURL/smtp_mail/smtp_mail.ecf svneol=native#text/xml
 Src/examples/cURL/smtp_mime/smtp_mime.ecf svneol=native#text/xml
 Src/examples/cURL/upload_and_read_function/eiffel_tower.jpg -text
