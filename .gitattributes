@@ -3060,6 +3060,8 @@ Src/contrib/library/network/http_client/libcurl_http_client-safe.ecf svneol=nati
 Src/contrib/library/network/http_client/libcurl_http_client.ecf svneol=native#text/xml
 Src/contrib/library/network/http_client/net_http_client-safe.ecf svneol=native#text/xml
 Src/contrib/library/network/http_client/net_http_client.ecf svneol=native#text/xml
+Src/contrib/library/network/http_client/tests/client.p12 -text
+Src/contrib/library/network/http_client/tests/client.pem -text
 Src/contrib/library/network/http_client/tests/logo.jpg -text
 Src/contrib/library/network/http_client/tests/test.ecf svneol=native#text/xml
 Src/contrib/library/network/http_network/http_network-safe.ecf svneol=native#text/xml
