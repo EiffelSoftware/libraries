@@ -3221,7 +3221,6 @@ Src/contrib/library/web/authentication/oauth/cypress/consumer/examples/examples.
 Src/contrib/library/web/authentication/oauth/cypress/consumer/examples/license.lic -text
 Src/contrib/library/web/authentication/oauth/cypress/consumer/license.lic -text
 Src/contrib/library/web/authentication/oauth/cypress/consumer/tests/license.lic -text
-Src/contrib/library/web/authentication/oauth/cypress/consumer/tests/tests-safe.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/consumer/tests/tests.ecf svneol=native#text/xml
 Src/contrib/library/web/authentication/oauth/cypress/license.lic -text
 Src/contrib/library/web/authentication/oauth/cypress/login_with/asana/login_with_asana-safe.ecf svneol=native#text/xml
