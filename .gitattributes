@@ -3253,9 +3253,9 @@ Src/contrib/library/text/parser/feed/tests/tests.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/examples/basic/basic.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/examples/serialization/serialization-safe.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/json/examples/serialization/serialization.ecf svneol=native#text/xml
-Src/contrib/library/text/parser/json/library/json-safe.ecf -text svneol=native#application/xml
-Src/contrib/library/text/parser/json/library/json.ecf -text svneol=native#application/xml
-Src/contrib/library/text/parser/json/library/json_gobo_extension.ecf -text svneol=native#application/xml
+Src/contrib/library/text/parser/json/library/json-safe.ecf svneol=native#text/plain
+Src/contrib/library/text/parser/json/library/json.ecf svneol=native#text/plain
+Src/contrib/library/text/parser/json/library/json_gobo_extension.ecf svneol=native#text/plain
 Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail1.json -text
 Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail10.json -text
 Src/contrib/library/text/parser/json/test/autotest/test_suite/data/fail11.json -text
