@@ -897,7 +897,6 @@ Src/contrib/examples/web/ewf/rest/restbucks_CRUD/restbucks.ecf svneol=native#tex
 Src/contrib/examples/web/ewf/rest/restbucks_CRUD/server.ini -text
 Src/contrib/examples/web/ewf/rest/restbucks_CRUD/support/simple_db/simple_db-safe.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/rest/restbucks_CRUD/support/simple_db/simple_db.ecf svneol=native#text/xml
-Src/contrib/examples/web/ewf/rest/restbucks_CRUD/support/simple_db/tests/exception_trace.log -text
 Src/contrib/examples/web/ewf/rest/restbucks_CRUD/support/simple_db/tests/test_simple_db.ecf svneol=native#text/xml
 Src/contrib/examples/web/ewf/simple/simple.ini -text
 Src/contrib/examples/web/ewf/simple_compression/service.ini -text
