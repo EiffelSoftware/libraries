@@ -3907,6 +3907,7 @@ Src/framework/xml/gobo/license.lic -text
 Src/framework/xml/tests/license.lic -text
 Src/library/GIF/Clib/gd_lib/gd.lib svneol=native#unset
 Src/library/api_wrapper/implementation/unix/Clib/dl-config -text
+Src/library/base/elks/encoding/implementation/unix/Clib/iconv-config -text
 Src/library/base/elks/structures/cursors/array_iteration_cursor.e svneol=native#text/plain
 Src/library/base/elks/structures/cursors/arrayed_list_iteration_cursor.e svneol=native#text/plain
 Src/library/base/elks/structures/cursors/general_special_iteration_cursor.e svneol=native#text/plain
