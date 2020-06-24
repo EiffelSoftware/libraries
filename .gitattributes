@@ -3765,6 +3765,8 @@ Src/framework/parser/parser.lic -text
 Src/framework/parser_extension/parser_extension.lic -text
 Src/framework/peg/peg.ecf svneol=native#text/xml
 Src/framework/resources/resources.lic -text
+Src/framework/suggestive_typing/suggestive_typing.ecf svneol=native#text/xml
+Src/framework/suggestive_typing/testing/gui_test.ecf svneol=native#text/xml
 Src/framework/tagging/ev/tagging-ev.lic -text
 Src/framework/tagging/tagging.lic -text
 Src/framework/terminal/license.lic -text
