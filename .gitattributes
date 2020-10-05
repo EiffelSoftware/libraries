@@ -4331,6 +4331,8 @@ Src/unstable/library/web/cms/modules/comments/comments.ecf svneol=native#text/xm
 Src/unstable/library/web/cms/modules/contact/contact.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/core/site/scripts/user_profile.sql -text
 Src/unstable/library/web/cms/modules/custom_block/custom_block.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/custom_block/site/files/css/style.css -text
+Src/unstable/library/web/cms/modules/custom_block/site/files/scss/style.scss -text
 Src/unstable/library/web/cms/modules/embedded_video/embedded_video.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/embedded_video/testing/testing.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/feed_aggregator/feed_aggregator.ecf svneol=native#text/xml
