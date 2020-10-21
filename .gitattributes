@@ -3713,7 +3713,6 @@ Src/framework/threading/threading.lic -text
 Src/framework/update_manager/testing/eiffel_download_config.json -text
 Src/framework/update_manager/testing/test.ecf svneol=native#text/xml
 Src/framework/update_manager/update_manager.ecf svneol=native#text/xml
-Src/framework/uri_launcher/uri_launcher.lic -text
 Src/framework/web/xebra/c_projects/apache_mod_xebra/mod_xebra.so -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler/XCookieBakery.cs -text
 Src/framework/web/xebra/c_projects/iis_xebra_handler/Xebra.suo -text
@@ -4145,6 +4144,9 @@ Src/library/ribbon/test/src/ribbon_project.er -text
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.docx -text
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.pdf -text svneol=unset#application/pdf
 Src/library/runtime/logging/doc/Arch_Design_and_Impl.vsd -text
+Src/library/runtime/process/uri_launcher/uri_launcher-safe.lic -text
+Src/library/runtime/process/uri_launcher/uri_launcher.ecf svneol=native#text/xml
+Src/library/runtime/process/uri_launcher/uri_launcher.lic -text
 Src/library/store/all_store.ecf svneol=native#text/xml
 Src/library/store/dbms/rdbms/mysql/Clib/build.eant svneol=native#text/xml
 Src/library/store/test/eiffel_store/eiffel_store_tests.ecf svneol=native#text/xml
