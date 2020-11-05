@@ -4174,6 +4174,7 @@ Src/library/wel/tests/graphics/24bpp.bmp -text
 Src/library/wel/tests/graphics/32bpp.bmp -text
 Src/library/wizard/help/Clib/htmlhelp.lib -text
 Src/unstable/library/base2/todo -text
+Src/unstable/library/base_extension/structure/graph/doc/olivier_jeger_extending_EiffelBase_final.pdf -text svneol=unset#unset
 Src/unstable/library/compression/bzip2/Readme.txt -text
 Src/unstable/library/compression/zlib/Readme.txt -text
 Src/unstable/library/compression/zlib/example/basic_functions/basic_functions.ecf svneol=native#text/xml
