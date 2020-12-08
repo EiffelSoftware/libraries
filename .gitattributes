@@ -4345,6 +4345,9 @@ Src/unstable/library/web/cms/modules/google_search_20/google_search_20.ecf svneo
 Src/unstable/library/web/cms/modules/google_search_20/site/config/google_search_20.json-dist -text
 Src/unstable/library/web/cms/modules/google_search_20/site/files/css/gcse.css -text
 Src/unstable/library/web/cms/modules/google_search_20/site/files/scss/gcse.scss -text
+Src/unstable/library/web/cms/modules/jwt_auth/jwt_auth.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/jwt_auth/site/config/config.ini -text
+Src/unstable/library/web/cms/modules/jwt_auth/site/scripts/install.sql -text
 Src/unstable/library/web/cms/modules/messaging/messaging.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/messaging/site/files/scss/messaging.scss -text
 Src/unstable/library/web/cms/modules/node/node.ecf svneol=native#text/xml
