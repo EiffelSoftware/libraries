@@ -3522,6 +3522,7 @@ Src/examples/vision2/rich_text/icon_save_color.png -text
 Src/examples/vision2/rich_text/italic.png -text
 Src/examples/vision2/rich_text/justified.png -text
 Src/examples/vision2/rich_text/left_alignment.png -text
+Src/examples/vision2/rich_text/rich_text_printer/rich_text_printer.ecf svneol=native#text/xml
 Src/examples/vision2/rich_text/right_alignment.png -text
 Src/examples/vision2/rich_text/strike.png -text
 Src/examples/vision2/rich_text/underline.png -text
