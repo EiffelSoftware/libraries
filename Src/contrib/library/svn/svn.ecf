@@ -20,7 +20,9 @@
 		<cluster name="svn" location=".\" recursive="true">
 			<file_rule>
 				<exclude>/tests$</exclude>
+				<exclude>/implementation$</exclude>
 			</file_rule>
+			<cluster name="implementation" location="$|implementation\" recursive="true" hidden="true"/>
 		</cluster>
 	</target>
 </system>
