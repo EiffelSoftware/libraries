@@ -1,4 +1,4 @@
-﻿note
+note
 	description: "[
 		Objects representing delayed calls to a function,
 		with some arguments possibly still open.
@@ -110,7 +110,7 @@ feature -- Extended operations
 				Result := item (x)
 			else
 				check
-					attached {OPEN_ARGS} ({ISE_RUNTIME}.new_tuple_instance_of (({OPEN_ARGS}).type_id)) as x
+					from_precondition: attached {OPEN_ARGS} ({ISE_RUNTIME}.new_tuple_instance_of (({OPEN_ARGS}).type_id)) as x
 				then
 					if a.object_comparison then
 						x.compare_objects
