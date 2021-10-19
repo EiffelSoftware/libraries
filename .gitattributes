@@ -4333,6 +4333,8 @@ Src/unstable/library/web/cms/modules/basic_auth/basic_auth.ecf svneol=native#tex
 Src/unstable/library/web/cms/modules/blog/cms_blog_module.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/comments/comments.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/contact/contact.ecf svneol=native#text/xml
+Src/unstable/library/web/cms/modules/core/site/scripts/update/core-1_0_0_0-1_0_0_1.sql -text
+Src/unstable/library/web/cms/modules/core/site/scripts/update/core-1_0_0_1-1_1_0_1.sql -text
 Src/unstable/library/web/cms/modules/core/site/scripts/user_profile.sql -text
 Src/unstable/library/web/cms/modules/custom_block/custom_block.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/custom_block/site/files/css/style.css -text
