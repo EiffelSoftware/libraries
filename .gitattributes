@@ -18,6 +18,7 @@ Src/C_library/curl/README -text
 Src/C_library/curl/RELEASE-NOTES -text
 Src/C_library/curl/acinclude.m4 -text
 Src/C_library/curl/aclocal.m4 -text
+Src/C_library/curl/build.eant svneol=native#text/xml
 Src/C_library/curl/buildconf -text
 Src/C_library/curl/clibs_libcurl.ecf svneol=native#text/xml
 Src/C_library/curl/compile -text
