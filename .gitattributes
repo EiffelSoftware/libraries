@@ -4196,6 +4196,8 @@ Src/unstable/library/compression/zlib/spec/win64/lib/msc/zlibstat.lib -text
 Src/unstable/library/compression/zlib/spec/windows/lib/msc/zlibstat.lib -text
 Src/unstable/library/compression/zlib/testing/index.html -text
 Src/unstable/library/dotnet/il_emitter.ecf svneol=native#text/xml
+Src/unstable/library/dotnet/il_emitter/il_emitter.ecf svneol=native#text/xml
+Src/unstable/library/dotnet/il_emitter/testing/test.ecf svneol=native#text/xml
 Src/unstable/library/network/openssl/license.lic -text
 Src/unstable/library/network/openssl/openssl.ecf svneol=native#text/xml
 Src/unstable/library/network/openssl/openssl_dynamic.ecf svneol=native#text/xml
