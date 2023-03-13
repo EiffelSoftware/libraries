@@ -5339,6 +5339,8 @@ Src/library/gobo/gobo_lexical_skl.ecf svneol=native#text/xml
 Src/library/gobo/gobo_parse_skl.ecf svneol=native#text/xml
 Src/library/gobo/gobo_xpath.ecf svneol=native#text/xml
 Src/library/gobo/gobo_xslt.ecf svneol=native#text/xml
+Src/library/gobo/src/gecc.ecf svneol=native#text/xml
+Src/library/gobo/src/gedoc.ecf svneol=native#text/xml
 Src/library/gobo/src/geimage.ecf svneol=native#text/xml
 Src/library/i18n/README -text
 Src/library/i18n/TODO -text
