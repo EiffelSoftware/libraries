@@ -5128,6 +5128,7 @@ Src/framework/base64/base64-safe.lic -text
 Src/framework/base64/base64.lic -text
 Src/framework/base64/tests/tests.lic -text
 Src/framework/cli_debugger/cli_debugger.lic -text
+Src/framework/cli_emitter/cli_emitter.ecf svneol=native#text/xml
 Src/framework/cli_writer/cli_writer.lic -text
 Src/framework/cli_writer/cli_writer_clib.ecf svneol=native#text/xml
 Src/framework/code_analysis/tests/rules/001_self_assignment/output_oracle.txt -text
