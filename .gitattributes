@@ -5150,11 +5150,11 @@ Src/framework/configuration/versioning/configuration-1-0-0.xsd -text
 Src/framework/configuration/versioning/configuration-1-2-0.xsd -text
 Src/framework/configuration/versioning/configuration-1-3-0.xsd -text
 Src/framework/configuration/versioning/schemas.xml svneol=native#text/xml
+Src/framework/dotnet/cli_kernel/cli_kernel.ecf svneol=native#text/xml
 Src/framework/dotnet/il_emitter/Clib/build.eant svneol=native#text/xml
 Src/framework/dotnet/il_emitter/build.eant svneol=native#text/xml
 Src/framework/dotnet/il_emitter/il_emitter.ecf svneol=native#text/xml
 Src/framework/dotnet/il_emitter/testing/test.ecf svneol=native#text/xml
-Src/framework/dotnet/il_metadata/il_metadata.ecf svneol=native#text/xml
 Src/framework/dotnet_hostfxr/Clib/build.eant svneol=native#text/xml
 Src/framework/dotnet_hostfxr/Clib/dotnet-config -text
 Src/framework/dotnet_hostfxr/dotnet_hostfxr.ecf svneol=native#text/xml
