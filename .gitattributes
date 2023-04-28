@@ -5131,6 +5131,7 @@ Src/framework/cli_debugger/cli_debugger.lic -text
 Src/framework/cli_emitter/cli_emitter.ecf svneol=native#text/xml
 Src/framework/cli_writer/cli_writer.lic -text
 Src/framework/cli_writer/cli_writer_clib.ecf svneol=native#text/xml
+Src/framework/cli_writer/tests/cli_writer_test.dbg.profiles.xml svneol=native#text/xml
 Src/framework/cli_writer/tests/test.ecf svneol=native#text/xml
 Src/framework/code_analysis/tests/rules/001_self_assignment/output_oracle.txt -text
 Src/framework/code_analysis/tests/rules/002_unused_argument/output_oracle.txt -text
