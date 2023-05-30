@@ -5156,6 +5156,8 @@ Src/framework/dotnet/cli_kernel/cli_kernel.ecf svneol=native#text/xml
 Src/framework/dotnet/il_emitter/Clib/build.eant svneol=native#text/xml
 Src/framework/dotnet/il_emitter/build.eant svneol=native#text/xml
 Src/framework/dotnet/il_emitter/il_emitter.ecf svneol=native#text/xml
+Src/framework/dotnet/il_emitter/testing/cs/interface/Program.cs -text
+Src/framework/dotnet/il_emitter/testing/cs/interface/interface.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/net_sample/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/net_sample/net_sample.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/properties/Program.cs -text
