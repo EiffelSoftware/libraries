@@ -5166,6 +5166,7 @@ Src/framework/dotnet/il_emitter/testing/cs/property_access/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/property_access/property_access.csproj -text
 Src/framework/dotnet/il_emitter/testing/il_emitter_test.dbg.profiles.xml svneol=native#text/xml
 Src/framework/dotnet/il_emitter/testing/test.ecf svneol=native#text/xml
+Src/framework/dotnet/il_emitter/testing/test_interface.deps -text
 Src/framework/dotnet/il_emitter/testing/test_main_net6.deps.json -text
 Src/framework/dotnet/il_emitter/testing/test_main_net6.runtimeconfig.json -text
 Src/framework/dotnet/il_emitter/testing/test_property_access.deps -text
