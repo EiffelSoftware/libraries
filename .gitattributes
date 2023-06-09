@@ -5156,6 +5156,8 @@ Src/framework/dotnet/cli_kernel/cli_kernel.ecf svneol=native#text/xml
 Src/framework/dotnet/il_emitter/Clib/build.eant svneol=native#text/xml
 Src/framework/dotnet/il_emitter/build.eant svneol=native#text/xml
 Src/framework/dotnet/il_emitter/il_emitter.ecf svneol=native#text/xml
+Src/framework/dotnet/il_emitter/testing/app.deps -text
+Src/framework/dotnet/il_emitter/testing/app.runtimeconfig.json -text
 Src/framework/dotnet/il_emitter/testing/cs/interface/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/interface/interface.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/net_sample/Program.cs -text
@@ -5166,7 +5168,12 @@ Src/framework/dotnet/il_emitter/testing/cs/property_access/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/property_access/property_access.csproj -text
 Src/framework/dotnet/il_emitter/testing/il_emitter_test.dbg.profiles.xml svneol=native#text/xml
 Src/framework/dotnet/il_emitter/testing/test.ecf svneol=native#text/xml
+Src/framework/dotnet/il_emitter/testing/test_ast_process.deps.json -text
+Src/framework/dotnet/il_emitter/testing/test_ast_process.runtimeconfig.json -text
+Src/framework/dotnet/il_emitter/testing/test_implementation.deps.json -text
+Src/framework/dotnet/il_emitter/testing/test_implementation.runtimeconfig.json -text
 Src/framework/dotnet/il_emitter/testing/test_interface.deps -text
+Src/framework/dotnet/il_emitter/testing/test_interface.runtimeconfig.json -text
 Src/framework/dotnet/il_emitter/testing/test_main_net6.deps.json -text
 Src/framework/dotnet/il_emitter/testing/test_main_net6.runtimeconfig.json -text
 Src/framework/dotnet/il_emitter/testing/test_property_access.deps -text
