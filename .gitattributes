@@ -5159,6 +5159,8 @@ Src/framework/dotnet/il_emitter/il_emitter.ecf svneol=native#text/xml
 Src/framework/dotnet/il_emitter/testing/app.deps -text
 Src/framework/dotnet/il_emitter/testing/app.deps.json -text
 Src/framework/dotnet/il_emitter/testing/app.runtimeconfig.json -text
+Src/framework/dotnet/il_emitter/testing/cs/basic_interface/Program.cs -text
+Src/framework/dotnet/il_emitter/testing/cs/basic_interface/basic_interface.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/inheritance/Dog.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/inheritance/inheritance.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/interface/Program.cs -text
