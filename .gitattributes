@@ -5157,7 +5157,10 @@ Src/framework/dotnet/il_emitter/Clib/build.eant svneol=native#text/xml
 Src/framework/dotnet/il_emitter/build.eant svneol=native#text/xml
 Src/framework/dotnet/il_emitter/il_emitter.ecf svneol=native#text/xml
 Src/framework/dotnet/il_emitter/testing/app.deps -text
+Src/framework/dotnet/il_emitter/testing/app.deps.json -text
 Src/framework/dotnet/il_emitter/testing/app.runtimeconfig.json -text
+Src/framework/dotnet/il_emitter/testing/cs/inheritance/Dog.cs -text
+Src/framework/dotnet/il_emitter/testing/cs/inheritance/inheritance.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/interface/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/interface/interface.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/net_sample/Program.cs -text
@@ -5172,6 +5175,8 @@ Src/framework/dotnet/il_emitter/testing/test_ast_process.deps.json -text
 Src/framework/dotnet/il_emitter/testing/test_ast_process.runtimeconfig.json -text
 Src/framework/dotnet/il_emitter/testing/test_implementation.deps.json -text
 Src/framework/dotnet/il_emitter/testing/test_implementation.runtimeconfig.json -text
+Src/framework/dotnet/il_emitter/testing/test_inheritance.deps.json -text
+Src/framework/dotnet/il_emitter/testing/test_inheritance.runtimeconfig.json -text
 Src/framework/dotnet/il_emitter/testing/test_interface.deps -text
 Src/framework/dotnet/il_emitter/testing/test_interface.runtimeconfig.json -text
 Src/framework/dotnet/il_emitter/testing/test_main_net6.deps.json -text
