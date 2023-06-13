@@ -5161,6 +5161,8 @@ Src/framework/dotnet/il_emitter/testing/app.deps.json -text
 Src/framework/dotnet/il_emitter/testing/app.runtimeconfig.json -text
 Src/framework/dotnet/il_emitter/testing/cs/basic_interface/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/basic_interface/basic_interface.csproj -text
+Src/framework/dotnet/il_emitter/testing/cs/class/Class.cs -text
+Src/framework/dotnet/il_emitter/testing/cs/class/class.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/inheritance/Dog.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/inheritance/inheritance.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/interface/Program.cs -text
