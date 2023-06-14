@@ -5169,6 +5169,8 @@ Src/framework/dotnet/il_emitter/testing/cs/interface/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/interface/interface.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/net_sample/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/net_sample/net_sample.csproj -text
+Src/framework/dotnet/il_emitter/testing/cs/params/Program.cs -text
+Src/framework/dotnet/il_emitter/testing/cs/params/params.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/properties/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/properties/properties.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/property_access/Program.cs -text
