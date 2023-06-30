@@ -5159,6 +5159,8 @@ Src/framework/dotnet/il_emitter/il_emitter.ecf svneol=native#text/xml
 Src/framework/dotnet/il_emitter/testing/app.deps -text
 Src/framework/dotnet/il_emitter/testing/app.deps.json -text
 Src/framework/dotnet/il_emitter/testing/app.runtimeconfig.json -text
+Src/framework/dotnet/il_emitter/testing/cs/assembly2/B.cs -text
+Src/framework/dotnet/il_emitter/testing/cs/assembly2/assembly2.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/basic_interface/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/basic_interface/basic_interface.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/class/Class.cs -text
@@ -5167,6 +5169,8 @@ Src/framework/dotnet/il_emitter/testing/cs/inheritance/Dog.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/inheritance/inheritance.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/interface/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/interface/interface.csproj -text
+Src/framework/dotnet/il_emitter/testing/cs/multi_assemblies/Program.cs -text
+Src/framework/dotnet/il_emitter/testing/cs/multi_assemblies/multi_assemblies.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/net_sample/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/net_sample/net_sample.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/params/Program.cs -text
