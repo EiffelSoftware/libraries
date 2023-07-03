@@ -5161,6 +5161,8 @@ Src/framework/dotnet/il_emitter/testing/app.deps.json -text
 Src/framework/dotnet/il_emitter/testing/app.runtimeconfig.json -text
 Src/framework/dotnet/il_emitter/testing/cs/assembly2/B.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/assembly2/assembly2.csproj -text
+Src/framework/dotnet/il_emitter/testing/cs/assembly3/C.cs -text
+Src/framework/dotnet/il_emitter/testing/cs/assembly3/assembly3.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/basic_interface/Program.cs -text
 Src/framework/dotnet/il_emitter/testing/cs/basic_interface/basic_interface.csproj -text
 Src/framework/dotnet/il_emitter/testing/cs/class/Class.cs -text
