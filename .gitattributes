@@ -5215,6 +5215,7 @@ Src/framework/gui_testing/gui_testing.lic -text
 Src/framework/interface_names/interface_names.lic -text
 Src/framework/iron/api/license.lic -text
 Src/framework/mini_base/license.lic -text
+Src/framework/mini_base/netcore_base.ecf svneol=native#text/xml
 Src/framework/parser/parser.lic -text
 Src/framework/parser_extension/parser_extension.lic -text
 Src/framework/peg/peg.ecf svneol=native#text/xml
