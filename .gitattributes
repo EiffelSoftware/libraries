@@ -5371,7 +5371,6 @@ Src/library/base/elks/structures/cursors/special_iteration_cursor.e svneol=nativ
 Src/library/base/elks/structures/cursors/string_32_iteration_cursor.e svneol=native#text/plain
 Src/library/base/elks/structures/cursors/string_8_iteration_cursor.e svneol=native#text/plain
 Src/library/base/elks/structures/cursors/typed_indexable_iteration_cursor.e svneol=native#text/plain
-Src/library/base/netcore_base.ecf svneol=native#text/xml
 Src/library/base/test/license.lic -text
 Src/library/base/testing/license.lic -text
 Src/library/editor/bitmaps/copy_selection.png -text
