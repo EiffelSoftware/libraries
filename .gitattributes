@@ -4632,6 +4632,7 @@ Src/contrib/library/graphic/toolkit/wex/examples/wex/Framework_example/TOOLBAR.B
 Src/contrib/library/graphic/toolkit/wex/examples/wex/Framework_example/app.ico svneol=native#unset
 Src/contrib/library/graphic/toolkit/wex/examples/wex/MCI_Splash/APP.ICO svneol=native#unset
 Src/contrib/library/network/authentication/http_authorization/http_authorization.ecf svneol=native#text/xml
+Src/contrib/library/network/http_client/curl_http_client.ecf svneol=native#text/xml
 Src/contrib/library/network/http_client/libcurl_http_client.ecf svneol=native#text/xml
 Src/contrib/library/network/http_client/net_http_client.ecf svneol=native#text/xml
 Src/contrib/library/network/http_client/tests/client.p12 -text
