@@ -18,6 +18,7 @@ Src/C_library/openssl/crypto/ripemd/asm/*.asm
 Src/C_library/openssl/crypto/ripemd/asm/*.obj
 Src/C_library/openssl/crypto/sha/asm/*.asm
 Src/C_library/openssl/crypto/sha/asm/*.obj
+Src/C_library/openssl/util/dirname
 Src/C_library/zlib/example.exe
 Src/C_library/zlib/example_d.exe
 Src/C_library/zlib/minigzip.exe
