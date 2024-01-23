@@ -384,6 +384,8 @@ Src/C_library/openssl/VMS/openssl_startup.com.in -text
 Src/C_library/openssl/VMS/openssl_utils.com.in -text
 Src/C_library/openssl/VMS/test-includes.com -text
 Src/C_library/openssl/VMS/translatesyms.pl -text
+Src/C_library/openssl/apps/ct_log_list.cnf -text
+Src/C_library/openssl/apps/openssl.cnf -text
 Src/C_library/openssl/build.eant svneol=native#text/xml
 Src/C_library/openssl/build.info -text
 Src/C_library/openssl/clibs_openssl.ecf svneol=native#text/xml
