@@ -384,8 +384,6 @@ Src/C_library/openssl/VMS/openssl_startup.com.in -text
 Src/C_library/openssl/VMS/openssl_utils.com.in -text
 Src/C_library/openssl/VMS/test-includes.com -text
 Src/C_library/openssl/VMS/translatesyms.pl -text
-Src/C_library/openssl/apps/ct_log_list.cnf -text
-Src/C_library/openssl/apps/openssl.cnf -text
 Src/C_library/openssl/build.eant svneol=native#text/xml
 Src/C_library/openssl/build.info -text
 Src/C_library/openssl/clibs_openssl.ecf svneol=native#text/xml
@@ -686,14 +684,6 @@ Src/C_library/openssl/crypto/whrlpool/build.info -text
 Src/C_library/openssl/crypto/x509/build.info -text
 Src/C_library/openssl/crypto/x86_64cpuid.pl -text
 Src/C_library/openssl/crypto/x86cpuid.pl -text
-Src/C_library/openssl/engines/asm/e_padlock-x86.pl -text
-Src/C_library/openssl/engines/asm/e_padlock-x86_64.pl -text
-Src/C_library/openssl/engines/build.info -text
-Src/C_library/openssl/engines/e_afalg.ec -text
-Src/C_library/openssl/engines/e_capi.ec -text
-Src/C_library/openssl/engines/e_dasync.ec -text
-Src/C_library/openssl/engines/e_loader_attic.ec -text
-Src/C_library/openssl/engines/e_ossltest.ec -text
 Src/C_library/openssl/external/perl/Text-Template-1.56/Changes -text
 Src/C_library/openssl/external/perl/Text-Template-1.56/INSTALL -text
 Src/C_library/openssl/external/perl/Text-Template-1.56/LICENSE -text
