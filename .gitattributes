@@ -5796,6 +5796,7 @@ Src/library/runtime/process/uri_launcher/uri_launcher.ecf svneol=native#text/xml
 Src/library/runtime/process/uri_launcher/uri_launcher.lic -text
 Src/library/store/all_store.ecf svneol=native#text/xml
 Src/library/store/dbms/rdbms/mysql/Clib/build.eant svneol=native#text/xml
+Src/library/store/dbms/rdbms/mysql/Clib/mysql-config -text
 Src/library/store/test/eiffel_store/eiffel_store_tests.ecf svneol=native#text/xml
 Src/library/store/test/test.ecf svneol=native#text/xml
 Src/library/store/test/test_results/oracle_results -text
