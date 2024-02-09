@@ -1,5 +1,6 @@
 /.git
 Src/C_library/curl/lib/release-dll-ssl-dll
+Src/C_library/openssl/builds
 Src/C_library/openssl/crypto/bf/asm/*.asm
 Src/C_library/openssl/crypto/bf/asm/*.obj
 Src/C_library/openssl/crypto/bn/asm/*.asm
