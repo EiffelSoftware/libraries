@@ -6006,7 +6006,7 @@ Src/unstable/library/web/cms/modules/jwt_auth/site/config/config.ini -text
 Src/unstable/library/web/cms/modules/jwt_auth/site/scripts/install-1_0.sql -text
 Src/unstable/library/web/cms/modules/jwt_auth/site/scripts/install-1_1.sql -text
 Src/unstable/library/web/cms/modules/jwt_auth/site/scripts/install.sql -text
-Src/unstable/library/web/cms/modules/jwt_auth/site/scripts/update/update-1_0-1_1.sql -text
+Src/unstable/library/web/cms/modules/jwt_auth/site/scripts/update/jwt_auth-1_0-1_1.sql -text
 Src/unstable/library/web/cms/modules/messaging/messaging.ecf svneol=native#text/xml
 Src/unstable/library/web/cms/modules/messaging/site/files/scss/messaging.scss -text
 Src/unstable/library/web/cms/modules/node/node.ecf svneol=native#text/xml
