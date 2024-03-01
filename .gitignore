@@ -79,6 +79,7 @@ Src/framework/code_analysis/void_safe_tests/*.log
 Src/framework/code_analysis/void_safe_tests/EIFGENs
 Src/framework/code_analysis/void_safe_tests/log.txt
 Src/framework/code_analysis/void_safe_tests/test_output.txt
+Src/framework/dotnet/EIFGENS
 Src/framework/dotnet/il_emitter/testing/obj
 Src/framework/dotnet/il_emitter/testing/output
 Src/framework/parser/parser/output.txt
