@@ -63,8 +63,8 @@ Src/examples/vision2/widget_test/interface/gb_table_positioner_imp.e
 Src/examples/vision2/widget_test/interface/gb_widget_utilities.e
 Src/examples/vision2/widget_test/interface/ordered_string_handler.e
 Src/examples/vision2/widget_test/templates
-Src/framework/cli_debugger/Clib/OBJ
-Src/framework/cli_debugger/spec
+Src/framework/cli_debugger/framework/Clib/OBJ
+Src/framework/cli_debugger/framework/spec
 Src/framework/cli_writer/*.rc
 Src/framework/cli_writer/Clib/*.lib
 Src/framework/cli_writer/Clib/*.obj
