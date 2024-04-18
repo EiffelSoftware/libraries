@@ -141,9 +141,6 @@ Src/C_library/curl/src/.checksrc -text
 Src/C_library/curl/src/curl.rc -text
 Src/C_library/curl/src/mkhelp.pl -text
 Src/C_library/curl/test-driver -text
-Src/C_library/curl/winbuild/CURL_OBJS.inc -text
-Src/C_library/curl/winbuild/LIBCURL_OBJS.inc -text
-Src/C_library/curl/winbuild/vc140.idb -text
 Src/C_library/libpng/arm/filter_neon.S -text
 Src/C_library/libpng/clibs_libpng.ecf svneol=native#text/xml
 Src/C_library/libpng/configure -text
