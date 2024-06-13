@@ -4868,6 +4868,8 @@ Src/contrib/library/text/parser/json/test/autotest/test_suite/data/pass3.json -t
 Src/contrib/library/text/parser/json/test/autotest/test_suite/test_suite.ecf -text svneol=native#application/xml
 Src/contrib/library/text/parser/microdata/testing/testing.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/uri_template/tests/tests.ecf svneol=native#text/xml
+Src/contrib/library/text/parser/wikitext/examples/assets/wiki.png -text
+Src/contrib/library/text/parser/wikitext/examples/demo.ecf svneol=native#text/xml
 Src/contrib/library/text/parser/wikitext/tests/tests.ecf svneol=native#text/xml
 Src/contrib/library/utility/archive/etar/LICENSE -text
 Src/contrib/library/utility/archive/etar/doc/archive.png -text
